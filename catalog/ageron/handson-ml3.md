@@ -81,9 +81,7 @@ A collection of Jupyter notebooks teaching machine learning and deep learning fu
   ],
   "repository_type": "collection",
   "capabilities": [
-    "model-training",
-    "education",
-    "data-evaluation"
+    "education"
   ],
   "technologies": [
     "Jupyter Notebook",
