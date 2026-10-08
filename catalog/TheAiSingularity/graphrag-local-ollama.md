@@ -38,3 +38,64 @@ Local models support for Microsoft's graphrag using ollama (llama3, mistral, gem
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A local-model adaptation of Microsoft's GraphRAG that uses Ollama for LLM and embedding extraction to build knowledge-graph-based indexes and answer questions over document collections. It includes a browser-based web UI for indexing, querying, and graph visualization.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "dca4336a59932e8923c2b6e3d3182d3c72307af3814dd58b40693b985bf2d387"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning",
+    "data-engineering"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "question-answering",
+    "indexing",
+    "inference-serving",
+    "information-extraction",
+    "search-retrieval"
+  ],
+  "technologies": [
+    "Python",
+    "Ollama",
+    "Microsoft GraphRAG",
+    "llama3",
+    "mistral",
+    "gemma2",
+    "phi3"
+  ],
+  "summary": "A local-model adaptation of Microsoft's GraphRAG that uses Ollama for LLM and embedding extraction to build knowledge-graph-based indexes and answer questions over document collections. It includes a browser-based web UI for indexing, querying, and graph visualization.",
+  "use_cases": [
+    "Running GraphRAG pipelines without paid OpenAI API access",
+    "Querying private document corpora with global sensemaking questions",
+    "Visualizing entity knowledge graphs built from source documents"
+  ],
+  "limitations": [
+    "Relies on a local Ollama installation and locally hosted models",
+    "README excerpt is incomplete; full feature list and setup details are not verified here"
+  ],
+  "suggested_terms": [
+    "GraphRAG local",
+    "Ollama RAG",
+    "knowledge graph LLM",
+    "local LLM embeddings",
+    "graph-based retrieval"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

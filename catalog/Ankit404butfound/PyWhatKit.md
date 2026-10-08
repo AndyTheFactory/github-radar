@@ -67,3 +67,57 @@ Send WhatsApp message at certain time and many other things.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times. It also includes features such as converting images to ASCII art, converting strings to handwriting, and sending HTML emails.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "2635dfaa1d3f01780afd8c9b22a0633a9bc0711b5cd0f1448529a87240f73f0c"
+  },
+  "primary_domain": "applications",
+  "secondary_domains": [
+    "productivity",
+    "developer-tools"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "api-integration",
+    "automation",
+    "media-editing"
+  ],
+  "technologies": [
+    "Python"
+  ],
+  "summary": "PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times. It also includes features such as converting images to ASCII art, converting strings to handwriting, and sending HTML emails.",
+  "use_cases": [
+    "Scheduling WhatsApp messages to contacts or groups",
+    "Automating YouTube video playback from Python scripts",
+    "Converting images to ASCII art"
+  ],
+  "limitations": [
+    "The maintainer reports limited capacity to address issues and is seeking collaborators",
+    "Commercial use requires contacting the maintainer",
+    "Remote control feature is documented as Windows-only"
+  ],
+  "suggested_terms": [
+    "whatsapp automation python",
+    "pywhatkit",
+    "youtube automation python",
+    "send whatsapp message schedule",
+    "python ascii art"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

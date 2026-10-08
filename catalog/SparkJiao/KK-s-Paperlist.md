@@ -52,3 +52,53 @@ A list of papers for machine learning, reinforcement learning, NLP or something 
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A curated list of academic papers on machine learning, reinforcement learning, NLP, and related topics, organized by subject such as language models, machine reading comprehension, and dialog systems. The README excerpt shows a table of contents with topics including benchmarks, toolkits, and graph neural networks.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "034a3383b5a7dfd3386ed3299cc009af8880d83283a8752d29e3c87f2d898b48"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "classification",
+    "question-answering",
+    "information-extraction"
+  ],
+  "technologies": [],
+  "summary": "A curated list of academic papers on machine learning, reinforcement learning, NLP, and related topics, organized by subject such as language models, machine reading comprehension, and dialog systems. The README excerpt shows a table of contents with topics including benchmarks, toolkits, and graph neural networks.",
+  "use_cases": [
+    "Finding research papers on specific NLP or ML subtopics",
+    "Surveying literature on language models and question answering"
+  ],
+  "limitations": [
+    "Excerpt shows only the table of contents; full paper list not reviewed",
+    "No code or tooling is documented",
+    "Paper quality and accuracy of listings are not verified"
+  ],
+  "suggested_terms": [
+    "paper list",
+    "NLP papers",
+    "reinforcement learning papers",
+    "machine reading comprehension",
+    "language models"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

@@ -46,3 +46,66 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+LibreChat is an open-source, self-hostable ChatGPT-style web interface supporting multiple AI model providers. Its README describes features including agents, MCP, artifacts, file search, code interpreter, OpenAPI actions, and multi-user authentication.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "c9f9c9a2083d86442206a64bef51e38717b676938b97e2bd9927c3877b0340f9"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools",
+    "productivity"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "inference-serving",
+    "api-integration",
+    "code-generation",
+    "document-processing",
+    "authentication"
+  ],
+  "technologies": [
+    "TypeScript",
+    "OpenAI API",
+    "Anthropic API",
+    "Azure",
+    "AWS",
+    "Gemini",
+    "Model Context Protocol (MCP)",
+    "LangChain"
+  ],
+  "summary": "LibreChat is an open-source, self-hostable ChatGPT-style web interface supporting multiple AI model providers. Its README describes features including agents, MCP, artifacts, file search, code interpreter, OpenAPI actions, and multi-user authentication.",
+  "use_cases": [
+    "Self-hosting a multi-provider chat interface for teams",
+    "Running AI agents with tool access and file attachments",
+    "Integrating LLM providers behind a single web UI"
+  ],
+  "limitations": [
+    "Features described in the README excerpt are not independently verified",
+    "Some capabilities, such as attached workspaces, are marked experimental or beta",
+    "Feature list is drawn from a truncated README excerpt"
+  ],
+  "suggested_terms": [
+    "chatgpt clone",
+    "self-hosted llm ui",
+    "mcp client",
+    "llm agents",
+    "multi-provider chat"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

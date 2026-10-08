@@ -71,3 +71,59 @@ A model library for exploring state-of-the-art deep learning topologies and tech
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and Understanding models. It provides core NLP models, trainable command-line tools, and a Python inference API. The repository is archived and Intel has discontinued maintenance due to known security issues.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "0935b18dc63c7a5d730fffb0e0585758cf08b6b2d7f866a31de7d6d6dcc63a2a"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "model-training",
+    "inference-serving",
+    "benchmarking"
+  ],
+  "technologies": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "DyNet"
+  ],
+  "summary": "NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and Understanding models. It provides core NLP models, trainable command-line tools, and a Python inference API. The repository is archived and Intel has discontinued maintenance due to known security issues.",
+  "use_cases": [
+    "Training and running NLP models from the command line",
+    "Using pre-built NLP models for inference in Python",
+    "Exploring optimized NLP/NLU model techniques"
+  ],
+  "limitations": [
+    "Archived and no longer maintained by Intel",
+    "Known security escapes reported; no patches accepted",
+    "Requires Python 3.6+ and specific framework dependencies"
+  ],
+  "suggested_terms": [
+    "nlp library",
+    "named entity recognition",
+    "quantization nlp",
+    "nlu models",
+    "dynet pytorch tensorflow"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

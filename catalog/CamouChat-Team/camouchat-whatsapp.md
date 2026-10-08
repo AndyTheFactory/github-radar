@@ -81,3 +81,64 @@ WhatsApp plugin for camouchat.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A Python plugin for the CamouChat ecosystem that automates WhatsApp Web via the wa-js internal API, running multiple isolated browser profiles. It stores messages encrypted at rest with AES-256-GCM and requires a separate Camoufox binary fetch after installation.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "19812f0c6770fcb3c9a1ace82ab6d67012208b911933528e7b22e939cf08765f"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "security"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "automation",
+    "api-integration",
+    "authentication",
+    "storage"
+  ],
+  "technologies": [
+    "Python",
+    "asyncio",
+    "Camoufox",
+    "WA-JS",
+    "SQLAlchemy",
+    "pytest",
+    "AES-256-GCM",
+    "uv"
+  ],
+  "summary": "A Python plugin for the CamouChat ecosystem that automates WhatsApp Web via the wa-js internal API, running multiple isolated browser profiles. It stores messages encrypted at rest with AES-256-GCM and requires a separate Camoufox binary fetch after installation.",
+  "use_cases": [
+    "Automating multi-account WhatsApp Web workflows in isolated browser profiles",
+    "Storing WhatsApp messages with encryption at rest",
+    "Building asyncio-based WhatsApp automation pipelines"
+  ],
+  "limitations": [
+    "Requires a separate one-time Camoufox browser binary fetch after installation",
+    "Depends on the underlying camouchat-browser and WA-JS components and the main CamouChat ecosystem",
+    "Relies on WhatsApp Web's internal API, which may change without notice"
+  ],
+  "suggested_terms": [
+    "whatsapp automation python",
+    "camoufox whatsapp",
+    "wa-js python",
+    "multi-account browser automation",
+    "encrypted message storage"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

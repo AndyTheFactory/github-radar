@@ -1,17 +1,10 @@
 # Catalog
 
-**48 repositories archived.**
+**41 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
 - [AdArya125/Primer-to-Machine-Learning](catalog/AdArya125/Primer-to-Machine-Learning.md)
-- [AndyTheFactory/article-extraction-dataset](catalog/AndyTheFactory/article-extraction-dataset.md)
-- [AndyTheFactory/FakeNewsDataset](catalog/AndyTheFactory/FakeNewsDataset.md)
-- [AndyTheFactory/gcp-pmle-quiz](catalog/AndyTheFactory/gcp-pmle-quiz.md)
-- [AndyTheFactory/newspaper4k](catalog/AndyTheFactory/newspaper4k.md)
-- [AndyTheFactory/proprietati_game](catalog/AndyTheFactory/proprietati_game.md)
-- [AndyTheFactory/py-homebox](catalog/AndyTheFactory/py-homebox.md)
-- [AndyTheFactory/romanian-nlp-datasets](catalog/AndyTheFactory/romanian-nlp-datasets.md)
 - [Ankit404butfound/PyWhatKit](catalog/Ankit404butfound/PyWhatKit.md)
 - [Avaiga/taipy](catalog/Avaiga/taipy.md)
 - [awesomedata/awesome-public-datasets](catalog/awesomedata/awesome-public-datasets.md)

@@ -39,3 +39,59 @@ archived: false
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing, supervised and unsupervised learning, neural networks, NLP, time series analysis, and reinforcement learning. It is described as aimed at beginners and intermediate learners. The repository is MIT licensed and not archived.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "f738a8a7ffb8c3c53cc9c6c545e6984165cd7eaeb93d13bb960ea35dd6bf0901"
+  },
+  "primary_domain": "research-learning",
+  "secondary_domains": [
+    "ai-ml",
+    "data-engineering"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "education",
+    "data-transformation",
+    "model-training",
+    "classification",
+    "data-evaluation"
+  ],
+  "technologies": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "summary": "A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing, supervised and unsupervised learning, neural networks, NLP, time series analysis, and reinforcement learning. It is described as aimed at beginners and intermediate learners. The repository is MIT licensed and not archived.",
+  "use_cases": [
+    "Learning machine learning fundamentals through structured notebooks",
+    "Reviewing statistics and data preprocessing techniques for ML",
+    "Exploring supervised, unsupervised, and reinforcement learning examples"
+  ],
+  "limitations": [
+    "Content accuracy and completeness are not verified in this metadata",
+    "Tutorial-focused rather than a production library or framework"
+  ],
+  "suggested_terms": [
+    "machine learning primer",
+    "ML tutorial notebooks",
+    "machine learning roadmap",
+    "data science learning",
+    "neural networks jupyter"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

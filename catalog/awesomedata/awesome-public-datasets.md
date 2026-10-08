@@ -57,3 +57,58 @@ A topic-centric list of HQ open datasets.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata. The repository is auto-generated and lists datasets collected from blogs, answers, and user responses, many of which are free but some of which are not.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "13298fdbc9db263023f90480ad195caed3427d74c29887ba9492c19f500ef144"
+  },
+  "primary_domain": "research-learning",
+  "secondary_domains": [
+    "data-engineering",
+    "scientific-computing"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "data-ingestion",
+    "knowledge-management",
+    "indexing"
+  ],
+  "technologies": [
+    "Markdown",
+    "reStructuredText"
+  ],
+  "summary": "A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata. The repository is auto-generated and lists datasets collected from blogs, answers, and user responses, many of which are free but some of which are not.",
+  "use_cases": [
+    "Finding open datasets for a specific topic such as agriculture",
+    "Discovering public data sources for machine learning or research projects",
+    "Browsing dataset metadata and source links by category"
+  ],
+  "limitations": [
+    "Listed datasets are not verified by the repository and may vary in quality or availability",
+    "Some datasets are not free to use",
+    "The README notes the file is auto-generated and should not be edited directly"
+  ],
+  "suggested_terms": [
+    "public datasets",
+    "open data",
+    "dataset catalog",
+    "awesome list",
+    "open government data"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->
