@@ -72,9 +72,7 @@ A guidebook sharing practical and theoretical knowledge about evaluating large l
   ],
   "repository_type": "resource",
   "capabilities": [
-    "model-evaluation",
-    "education",
-    "benchmarking"
+    "education"
   ],
   "technologies": [
     "Jupyter Notebook"
