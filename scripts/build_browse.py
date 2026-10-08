@@ -121,8 +121,8 @@ def detailed_item(record: dict, catalog_prefix: str) -> str:
     if not record["enriched"]:
         note += "*Awaiting enrichment* · "
     return (
-        f"- **[{safe_text(name)}]({upstream_link(record)})** <sub>{safe_text(owner)}</sub>\n"
-        f"  {excerpt(record['summary'])}\n"
+        f"- **[{safe_text(name)}]({upstream_link(record)})** <sub>{safe_text(owner)}</sub><br>\n"
+        f"  {excerpt(record['summary'])}<br>\n"
         f"  <sub>{note}[catalog entry]({url})</sub>"
     )
 
