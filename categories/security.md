@@ -7,5 +7,4 @@
 - [jackwener/OpenCLI](../catalog/jackwener/OpenCLI.md)
 - [mwstowe/foff-milter](../catalog/mwstowe/foff-milter.md)
 - [rustdesk/rustdesk](../catalog/rustdesk/rustdesk.md)
-- [stascorp/rdpwrap](../catalog/stascorp/rdpwrap.md)
 - [thunlp/TAADpapers](../catalog/thunlp/TAADpapers.md)

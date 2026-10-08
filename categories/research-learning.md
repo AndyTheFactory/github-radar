@@ -13,7 +13,6 @@
 - [awesomedata/awesome-public-datasets](../catalog/awesomedata/awesome-public-datasets.md)
 - [brightmart/text_classification](../catalog/brightmart/text_classification.md)
 - [bytedance/deer-flow](../catalog/bytedance/deer-flow.md)
-- [chrislit/abydos](../catalog/chrislit/abydos.md)
 - [flairNLP/flair](../catalog/flairNLP/flair.md)
 - [google/langextract](../catalog/google/langextract.md)
 - [gusye1234/nano-graphrag](../catalog/gusye1234/nano-graphrag.md)

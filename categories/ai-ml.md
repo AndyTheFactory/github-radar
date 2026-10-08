@@ -21,6 +21,8 @@
 - [browser-use/browser-harness](../catalog/browser-use/browser-harness.md)
 - [bytedance/deer-flow](../catalog/bytedance/deer-flow.md)
 - [chrislit/abydos](../catalog/chrislit/abydos.md)
+- [chrislit/abydos](../catalog/chrislit/abydos.md)
+- [cimeister/cs230](../catalog/cimeister/cs230.md)
 - [flairNLP/flair](../catalog/flairNLP/flair.md)
 - [gargpratyush/jev-router](../catalog/gargpratyush/jev-router.md)
 - [google/langextract](../catalog/google/langextract.md)

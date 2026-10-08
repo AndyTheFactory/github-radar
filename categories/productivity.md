@@ -10,7 +10,6 @@
 - [its-maestro-baby/maestro](../catalog/its-maestro-baby/maestro.md)
 - [jackwener/OpenCLI](../catalog/jackwener/OpenCLI.md)
 - [kunchenguid/backpass](../catalog/kunchenguid/backpass.md)
-- [microsoft/markitdown](../catalog/microsoft/markitdown.md)
 - [mwstowe/foff-milter](../catalog/mwstowe/foff-milter.md)
 - [nachogl1/maestro](../catalog/nachogl1/maestro.md)
 - [paperclipai/paperclip](../catalog/paperclipai/paperclip.md)
