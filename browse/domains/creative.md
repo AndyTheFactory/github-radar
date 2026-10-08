@@ -1,7 +1,17 @@
+<sub>[GitHub Radar](../README.md) / Creative Tools & Digital Art</sub>
+
 # Creative Tools & Digital Art
 
-1 repositories
+1 repositories, grouped by what kind of thing they are.
 
-[← Back to overview](../README.md)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (1)
 
-- **[Diolinux/PhotoGIMP](../../catalog/Diolinux/PhotoGIMP.md)** — PhotoGIMP is a community-maintained patch for GIMP 3+ that reorganizes the tool layout, splash screen, canvas defaults, keyboard shortcuts, and desktop entry to resemble Adobe Photoshop. It is distributed under the GPL-3.0 license. · **Does:** media-editing, image-generation
+## Apps & command-line tools
+
+<sub>1 repositories · things you run</sub>
+
+- **[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** <sub>Diolinux</sub><br>
+  PhotoGIMP is a community-maintained patch for GIMP 3+ that reorganizes the tool layout, splash screen, canvas defaults, keyboard shortcuts, and…<br>
+  <sub>`media-editing` · [catalog entry](../../catalog/Diolinux/PhotoGIMP.md)</sub>
+
+<sub>[↑ Back to top](#creative-tools--digital-art) · [All subjects](../README.md) · [A–Z directory](../all.md)</sub>

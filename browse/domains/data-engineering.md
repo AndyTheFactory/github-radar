@@ -1,7 +1,20 @@
+<sub>[GitHub Radar](../README.md) / Data Engineering & Analytics</sub>
+
 # Data Engineering & Analytics
 
-1 repositories
+2 repositories, grouped by what kind of thing they are.
 
-[← Back to overview](../README.md)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (2)
 
-- **[goose3/goose3](../../catalog/goose3/goose3.md)** — goose3 is a Python 3 port of the Goose article extractor. It extracts the main text, main image, embedded YouTube/Vimeo videos, meta description, and meta tags from news articles and article-type web pages. · **Does:** information-extraction, web-scraping, document-processing
+## Libraries & frameworks
+
+<sub>2 repositories · code you import</sub>
+
+- **[goose3](https://github.com/goose3/goose3)** <sub>goose3</sub><br>
+  goose3 is a Python 3 port of the Goose article extractor.<br>
+  <sub>`information-extraction` `web-scraping` `document-processing` · [catalog entry](../../catalog/goose3/goose3.md)</sub>
+- **[markitdown](https://github.com/microsoft/markitdown)** <sub>microsoft</sub><br>
+  MarkItDown is a Python utility that converts files such as PDF, Office documents, HTML, images, audio, ZIP archives, and YouTube URLs into…<br>
+  <sub>`data-transformation` `document-processing` `information-extraction` · [catalog entry](../../catalog/microsoft/markitdown.md)</sub>
+
+<sub>[↑ Back to top](#data-engineering--analytics) · [All subjects](../README.md) · [A–Z directory](../all.md)</sub>

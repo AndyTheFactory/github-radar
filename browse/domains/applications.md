@@ -1,9 +1,28 @@
+<sub>[GitHub Radar](../README.md) / Applications & Web/Mobile</sub>
+
 # Applications & Web/Mobile
 
-3 repositories
+3 repositories, grouped by what kind of thing they are.
 
-[← Back to overview](../README.md)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (1) · [Apps & command-line tools](#apps--command-line-tools) (2)
 
-- **[Ankit404butfound/PyWhatKit](../../catalog/Ankit404butfound/PyWhatKit.md)** — PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times. It also includes features such as converting images to ASCII art, converting strings to handwriting, and sending HTML emails. · **Does:** api-integration, automation, media-editing
-- **[FujiwaraChoki/MoneyPrinterV2](../../catalog/FujiwaraChoki/MoneyPrinterV2.md)** — A Python application that automates online money-making workflows, including a Twitter bot, YouTube Shorts automation with CRON scheduling, affiliate marketing (Amazon and Twitter), and finding local businesses for cold outreach. The README states it requires Python 3.12, and Go is needed for email outreach. · **Does:** automation, api-integration, video-processing, web-scraping
-- **[storytold/photocraft](../../catalog/storytold/photocraft.md)** — PhotoCraft is an open-source, clean-room reimplementation of Adobe Photoshop written in pure Rust. It provides layers, masks, adjustment layers, layer styles, type, vectors, brushes, and real PSD file support in a native app. Every action is exposed as a command accessible via the UI, CLI, JSON control channel, or MCP server. · **Does:** media-editing, image-generation, automation, api-integration
+## Libraries & frameworks
+
+<sub>1 repositories · code you import</sub>
+
+- **[PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit)** <sub>Ankit404butfound</sub><br>
+  PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times.<br>
+  <sub>`api-integration` `automation` `media-editing` · [catalog entry](../../catalog/Ankit404butfound/PyWhatKit.md)</sub>
+
+## Apps & command-line tools
+
+<sub>2 repositories · things you run</sub>
+
+- **[MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** <sub>FujiwaraChoki</sub><br>
+  A Python application that automates online money-making workflows, including a Twitter bot, YouTube Shorts automation with CRON scheduling,…<br>
+  <sub>`automation` `api-integration` `video-processing` · [catalog entry](../../catalog/FujiwaraChoki/MoneyPrinterV2.md)</sub>
+- **[photocraft](https://github.com/storytold/photocraft)** <sub>storytold</sub><br>
+  PhotoCraft is an open-source, clean-room reimplementation of Adobe Photoshop written in pure Rust.<br>
+  <sub>`media-editing` `image-generation` `automation` · [catalog entry](../../catalog/storytold/photocraft.md)</sub>
+
+<sub>[↑ Back to top](#applications--webmobile) · [All subjects](../README.md) · [A–Z directory](../all.md)</sub>

@@ -1,24 +1,83 @@
+<sub>[GitHub Radar](../README.md) / Developer Tools</sub>
+
 # Developer Tools
 
-18 repositories
+18 repositories, grouped by what kind of thing they are.
 
-[← Back to overview](../README.md)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (8) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (2) · [Guides & tutorials](#guides--tutorials) (1)
 
-- **[ahrdadan/playwright-lightpanda](../../catalog/ahrdadan/playwright-lightpanda.md)** — Demonstrates using Lightpanda as a lightweight browser backend for a Playwright Python client over the Chrome DevTools Protocol. It provides a Makefile and helper scripts to set up, start, run, and stop the browser in constrained hosting environments such as cPanel. Example script loads wikipedia.org, prints its title and links, and saves a screenshot. · **Does:** web-scraping, automation, deployment, inference-serving
-- **[Avaiga/taipy](../../catalog/Avaiga/taipy.md)** — Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario management. It also includes authentication, role management, and scheduling features. The README excerpt lists deployment scripts, telemetry, and data migration as part of its production tooling. · **Does:** workflow-orchestration, data-visualization, authorization, automation
-- **[CamouChat-Team/camouchat-whatsapp](../../catalog/CamouChat-Team/camouchat-whatsapp.md)** — A Python plugin for the CamouChat ecosystem that automates WhatsApp Web via the wa-js internal API, running multiple isolated browser profiles. It stores messages encrypted at rest with AES-256-GCM and requires a separate Camoufox binary fetch after installation. · **Does:** automation, api-integration, authentication, storage
-- **[CloakHQ/CloakBrowser](../../catalog/CloakHQ/CloakBrowser.md)** — A Chromium-based browser automation library offered as a drop-in replacement for Playwright and Puppeteer in Python and JavaScript. The README documents source-level C++ fingerprint patches, optional humanized input, proxy and geoip options, and automatic binary download; its bot-detection pass claims are not independently verified here. · **Does:** automation, web-scraping, api-integration, containerization
-- **[gargpratyush/jev-router](../../catalog/gargpratyush/jev-router.md)** — jev-router is a CLI wrapper that automatically routes each fresh user turn to a fast or strong model tier for Claude Code and OpenAI Codex. It launches the upstream CLIs while preserving their native interfaces, tools, sessions, permissions, and authentication. A JEV_API_KEY from TypeSafe is required for routing. · **Does:** api-integration, code-generation, workflow-orchestration
-- **[heyjunpenn/awesome-jev](../../catalog/heyjunpenn/awesome-jev.md)** — A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI. Each entry links to public evidence of the implementation, and the list is a dated snapshot rather than a ranking. · **Does:** classification, search-retrieval
-- **[its-maestro-baby/maestro](../../catalog/its-maestro-baby/maestro.md)** — Maestro is a cross-platform desktop application for running 1-6 AI coding assistant CLI sessions in parallel. Each session runs in its own isolated git worktree with a dedicated branch and terminal. The README also describes an MCP server for agent status reporting. · **Does:** agent-orchestration, workflow-orchestration, containerization, monitoring
-- **[jackwener/OpenCLI](../../catalog/jackwener/OpenCLI.md)** — OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill, and extract primitives. It provides built-in adapters for sites such as Bilibili, Reddit, and Hacker News, plus adapters for Electron desktop apps. · **Does:** api-integration, web-scraping, automation
-- **[kunchenguid/backpass](../../catalog/kunchenguid/backpass.md)** — backpass is a CLI tool that improves AGENTS.md, CLAUDE.md, and project skills by analyzing local agent session transcripts and proposing evidence-backed edits gated by human review. It reads transcripts from seven agent harnesses locally or over SSH and makes no API calls of its own, routing model calls through acpx. · **Does:** agent-orchestration, workflow-orchestration, data-ingestion, data-evaluation
-- **[lightpanda-io/awesome-lightpanda](../../catalog/lightpanda-io/awesome-lightpanda.md)** — A curated list of projects built with Lightpanda, a headless browser designed for AI and automation. It organizes entries into web data extraction, AI agents and automation, language bindings and drivers, and resources. · **Does:** web-scraping, api-integration, automation
-- **[lightpanda-io/browser](../../catalog/lightpanda-io/browser.md)** — Lightpanda is a headless browser written from scratch in Zig, designed for AI agents and automation. The README reports benchmarks against headless Chrome (about 16x less peak memory and 9x faster on 100 pages) and provides Linux, macOS, and WSL2 binaries. · **Does:** web-scraping, automation, inference-serving, api-integration
-- **[nachogl1/maestro](../../catalog/nachogl1/maestro.md)** — Maestro is a cross-platform desktop application for running 1-12 AI coding CLI sessions (such as Claude Code, Gemini CLI, or OpenAI Codex) in parallel. Each session runs in its own isolated git worktree and branch, with real-time status indicators and a built-in MCP server for status reporting. · **Does:** agent-orchestration, workflow-orchestration, monitoring, virtualization
-- **[OpenAPITools/openapi-diff](../../catalog/OpenAPITools/openapi-diff.md)** — Utility for comparing two OpenAPI specifications (3.x) and rendering the differences as HTML, Markdown, AsciiDoc, text, or JSON. It supports comparison of parameters, responses, endpoints, and HTTP methods, and can be run as a Maven library, CLI, or Docker image. · **Does:** api-integration, static-analysis, reporting, data-evaluation
-- **[Panniantong/Agent-Reach](../../catalog/Panniantong/Agent-Reach.md)** — Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu. It is MIT-licensed, includes a `doctor` diagnostic command, and uses multi-backend routing per platform according to its README. · **Does:** api-integration, web-scraping, search-retrieval, information-extraction
-- **[salvadordf/CEF4Delphi](../../catalog/salvadordf/CEF4Delphi.md)** — CEF4Delphi is a library that embeds Chromium-based browsers in applications built with Delphi or Lazarus/FPC on Windows, Linux, and macOS. It includes VCL, FireMonkey (FMX), and Lazarus components and is based on DCEF3 and fpCEF3. · **Does:** api-integration, inference-serving
-- **[serhiileniv/claude-router](../../catalog/serhiileniv/claude-router.md)** — A self-hosted local proxy that routes Anthropic-compatible API requests to Claude Haiku, Sonnet, or Opus based on request complexity, configured via the ANTHROPIC_BASE_URL environment variable. It reports per-call cost and savings versus a baseline model and can also be imported as a TypeScript library. · **Does:** inference-serving, api-integration, monitoring, reporting
-- **[streamlit/streamlit](../../catalog/streamlit/streamlit.md)** — Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards. It provides input widgets, dataframes, charts, layout elements, and multi-page app support, and it can be deployed via Streamlit Community Cloud. · **Does:** data-visualization, inference-serving, reporting
-- **[tclesius/lightpanda-py](../../catalog/tclesius/lightpanda-py.md)** — A Python package that bundles the Lightpanda headless browser, exposing fetch, CDP server, and MCP server helpers. It supports page fetching with Markdown or JSON output and integration with Playwright and Puppeteer. · **Does:** web-scraping, api-integration, inference-serving, automation
+## Libraries & frameworks
+
+<sub>8 repositories · code you import</sub>
+
+- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub><br>
+  Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…<br>
+  <sub>`api-integration` `web-scraping` `search-retrieval` · [catalog entry](../../catalog/Panniantong/Agent-Reach.md)</sub>
+- **[camouchat-whatsapp](https://github.com/CamouChat-Team/camouchat-whatsapp)** <sub>CamouChat-Team</sub><br>
+  A Python plugin for the CamouChat ecosystem that automates WhatsApp Web via the wa-js internal API, running multiple isolated browser profiles.<br>
+  <sub>`automation` `api-integration` `authentication` · [catalog entry](../../catalog/CamouChat-Team/camouchat-whatsapp.md)</sub>
+- **[CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)** <sub>salvadordf</sub><br>
+  CEF4Delphi is a library that embeds Chromium-based browsers in applications built with Delphi or Lazarus/FPC on Windows, Linux, and macOS.<br>
+  <sub>`api-integration` · [catalog entry](../../catalog/salvadordf/CEF4Delphi.md)</sub>
+- **[claude-router](https://github.com/serhiileniv/claude-router)** <sub>serhiileniv</sub><br>
+  A self-hosted local proxy that routes Anthropic-compatible API requests to Claude Haiku, Sonnet, or Opus based on request complexity, configured…<br>
+  <sub>`inference-serving` `api-integration` `monitoring` · [catalog entry](../../catalog/serhiileniv/claude-router.md)</sub>
+- **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** <sub>CloakHQ</sub><br>
+  A Chromium-based browser automation library offered as a drop-in replacement for Playwright and Puppeteer in Python and JavaScript.<br>
+  <sub>`automation` `web-scraping` `api-integration` · [catalog entry](../../catalog/CloakHQ/CloakBrowser.md)</sub>
+- **[lightpanda-py](https://github.com/tclesius/lightpanda-py)** <sub>tclesius</sub><br>
+  A Python package that bundles the Lightpanda headless browser, exposing fetch, CDP server, and MCP server helpers.<br>
+  <sub>`web-scraping` `api-integration` `automation` · [catalog entry](../../catalog/tclesius/lightpanda-py.md)</sub>
+- **[streamlit](https://github.com/streamlit/streamlit)** <sub>streamlit</sub><br>
+  Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards.<br>
+  <sub>`data-visualization` `reporting` · [catalog entry](../../catalog/streamlit/streamlit.md)</sub>
+- **[taipy](https://github.com/Avaiga/taipy)** <sub>Avaiga</sub><br>
+  Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario…<br>
+  <sub>`workflow-orchestration` `data-visualization` `authorization` · [catalog entry](../../catalog/Avaiga/taipy.md)</sub>
+
+## Apps & command-line tools
+
+<sub>7 repositories · things you run</sub>
+
+- **[backpass](https://github.com/kunchenguid/backpass)** <sub>kunchenguid</sub><br>
+  backpass is a CLI tool that improves AGENTS.md, CLAUDE.md, and project skills by analyzing local agent session transcripts and proposing…<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `data-ingestion` · [catalog entry](../../catalog/kunchenguid/backpass.md)</sub>
+- **[browser](https://github.com/lightpanda-io/browser)** <sub>lightpanda-io</sub><br>
+  Lightpanda is a headless browser written from scratch in Zig, designed for AI agents and automation.<br>
+  <sub>`web-scraping` `automation` `api-integration` · [catalog entry](../../catalog/lightpanda-io/browser.md)</sub>
+- **[jev-router](https://github.com/gargpratyush/jev-router)** <sub>gargpratyush</sub><br>
+  jev-router is a CLI wrapper that automatically routes each fresh user turn to a fast or strong model tier for Claude Code and OpenAI Codex.<br>
+  <sub>`api-integration` `code-generation` `workflow-orchestration` · [catalog entry](../../catalog/gargpratyush/jev-router.md)</sub>
+- **[maestro](https://github.com/its-maestro-baby/maestro)** <sub>its-maestro-baby</sub><br>
+  Maestro is a cross-platform desktop application for running 1-6 AI coding assistant CLI sessions in parallel.<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `monitoring` · [catalog entry](../../catalog/its-maestro-baby/maestro.md)</sub>
+- **[maestro](https://github.com/nachogl1/maestro)** <sub>nachogl1</sub><br>
+  Maestro is a cross-platform desktop application for running 1-12 AI coding CLI sessions (such as Claude Code, Gemini CLI, or OpenAI Codex) in…<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `monitoring` · [catalog entry](../../catalog/nachogl1/maestro.md)</sub>
+- **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** <sub>OpenAPITools</sub><br>
+  Utility for comparing two OpenAPI specifications (3.x) and rendering the differences as HTML, Markdown, AsciiDoc, text, or JSON.<br>
+  <sub>`api-integration` `static-analysis` `reporting` · [catalog entry](../../catalog/OpenAPITools/openapi-diff.md)</sub>
+- **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub><br>
+  OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…<br>
+  <sub>`api-integration` `web-scraping` `automation` · [catalog entry](../../catalog/jackwener/OpenCLI.md)</sub>
+
+## Curated lists & collections
+
+<sub>2 repositories · reading lists, datasets, notebooks</sub>
+
+- **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub><br>
+  A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.<br>
+  <sub>[catalog entry](../../catalog/heyjunpenn/awesome-jev.md)</sub>
+- **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub><br>
+  A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.<br>
+  <sub>[catalog entry](../../catalog/lightpanda-io/awesome-lightpanda.md)</sub>
+
+## Guides & tutorials
+
+<sub>1 repositories · documentation and walkthroughs</sub>
+
+- **[playwright-lightpanda](https://github.com/ahrdadan/playwright-lightpanda)** <sub>ahrdadan</sub><br>
+  Demonstrates using Lightpanda as a lightweight browser backend for a Playwright Python client over the Chrome DevTools Protocol.<br>
+  <sub>`web-scraping` `automation` `deployment` · [catalog entry](../../catalog/ahrdadan/playwright-lightpanda.md)</sub>
+
+<sub>[↑ Back to top](#developer-tools) · [All subjects](../README.md) · [A–Z directory](../all.md)</sub>
