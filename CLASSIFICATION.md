@@ -25,12 +25,12 @@ This document defines how a future Copilot enrichment step should classify **all
 | `suggested_taxonomy_additions` | 0–3 | Proposals | Novel capability suggestions requiring human approval; never automatically add to YAML |
 | `confidence` | One | `high`, `medium`, `low` | Confidence in classification based on available evidence |
 
-No required subcategory or deep domain hierarchy: capabilities provide cross-cutting detail. A single repository may span domains. All controlled outputs must use **IDs**, not display labels.
+There is no standalone geospatial domain: mapping and geospatial-analysis remain capability tags, while scientific software may use `scientific-computing`. `miscellanea` is a meaningful catch-all for known-but-uncategorized subjects; `other` indicates insufficient evidence.\n\nNo required subcategory or deep domain hierarchy: capabilities provide cross-cutting detail. A single repository may span domains. All controlled outputs must use **IDs**, not display labels.
 
 ## Assigning domains and type
 
 1. Classify by the repository's **main purpose**, not by implementation language, popularity, or incidental dependencies.
-2. Prefer an explicit domain even for obscure hobbies or niche software; use `other` only when none fits or evidence is insufficient.
+2. Prefer a specific domain when supported. Use `miscellanea` for an understood repository whose subject does not naturally fit any named domain (including niche hobbies). Use `other` only when the available evidence is too sparse to determine its domain.
 3. Use secondary domains sparingly. Example: an image-annotation web app might have `vision-media` as primary and `applications` as secondary, but a web UI alone is not reason to add `applications`.
 4. Select one artifact type based on what someone actually obtains: runnable application, reusable framework, hosted service, educational resource, dataset, game, and so on. A game engine generally maps to `library` or `application` (depending on its distribution), not necessarily `game`.
 5. Avoid tagging every AI application as `ai-ml` if its dominant use is in another field; use a secondary domain if its AI contribution is central.
