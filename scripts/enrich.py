@@ -156,12 +156,12 @@ async def main():
                     apply(path, data, selected)
                     print(f"Enriched {path.relative_to(ROOT)}")
                 finally:
-                    await session.destroy()
+                    await session.disconnect()
             except Exception as exc:
                 failed += 1
                 print(f"Failed to enrich {path}: {exc}", file=sys.stderr)
         if failed:
-            print(f"{failed} entries failed; unfinished entries remain pending", file=sys.stderr)
+            raise RuntimeError(f"{failed} entries failed; unfinished entries remain pending")
 
 if __name__ == "__main__":
     asyncio.run(main())
