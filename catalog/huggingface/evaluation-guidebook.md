@@ -49,3 +49,56 @@ Sharing both practical insights and theoretical knowledge about LLM evaluation t
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A guidebook sharing practical and theoretical knowledge about evaluating large language models, drawn from experience managing the Open LLM Leaderboard and designing lighteval. It covers automatic benchmarks and human evaluation, with basics, designing evaluations, datasets, and tips and tricks.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "3e0e3b19530f0f7e371c356ba4220c970106f200f1a28c782193b09344e515a9"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "resource",
+  "capabilities": [
+    "model-evaluation",
+    "education",
+    "benchmarking"
+  ],
+  "technologies": [
+    "Jupyter Notebook"
+  ],
+  "summary": "A guidebook sharing practical and theoretical knowledge about evaluating large language models, drawn from experience managing the Open LLM Leaderboard and designing lighteval. It covers automatic benchmarks and human evaluation, with basics, designing evaluations, datasets, and tips and tricks.",
+  "use_cases": [
+    "Learning how to evaluate an LLM on a specific task",
+    "Designing custom automatic or human evaluations for models",
+    "Finding background on LLM evaluation datasets and troubleshooting"
+  ],
+  "limitations": [
+    "The README states this guidebook is no longer maintained; the latest version is hosted elsewhere on Hugging Face Spaces",
+    "Content is documentation rather than executable software",
+    "License is listed as NOASSERTION in the metadata"
+  ],
+  "suggested_terms": [
+    "llm evaluation",
+    "evaluation guidebook",
+    "lighteval",
+    "open llm leaderboard",
+    "llm benchmarks"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

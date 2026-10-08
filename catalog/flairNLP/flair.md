@@ -45,3 +45,58 @@ A very simple framework for state-of-the-art Natural Language Processing (NLP)
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Flair is a Python NLP framework providing pretrained models for tasks such as named entity recognition, sentiment analysis, and part-of-speech tagging. It also offers word and document embedding interfaces and PyTorch-based tools for training custom models.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "526145ff13d06110975fa20e15a099c8fdff936a1315b43aec9f0530c4c7d83e"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "classification",
+    "information-extraction",
+    "model-training",
+    "inference-serving",
+    "annotation"
+  ],
+  "technologies": [
+    "Python",
+    "PyTorch"
+  ],
+  "summary": "Flair is a Python NLP framework providing pretrained models for tasks such as named entity recognition, sentiment analysis, and part-of-speech tagging. It also offers word and document embedding interfaces and PyTorch-based tools for training custom models.",
+  "use_cases": [
+    "Named entity recognition on English, German, Dutch, and Spanish text",
+    "Biomedical text tagging",
+    "Combining word and document embeddings for NLP experiments"
+  ],
+  "limitations": [
+    "README excerpt is truncated; full feature set not verified",
+    "License is listed as NOASSERTION in metadata"
+  ],
+  "suggested_terms": [
+    "named entity recognition",
+    "NLP framework",
+    "sequence labeling",
+    "word embeddings",
+    "PyTorch NLP"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

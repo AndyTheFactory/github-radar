@@ -31,3 +31,60 @@ State-of-the-Art Embeddings, Retrieval, and Reranking
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models. It supports use cases such as semantic search, semantic textual similarity, and paraphrase mining, with thousands of pre-trained models available on Hugging Face.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "16c9fde4ad8a5547a3b2ccbfc3c57e4115b0acab6812a9e92449dad7507cdd07"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning",
+    "databases"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "model-training",
+    "fine-tuning",
+    "search-retrieval",
+    "indexing",
+    "inference-serving"
+  ],
+  "technologies": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "summary": "A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models. It supports use cases such as semantic search, semantic textual similarity, and paraphrase mining, with thousands of pre-trained models available on Hugging Face.",
+  "use_cases": [
+    "Semantic search over document collections",
+    "Reranking search results with Cross-Encoder models",
+    "Training custom embedding models for specific domains"
+  ],
+  "limitations": [
+    "Requires Python 3.10+, PyTorch 2.2+, and transformers v5.0+",
+    "Model quality and licensing depend on each pre-trained model used"
+  ],
+  "suggested_terms": [
+    "sentence embeddings",
+    "semantic search",
+    "reranker",
+    "text embeddings",
+    "sparse encoder"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

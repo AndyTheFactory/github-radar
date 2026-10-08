@@ -78,3 +78,66 @@ archived: false
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Transformers is a model-definition framework providing state-of-the-art pretrained machine learning models for text, vision, audio, video, and multimodal tasks, supporting both inference and training. The README states it is compatible with training frameworks, inference engines, and adjacent modeling libraries, and that over one million checkpoints are available on the Hugging Face Hub.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "ef18b7e2c9960a90159969d97cc034557bd84a8eb0f1049dff64a40c7d24ac1e"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning",
+    "developer-tools"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "model-training",
+    "inference-serving",
+    "speech-recognition",
+    "image-classification",
+    "question-answering"
+  ],
+  "technologies": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Hub",
+    "Transformers",
+    "DeepSpeed",
+    "vLLM",
+    "llama.cpp",
+    "uv"
+  ],
+  "summary": "Transformers is a model-definition framework providing state-of-the-art pretrained machine learning models for text, vision, audio, video, and multimodal tasks, supporting both inference and training. The README states it is compatible with training frameworks, inference engines, and adjacent modeling libraries, and that over one million checkpoints are available on the Hugging Face Hub.",
+  "use_cases": [
+    "Running pretrained models for inference on text, vision, audio, and multimodal tasks",
+    "Fine-tuning or training state-of-the-art models with PyTorch-based frameworks",
+    "Finding and loading model checkpoints from the Hugging Face Hub"
+  ],
+  "limitations": [
+    "Requires Python 3.10+ and PyTorch 2.5+ per the README",
+    "Source-installed versions on main may not be stable",
+    "Model support and performance depend on individual checkpoints"
+  ],
+  "suggested_terms": [
+    "pretrained models",
+    "transformers library",
+    "Hugging Face",
+    "NLP model training",
+    "model inference"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

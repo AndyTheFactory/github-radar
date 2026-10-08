@@ -49,3 +49,62 @@ all kinds of text classification models and more with deep learning
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A collection of deep learning baseline models for text classification, including multi-label classification. The README also describes memory networks, seq2seq models, and pre-trained ALBERT_Chinese models.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "d8975de478a1f08c77843795da17c103928ac927e5bae37aaf05ff0c9f8ed4e9"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "classification",
+    "model-training",
+    "question-answering",
+    "fine-tuning",
+    "model-evaluation"
+  ],
+  "technologies": [
+    "Python",
+    "TensorFlow",
+    "fastText",
+    "BERT",
+    "ALBERT"
+  ],
+  "summary": "A collection of deep learning baseline models for text classification, including multi-label classification. The README also describes memory networks, seq2seq models, and pre-trained ALBERT_Chinese models.",
+  "use_cases": [
+    "Baseline experiments for text classification",
+    "Multi-label sentence or document classification",
+    "Benchmarking on the Chinese CLUE benchmark"
+  ],
+  "limitations": [
+    "Many models are simple and may not reach state-of-the-art results",
+    "Performance claims are from the README and were not verified",
+    "The README excerpt is truncated, so the full scope is not shown"
+  ],
+  "suggested_terms": [
+    "text classification",
+    "TextCNN",
+    "multi-label classification",
+    "fastText",
+    "NLP deep learning"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

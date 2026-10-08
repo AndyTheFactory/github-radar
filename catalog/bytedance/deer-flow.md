@@ -49,3 +49,63 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+DeerFlow is an open-source super agent harness that orchestrates sub-agents, memory, sandboxes, tools, and skills to handle research, coding, and creation tasks. According to its description, it is designed for tasks ranging from minutes to hours.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "b32fb6b8440212c2eeabe4f34e5b1453e01838d65855facea1a82558aa6bf352"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools",
+    "research-learning"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "agent-orchestration",
+    "web-scraping",
+    "search-retrieval",
+    "code-generation",
+    "workflow-orchestration"
+  ],
+  "technologies": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "LangChain",
+    "LangGraph"
+  ],
+  "summary": "DeerFlow is an open-source super agent harness that orchestrates sub-agents, memory, sandboxes, tools, and skills to handle research, coding, and creation tasks. According to its description, it is designed for tasks ranging from minutes to hours.",
+  "use_cases": [
+    "Long-horizon deep research tasks",
+    "Multi-agent coding and content creation",
+    "Running agent workflows in sandboxed environments"
+  ],
+  "limitations": [
+    "Version 2.0 is a ground-up rewrite that shares no code with v1; the original Deep Research framework lives on the 1.x branch",
+    "Web search and crawling rely on the InfoQuest toolset with a fixed 30-second HTTP timeout",
+    "README recommends specific third-party LLMs (Doubao, DeepSeek, Kimi) and a ByteDance Volcengine coding plan"
+  ],
+  "suggested_terms": [
+    "super agent harness",
+    "multi-agent framework",
+    "deep research agent",
+    "LangGraph agent",
+    "agentic workflow"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

@@ -62,3 +62,56 @@ Abydos NLP/IR library for Python
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching. Its topics include Levenshtein distance, Soundex, and distance metrics.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "af89178d6d18866c7928122bdf0d6747575c8f88eb1ae34b9e967f602ec104af"
+  },
+  "primary_domain": "research-learning",
+  "secondary_domains": [
+    "ai-ml",
+    "developer-tools"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "classification",
+    "search-retrieval",
+    "data-transformation"
+  ],
+  "technologies": [
+    "Python"
+  ],
+  "summary": "Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching. Its topics include Levenshtein distance, Soundex, and distance metrics.",
+  "use_cases": [
+    "Computing string similarity and distance metrics",
+    "Phonetic encoding of names for matching",
+    "Fuzzy matching in text processing pipelines"
+  ],
+  "limitations": [
+    "README excerpt shown is mostly CI and badge markup; detailed feature documentation was not included",
+    "Licensed under GPL-3.0, which may restrict use in some projects"
+  ],
+  "suggested_terms": [
+    "string metrics",
+    "phonetic algorithms",
+    "fuzzy matching",
+    "Soundex",
+    "Levenshtein distance"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->
