@@ -74,10 +74,7 @@ A collection of annotated corpora for named entity recognition (NER) across mult
     "research-learning"
   ],
   "repository_type": "collection",
-  "capabilities": [
-    "annotation",
-    "classification"
-  ],
+  "capabilities": [],
   "technologies": [
     "Python"
   ],
