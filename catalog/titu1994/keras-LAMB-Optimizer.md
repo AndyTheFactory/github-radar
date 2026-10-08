@@ -34,3 +34,55 @@ Implementation of the LAMB optimizer for Keras from the paper "Reducing BERT Pre
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Provides a Keras implementation of the LAMB (Layer-wise Adaptive Moments optimizer for Batch training) optimizer, based on the paper "Reducing BERT Pre-Training Time from 3 Days to 76 Minutes". The README states it supports large-batch training up to 64k using only the learning rate as a key hyperparameter.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "ae8cc1c93a28bfe259c9261511cae05056ebe0a4cfabfbe34978b3fa8fbced04"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "scientific-computing"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "model-training",
+    "fine-tuning"
+  ],
+  "technologies": [
+    "Python",
+    "Keras",
+    "TensorFlow"
+  ],
+  "summary": "Provides a Keras implementation of the LAMB (Layer-wise Adaptive Moments optimizer for Batch training) optimizer, based on the paper \"Reducing BERT Pre-Training Time from 3 Days to 76 Minutes\". The README states it supports large-batch training up to 64k using only the learning rate as a key hyperparameter.",
+  "use_cases": [
+    "Large-batch neural network training with Keras",
+    "Pre-training transformer models such as BERT with reduced training time"
+  ],
+  "limitations": [
+    "Requires Keras 2.2.4+ and TensorFlow 1.13+, which are old versions",
+    "No topics or homepage listed; documentation is limited to a short README excerpt"
+  ],
+  "suggested_terms": [
+    "LAMB optimizer",
+    "Keras optimizer",
+    "large batch training",
+    "BERT pre-training",
+    "layer-wise adaptive optimizer"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

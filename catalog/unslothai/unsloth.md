@@ -80,3 +80,66 @@ Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats. The README also documents agent/tool integration, RAG and web search, LAN/remote access, and an OpenAI-compatible API.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "9832b1d9305cceaa8350087df5eb3550d4fa0a6594271de256b268c6dd09d2f4"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools",
+    "vision-media"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "inference-serving",
+    "fine-tuning",
+    "model-training",
+    "image-generation",
+    "api-integration"
+  ],
+  "technologies": [
+    "Python",
+    "GGUF",
+    "MLX",
+    "OpenAI-compatible API",
+    "MCP",
+    "Docker",
+    "CUDA",
+    "Vulkan"
+  ],
+  "summary": "Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats. The README also documents agent/tool integration, RAG and web search, LAN/remote access, and an OpenAI-compatible API.",
+  "use_cases": [
+    "Running and fine-tuning local LLMs on consumer hardware",
+    "Serving local models to tools like Claude Code or via an OpenAI-compatible API",
+    "Running image and video diffusion models locally"
+  ],
+  "limitations": [
+    "Hardware support varies by platform and GPU vendor",
+    "Feature and model support is described in the README excerpt and may change",
+    "Remote access depends on the documented Cloudflare setup"
+  ],
+  "suggested_terms": [
+    "local LLM UI",
+    "GGUF fine-tuning",
+    "Unsloth desktop app",
+    "local diffusion models",
+    "OpenAI-compatible local server"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

@@ -1,4 +1,16 @@
 # Applications
 
 - [Ankit404butfound/PyWhatKit](../catalog/Ankit404butfound/PyWhatKit.md)
+- [Diolinux/PhotoGIMP](../catalog/Diolinux/PhotoGIMP.md)
+- [FujiwaraChoki/MoneyPrinterV2](../catalog/FujiwaraChoki/MoneyPrinterV2.md)
+- [OpenAPITools/openapi-diff](../catalog/OpenAPITools/openapi-diff.md)
+- [ahrdadan/playwright-lightpanda](../catalog/ahrdadan/playwright-lightpanda.md)
+- [goose3/goose3](../catalog/goose3/goose3.md)
 - [nocodb/nocodb](../catalog/nocodb/nocodb.md)
+- [salvadordf/CEF4Delphi](../catalog/salvadordf/CEF4Delphi.md)
+- [storytold/photocraft](../catalog/storytold/photocraft.md)
+- [streamlit/streamlit](../catalog/streamlit/streamlit.md)
+- [tclesius/lightpanda-py](../catalog/tclesius/lightpanda-py.md)
+- [tensorflow/models](../catalog/tensorflow/models.md)
+- [themanojdesai/genai-llm-ml-case-studies](../catalog/themanojdesai/genai-llm-ml-case-studies.md)
+- [wingedsheep/carcassonne](../catalog/wingedsheep/carcassonne.md)

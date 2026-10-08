@@ -59,3 +59,56 @@ RDP Wrapper Library
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+RDP Wrapper Library is a layer between the Service Control Manager and Terminal Services that aims to enable Remote Desktop Host support and concurrent RDP sessions on reduced-functionality Windows systems, leaving termsrv.dll untouched. The README states the method is resistant to Windows Updates.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "3867f683c51f63e7bbe57a606da2634efc0afc75446a99f4046b249ca018a451"
+  },
+  "primary_domain": "security",
+  "secondary_domains": [
+    "infrastructure"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "networking",
+    "authorization"
+  ],
+  "technologies": [
+    "Pascal",
+    "Windows Terminal Services",
+    "Windows Service Control Manager"
+  ],
+  "summary": "RDP Wrapper Library is a layer between the Service Control Manager and Terminal Services that aims to enable Remote Desktop Host support and concurrent RDP sessions on reduced-functionality Windows systems, leaving termsrv.dll untouched. The README states the method is resistant to Windows Updates.",
+  "use_cases": [
+    "Enabling concurrent RDP sessions on Windows home editions",
+    "Remote Desktop hosting on reduced-functionality Windows systems"
+  ],
+  "limitations": [
+    "Intended for home usage according to the README",
+    "Works only on Windows versions with Terminal Services; supported versions are listed via screenshots in the README excerpt",
+    "Excerpt is truncated; full compatibility and usage details not verified"
+  ],
+  "suggested_terms": [
+    "RDP wrapper",
+    "Remote Desktop concurrent sessions",
+    "termsrv.dll",
+    "Windows Terminal Services",
+    "Pascal Windows RDP"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

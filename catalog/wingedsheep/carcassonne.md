@@ -59,3 +59,54 @@ Carcassonne implementation in python
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A Python implementation of the Carcassonne board game, providing an API for building game clients or simulations. It supports the base game, The River, Inns and Cathedrals tile sets, and the Abbots and Farmers supplementary rules.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "fc93829d168ccdaeb403d5ec7969016e7b9a243e61237140b90ca928d9a43d1a"
+  },
+  "primary_domain": "games",
+  "secondary_domains": [
+    "applications"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "gameplay",
+    "simulation"
+  ],
+  "technologies": [
+    "Python"
+  ],
+  "summary": "A Python implementation of the Carcassonne board game, providing an API for building game clients or simulations. It supports the base game, The River, Inns and Cathedrals tile sets, and the Abbots and Farmers supplementary rules.",
+  "use_cases": [
+    "Simulating two-player Carcassonne games with random or scripted agents",
+    "Building a Carcassonne front end or AI on top of the game API",
+    "Experimenting with tile set and supplementary rule combinations"
+  ],
+  "limitations": [
+    "Only the features listed in the README are documented; other rules or tile sets are not described",
+    "README example uses random action selection and does not describe any strategy or AI"
+  ],
+  "suggested_terms": [
+    "carcassonne",
+    "board game python",
+    "tile placement game",
+    "game engine python",
+    "boardgame api"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

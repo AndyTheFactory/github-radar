@@ -55,3 +55,61 @@ A collection of 500+ real-world ML & LLM system design case studies from 100+ co
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A curated collection of over 500 real-world ML and LLM system design case studies from more than 100 companies, organized by company, industry, and use case. The README describes content covering RAG, fine-tuning, scaling, optimization, and evaluation of production GenAI systems. It notes that the foundational ML case studies originate from Evidently AI.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "a77707380c5bd44cd10de7c9445c623b4bb4eed4e9760005d9f4bb992c45e5ed"
+  },
+  "primary_domain": "research-learning",
+  "secondary_domains": [
+    "ai-ml",
+    "applications"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "education",
+    "knowledge-management",
+    "search-retrieval",
+    "model-evaluation"
+  ],
+  "technologies": [
+    "LLM",
+    "RAG",
+    "Generative AI",
+    "Machine Learning"
+  ],
+  "summary": "A curated collection of over 500 real-world ML and LLM system design case studies from more than 100 companies, organized by company, industry, and use case. The README describes content covering RAG, fine-tuning, scaling, optimization, and evaluation of production GenAI systems. It notes that the foundational ML case studies originate from Evidently AI.",
+  "use_cases": [
+    "Studying production GenAI and LLM architecture decisions",
+    "Preparing for technical interviews on LLM system design",
+    "Planning generative AI initiatives in engineering teams"
+  ],
+  "limitations": [
+    "Content is summarized from third-party company publications and not independently verified",
+    "README counts differ (500+ case studies from 100+ or 130+ companies)",
+    "Repository has no declared primary language"
+  ],
+  "suggested_terms": [
+    "LLM system design",
+    "RAG case studies",
+    "GenAI production",
+    "ML system design",
+    "LLM evaluation"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

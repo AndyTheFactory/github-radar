@@ -47,3 +47,56 @@ Must-read Papers on Textual Adversarial Attack and Defense
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A curated list of papers on textual adversarial attacks and defenses in NLP, organized into attack, defense, certified robustness, and benchmark sections. It also links to several toolkits such as RobustQA, SeqAttack, OpenAttack, and TextAttack.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "83803f867781d07666de2c2ca48668804e60032a696d928a78faefae44fd84f5"
+  },
+  "primary_domain": "security",
+  "secondary_domains": [
+    "ai-ml",
+    "research-learning"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "vulnerability-scanning",
+    "model-evaluation",
+    "benchmarking"
+  ],
+  "technologies": [
+    "Python"
+  ],
+  "summary": "A curated list of papers on textual adversarial attacks and defenses in NLP, organized into attack, defense, certified robustness, and benchmark sections. It also links to several toolkits such as RobustQA, SeqAttack, OpenAttack, and TextAttack.",
+  "use_cases": [
+    "Finding research papers on adversarial attacks against NLP models",
+    "Locating toolkits for generating adversarial text",
+    "Reviewing defense and certified robustness literature"
+  ],
+  "limitations": [
+    "Contains a list of links and paper summaries only; no code or implementation is included in this repository",
+    "Entries are source metadata and have not been verified by the catalog maintainer"
+  ],
+  "suggested_terms": [
+    "adversarial NLP",
+    "textual adversarial attack",
+    "adversarial defense",
+    "NLP robustness",
+    "TextAttack"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

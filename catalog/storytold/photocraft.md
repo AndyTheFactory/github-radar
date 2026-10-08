@@ -87,3 +87,66 @@ An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+PhotoCraft is an open-source, clean-room reimplementation of Adobe Photoshop written in pure Rust. It provides layers, masks, adjustment layers, layer styles, type, vectors, brushes, and real PSD file support in a native app. Every action is exposed as a command accessible via the UI, CLI, JSON control channel, or MCP server.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "8a75ac037e149e3352764b4582b1eee34da9285f2f47307724a513cf0de1edee"
+  },
+  "primary_domain": "applications",
+  "secondary_domains": [
+    "vision-media",
+    "developer-tools"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "media-editing",
+    "image-generation",
+    "automation",
+    "api-integration",
+    "document-processing"
+  ],
+  "technologies": [
+    "Rust",
+    "wgpu",
+    "PSD",
+    "MCP",
+    "Metal",
+    "Vulkan",
+    "DX12",
+    "WebGPU"
+  ],
+  "summary": "PhotoCraft is an open-source, clean-room reimplementation of Adobe Photoshop written in pure Rust. It provides layers, masks, adjustment layers, layer styles, type, vectors, brushes, and real PSD file support in a native app. Every action is exposed as a command accessible via the UI, CLI, JSON control channel, or MCP server.",
+  "use_cases": [
+    "Editing layered PSD documents offline",
+    "Applying non-destructive adjustment layers to photos",
+    "Driving image editing operations programmatically via CLI or MCP"
+  ],
+  "limitations": [
+    "README does not document complete feature parity with Adobe Photoshop",
+    "PSD round-trip fidelity is stated only for 307 of 309 psd-tools test files",
+    "Platform-specific GPU backends are listed without detail on support status"
+  ],
+  "suggested_terms": [
+    "photoshop alternative",
+    "rust image editor",
+    "PSD editor",
+    "open source photo editing",
+    "layer adjustment rust"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

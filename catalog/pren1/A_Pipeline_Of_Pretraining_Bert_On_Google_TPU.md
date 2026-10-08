@@ -51,3 +51,58 @@ A tutorial of pertaining Bert on your own dataset using google TPU
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs. The README covers data preparation, uploading data and the pretrained model to a Google Cloud Storage bucket, and running training on TPU.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "a58bf6f49cb60e526cbb2a328acb2ace00aba66484c324d5f2d5ff881b3a6353"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "infrastructure"
+  ],
+  "repository_type": "resource",
+  "capabilities": [
+    "model-training",
+    "fine-tuning"
+  ],
+  "technologies": [
+    "Jupyter Notebook",
+    "BERT",
+    "Google Cloud Platform",
+    "Google Cloud TPU",
+    "Google Cloud Storage"
+  ],
+  "summary": "A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs. The README covers data preparation, uploading data and the pretrained model to a Google Cloud Storage bucket, and running training on TPU.",
+  "use_cases": [
+    "Adapting a pretrained BERT model to domain-specific corpora",
+    "Learning how to run BERT pretraining on Google Cloud TPUs"
+  ],
+  "limitations": [
+    "Excerpt covers only the data preparation and upload steps; remaining training steps are not visible in the provided content",
+    "Requires a Google Cloud account and billing setup",
+    "No license is specified"
+  ],
+  "suggested_terms": [
+    "BERT pretraining",
+    "Google TPU tutorial",
+    "domain-adaptive pretraining",
+    "TensorFlow BERT",
+    "Cloud TPU"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

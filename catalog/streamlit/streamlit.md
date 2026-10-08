@@ -84,3 +84,57 @@ Streamlit — A faster way to build and share data apps.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards. It provides input widgets, dataframes, charts, layout elements, and multi-page app support, and it can be deployed via Streamlit Community Cloud.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "371e610b020f73bb403b8c40bdf031ef6171a14dbe7145aad3808b8df6395790"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "applications",
+    "data-engineering"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "data-visualization",
+    "inference-serving",
+    "reporting"
+  ],
+  "technologies": [
+    "Python",
+    "Streamlit"
+  ],
+  "summary": "Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards. It provides input widgets, dataframes, charts, layout elements, and multi-page app support, and it can be deployed via Streamlit Community Cloud.",
+  "use_cases": [
+    "Building data dashboards and reports",
+    "Creating interactive machine learning or LLM chat apps",
+    "Sharing data apps with others for feedback"
+  ],
+  "limitations": [
+    "Requires Python and a script-based app structure",
+    "Deployment on Community Cloud is a separate hosted platform, not included in the library itself"
+  ],
+  "suggested_terms": [
+    "streamlit",
+    "python data app",
+    "interactive dashboard",
+    "data visualization python",
+    "streamlit components"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

@@ -1,9 +1,11 @@
 # Research, Education & Reference
 
-3 repositories
+5 repositories
 
 [← Back to overview](../README.md)
 
 - **[AdArya125/Primer-to-Machine-Learning](../../catalog/AdArya125/Primer-to-Machine-Learning.md)** — A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing, supervised and unsupervised learning, neural networks, NLP, time series analysis, and reinforcement learning. It is described as aimed at beginners and intermediate learners. The repository is MIT licensed and not archived. · **Does:** education, data-transformation, model-training, classification
+- **[aiming-lab/AutoResearchClaw](../../catalog/aiming-lab/AutoResearchClaw.md)** — An autonomous research pipeline that takes a research idea and runs multi-stage processes to produce a paper, with optional human-in-the-loop intervention modes. The README also describes domain-specialist experiment agents and the ARC-Bench benchmark of 55 research topics. · **Does:** agent-orchestration, workflow-orchestration, code-generation, document-processing
 - **[awesomedata/awesome-public-datasets](../../catalog/awesomedata/awesome-public-datasets.md)** — A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata. The repository is auto-generated and lists datasets collected from blogs, answers, and user responses, many of which are free but some of which are not. · **Does:** data-ingestion, knowledge-management, indexing
 - **[chrislit/abydos](../../catalog/chrislit/abydos.md)** — Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching. Its topics include Levenshtein distance, Soundex, and distance metrics. · **Does:** classification, search-retrieval, data-transformation
+- **[themanojdesai/genai-llm-ml-case-studies](../../catalog/themanojdesai/genai-llm-ml-case-studies.md)** — A curated collection of over 500 real-world ML and LLM system design case studies from more than 100 companies, organized by company, industry, and use case. The README describes content covering RAG, fine-tuning, scaling, optimization, and evaluation of production GenAI systems. It notes that the foundational ML case studies originate from Evidently AI. · **Does:** education, knowledge-management, search-retrieval, model-evaluation

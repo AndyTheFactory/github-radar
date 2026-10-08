@@ -62,3 +62,54 @@ BERT-related papers
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A curated list of research papers related to BERT and transformer-based language models, organized by topics such as surveys, downstream tasks, multilingual models, and model compression. It is a reading list rather than executable software.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "38c4408fcaf3079fab21a0259a0b729d150453208ccd8c64cc190020246ced26"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "classification",
+    "question-answering",
+    "information-extraction"
+  ],
+  "technologies": [],
+  "summary": "A curated list of research papers related to BERT and transformer-based language models, organized by topics such as surveys, downstream tasks, multilingual models, and model compression. It is a reading list rather than executable software.",
+  "use_cases": [
+    "Finding academic papers on BERT and related transformer models",
+    "Exploring surveys and variants of pretrained language models",
+    "Researching downstream NLP tasks using contextualized encoders"
+  ],
+  "limitations": [
+    "Contains links to papers only; no code or implementations are provided",
+    "README excerpt is truncated, so full coverage is not verified",
+    "Listed papers are source metadata and not personally evaluated"
+  ],
+  "suggested_terms": [
+    "BERT papers",
+    "pretrained language models",
+    "transformer survey",
+    "contextualized embeddings",
+    "NLP reading list"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

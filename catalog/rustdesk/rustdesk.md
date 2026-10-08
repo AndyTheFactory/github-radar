@@ -47,3 +47,65 @@ An open-source remote desktop application designed for self-hosting, as an alter
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+RustDesk is an open-source remote desktop application written in Rust, designed for self-hosting as an alternative to TeamViewer. It supports a self-hostable rendezvous/relay server and provides desktop builds using Flutter or Sciter (deprecated).
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "16ad709f262c6708f27ccc6c821c00a5b82c4c2c1269a84102136e506208a0d0"
+  },
+  "primary_domain": "infrastructure",
+  "secondary_domains": [
+    "developer-tools",
+    "security"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "api-integration",
+    "authentication",
+    "collaboration",
+    "deployment"
+  ],
+  "technologies": [
+    "Rust",
+    "Flutter",
+    "Dart",
+    "Sciter",
+    "Flatpak",
+    "Android",
+    "iOS",
+    "VNC"
+  ],
+  "summary": "RustDesk is an open-source remote desktop application written in Rust, designed for self-hosting as an alternative to TeamViewer. It supports a self-hostable rendezvous/relay server and provides desktop builds using Flutter or Sciter (deprecated).",
+  "use_cases": [
+    "Self-hosted remote desktop access to Windows, macOS, and Linux machines",
+    "Remote support sessions through a user-controlled rendezvous/relay server",
+    "Mobile remote control on Android and iOS devices"
+  ],
+  "limitations": [
+    "Sciter GUI is deprecated; Flutter is the current desktop option",
+    "Requires users to download Sciter library separately for Sciter builds",
+    "Relies on a rendezvous/relay server, which must be self-hosted or use the project's default server"
+  ],
+  "suggested_terms": [
+    "remote desktop",
+    "self-hosted",
+    "TeamViewer alternative",
+    "rendezvous server",
+    "P2P remote control"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

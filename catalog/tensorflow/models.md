@@ -51,3 +51,61 @@ Models and examples built with TensorFlow
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+TensorFlow Model Garden is a collection of model implementations and modeling solutions for TensorFlow, organized into official, research, community, and orbit directories. It includes the orbit library for customized TensorFlow 2.x training loops and is installable via the tf-models-official pip package.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "026547a9e71bc2073b82cf5f7d30ba90b118e86e49a5c897bb98496df2121c39"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning",
+    "applications"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "model-training",
+    "inference-serving",
+    "image-classification",
+    "object-detection",
+    "question-answering"
+  ],
+  "technologies": [
+    "TensorFlow",
+    "Python",
+    "pip"
+  ],
+  "summary": "TensorFlow Model Garden is a collection of model implementations and modeling solutions for TensorFlow, organized into official, research, community, and orbit directories. It includes the orbit library for customized TensorFlow 2.x training loops and is installable via the tf-models-official pip package.",
+  "use_cases": [
+    "Reference implementations of state-of-the-art models in TensorFlow",
+    "Customizing training loops with tf.distribute",
+    "Research reproducibility with published TensorBoard.dev training logs"
+  ],
+  "limitations": [
+    "The pip package may not include the latest master branch changes",
+    "Not all models have TensorBoard.dev training logs",
+    "License is listed as NOASSERTION in source metadata"
+  ],
+  "suggested_terms": [
+    "TensorFlow Model Garden",
+    "tensorflow models",
+    "tf-models-official",
+    "orbit training loop",
+    "TensorFlow 2 SOTA models"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

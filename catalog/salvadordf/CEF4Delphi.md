@@ -42,3 +42,61 @@ CEF4Delphi is an open source project to embed Chromium-based browsers in applica
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+CEF4Delphi is a library that embeds Chromium-based browsers in applications built with Delphi or Lazarus/FPC on Windows, Linux, and macOS. It includes VCL, FireMonkey (FMX), and Lazarus components and is based on DCEF3 and fpCEF3.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "44ff56592e2576d00515b7170d9d78ffe036356266865cbae6d4b3f58fdab9a5"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "applications"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "api-integration",
+    "inference-serving"
+  ],
+  "technologies": [
+    "Delphi",
+    "Lazarus",
+    "Free Pascal",
+    "Chromium Embedded Framework",
+    "Chromium",
+    "VCL",
+    "FireMonkey"
+  ],
+  "summary": "CEF4Delphi is a library that embeds Chromium-based browsers in applications built with Delphi or Lazarus/FPC on Windows, Linux, and macOS. It includes VCL, FireMonkey (FMX), and Lazarus components and is based on DCEF3 and fpCEF3.",
+  "use_cases": [
+    "Embedding a Chromium-based browser view in Delphi desktop applications",
+    "Building cross-platform Lazarus/FPC applications with a web rendering component",
+    "Adding web content display to VCL or FireMonkey apps"
+  ],
+  "limitations": [
+    "Windows components require Windows 10 or newer; older versions need OldCEF4Delphi or a legacy release",
+    "Depends on the CEF binaries distributed separately and tied to specific CEF/Chromium versions",
+    "Subject to the original DCEF3 and fpCEF3 license terms, with license reported as NOASSERTION"
+  ],
+  "suggested_terms": [
+    "cef4delphi",
+    "chromium embedded delphi",
+    "lazarus browser component",
+    "delphi chromium",
+    "fpc cef"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->
