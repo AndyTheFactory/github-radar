@@ -62,6 +62,12 @@ python scripts/enrich.py --dry-run
 
 The enrichment output is stored in an explicitly machine-managed block at the bottom of each Markdown entry. Reprocessing an enriched entry is not automatic; manual notes are preserved. The taxonomy is specified in [taxonomy.yaml](taxonomy.yaml) and [CLASSIFICATION.md](CLASSIFICATION.md).
 
+## Classification quality checks
+
+The classifier follows the artifact-first rules in [CLASSIFICATION.md](CLASSIFICATION.md): capability tags must describe what a repository itself delivers, not concepts discussed in a reading list or functionality inherited from dependencies.
+
+Run `python scripts/audit_catalog.py` to print suspicious classification combinations without calling an LLM. This advisory check also runs during sync and does **not** block importing or publishing entries. Corrected catalog classifications retain their original descriptions, README excerpts, and manual notes. Generated category and browse indexes are rebuilt on the next workflow run.
+
 ## Data and privacy
 
 This is a **public** catalog of public starred repositories. It may reflect your interests and approximate discovery dates. Don't put internal client details or private notes into public entries.
