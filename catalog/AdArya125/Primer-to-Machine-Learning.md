@@ -63,11 +63,7 @@ A collection of Jupyter notebooks organized as a structured primer covering mach
   ],
   "repository_type": "collection",
   "capabilities": [
-    "education",
-    "data-transformation",
-    "model-training",
-    "classification",
-    "data-evaluation"
+    "education"
   ],
   "technologies": [
     "Jupyter Notebook",
