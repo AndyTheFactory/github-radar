@@ -8,7 +8,13 @@ A searchable archive of repositories starred by [@AndyTheFactory](https://github
 
 **Search:** use GitHub Code Search with `repo:AndyTheFactory/github-radar` plus terms such as `agent orchestration`, `evaluation`, or `OCR`. Indexing new files may take some time.
 
-## Deterministic browse pages\n\n`python scripts/build_browse.py` generates [browse/README.md](browse/README.md), subject pages under `browse/domains/`, [types](browse/types.md), and an [alphabetical directory](browse/all.md). These pages are rebuilt after each sync and enrichment; they require no model, network calls, or extra dependencies. Repositories awaiting classification appear in Unclassified with their original descriptions. Do not edit generated browse pages manually.\n\n## How it works
+## Deterministic browse pages
+
+`python scripts/build_browse.py` generates [browse/README.md](browse/README.md), subject pages under `browse/domains/`, [types](browse/types.md), and an [alphabetical directory](browse/all.md). These pages are rebuilt after each sync and enrichment; they require no model, network calls, or extra dependencies. Repositories awaiting classification appear in Unclassified with their original descriptions. Do not edit generated browse pages manually.
+
+To regenerate them without importing or invoking Copilot, run [Build readable catalog](https://github.com/AndyTheFactory/github-radar/actions/workflows/build-browse.yml) manually from GitHub Actions.
+
+## How it works
 
 - Each starred repository is written once to `catalog/<owner>/<repo>.md`.
 - Entries contain metadata and a short, searchable excerpt of the upstream README where available.
