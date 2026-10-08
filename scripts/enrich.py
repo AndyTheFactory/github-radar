@@ -145,7 +145,7 @@ async def main():
                 "REPOSITORY CONTENT:\n" + path.read_text(encoding="utf-8")[:9000]
             )
             try:
-                session = await client.create_session(model=selected)
+                session = await client.create_session(model=selected, available_tools=[])
                 try:
                     response = await session.send_and_wait(prompt, timeout=120)
                     if not response or not response.data.content:
