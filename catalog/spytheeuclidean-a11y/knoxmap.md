@@ -67,3 +67,62 @@ KnoxMap: turn any real place into a playable Project Zomboid Build 42 map (built
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data. It generates roads, buildings, water, railways, and other features, and installs the result as a game mod. The project is an unofficial fan project not endorsed by The Indie Stone and contains no game files.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "4a1c402f75d435717147762641901a980b735628d70d0d8c5e1e6451103576b0"
+  },
+  "primary_domain": "games",
+  "secondary_domains": [
+    "miscellanea",
+    "scientific-computing"
+  ],
+  "repository_type": "other",
+  "capabilities": [
+    "game-development",
+    "data-ingestion",
+    "data-transformation",
+    "mapping",
+    "geospatial-analysis"
+  ],
+  "technologies": [
+    "Python",
+    "OpenStreetMap",
+    "Project Zomboid",
+    "WorldEd"
+  ],
+  "summary": "KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data. It generates roads, buildings, water, railways, and other features, and installs the result as a game mod. The project is an unofficial fan project not endorsed by The Indie Stone and contains no game files.",
+  "use_cases": [
+    "Recreating real towns or cities as playable Project Zomboid maps",
+    "Generating map layouts from OpenStreetMap data for modding",
+    "Exploring real-world geography inside a game environment"
+  ],
+  "limitations": [
+    "Unofficial fan project, not endorsed or supported by The Indie Stone",
+    "Requires a local copy of Project Zomboid to build and install maps",
+    "Optional Elevators mod needed for working lifts in tall buildings"
+  ],
+  "suggested_terms": [
+    "project zomboid map generator",
+    "openstreetmap game map",
+    "build 42 mod",
+    "worlded map tool",
+    "real place game map"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

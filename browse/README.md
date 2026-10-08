@@ -3,7 +3,7 @@
 A human-readable, automatically generated guide to starred repositories.
 All descriptions come from the stored catalog; **no AI calls are made to build these pages**.
 
-**78 repositories** · **77 enriched** · **1 awaiting enrichment**
+**78 repositories** · **78 enriched** · **0 awaiting enrichment**
 
 ## Explore by subject
 
@@ -14,12 +14,11 @@ All descriptions come from the stored catalog; **no AI calls are made to build t
 - [Data Engineering & Analytics](domains/data-engineering.md) — 1 repositories
 - [Databases, Storage & Search](domains/databases.md) — 1 repositories
 - [Developer Tools](domains/developer-tools.md) — 18 repositories
-- [Games & Interactive Media](domains/games.md) — 2 repositories
+- [Games & Interactive Media](domains/games.md) — 3 repositories
 - [Infrastructure & DevOps](domains/infrastructure.md) — 1 repositories
 - [Productivity & Personal Tools](domains/productivity.md) — 2 repositories
 - [Research, Education & Reference](domains/research-learning.md) — 5 repositories
 - [Security & Privacy](domains/security.md) — 4 repositories
-- [Unclassified](domains/unclassified.md) — 1 repositories
 - [Unknown / Unclassified](domains/other.md) — 1 repositories
 
 ## Explore by repository type

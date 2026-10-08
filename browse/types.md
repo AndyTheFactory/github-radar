@@ -96,10 +96,7 @@
 
 - **[ahrdadan/playwright-lightpanda](../catalog/ahrdadan/playwright-lightpanda.md)** — Demonstrates using Lightpanda as a lightweight browser backend for a Playwright Python client over the Chrome DevTools Protocol. It provides a Makefile and helper scripts to set up, start, run, and stop the browser in constrained hosting environments such as cPanel. Example script loads wikipedia.org, prints its title and links, and saves a screenshot. · **Does:** web-scraping, automation, deployment, inference-serving
 
-## Type cannot be established (1)
+## Type cannot be established (2)
 
 - **[cimeister/cs230](../catalog/cimeister/cs230.md)** — The repository cimeister/cs230 is written primarily in Python. No description, topics, or homepage are provided, so its purpose cannot be determined from the supplied metadata.
-
-## Unclassified (1)
-
-- **[spytheeuclidean-a11y/knoxmap](../catalog/spytheeuclidean-a11y/knoxmap.md)** — KnoxMap: turn any real place into a playable Project Zomboid Build 42 map (built on Knoxify) · *Awaiting enrichment*
+- **[spytheeuclidean-a11y/knoxmap](../catalog/spytheeuclidean-a11y/knoxmap.md)** — KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data. It generates roads, buildings, water, railways, and other features, and installs the result as a game mod. The project is an unofficial fan project not endorsed by The Indie Stone and contains no game files. · **Does:** game-development, data-ingestion, data-transformation, mapping
