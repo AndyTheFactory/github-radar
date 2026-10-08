@@ -51,11 +51,11 @@ def select_model(models, mode, input_tokens=1400, output_tokens=350):
         if m.id == "auto" or not m.billing:
             continue
         prices = getattr(m.billing, "token_prices", None)
-        if prices and prices.batch_size and prices.input_price is not None and prices.output_price is not None:
+        if getattr(m.billing, "multiplier", None) is not None:
+            choices.append((0, float(m.billing.multiplier), m.id, "premium-request multiplier"))
+        elif prices and prices.batch_size and prices.input_price is not None and prices.output_price is not None:
             cost = (input_tokens * prices.input_price + output_tokens * prices.output_price) / prices.batch_size
-            choices.append((0, float(cost), m.id, "estimated AI credits"))
-        elif getattr(m.billing, "multiplier", None) is not None:
-            choices.append((1, float(m.billing.multiplier), m.id, "premium-request multiplier"))
+            choices.append((1, float(cost), m.id, "estimated AI credits"))
     if not choices:
         raise RuntimeError("Copilot returned no model with usable pricing; refusing costly fallback")
     choices.sort()
