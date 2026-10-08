@@ -81,7 +81,6 @@ A curated, topic-centric list of public datasets organized by subject, with link
   ],
   "repository_type": "collection",
   "capabilities": [
-    "data-ingestion",
     "knowledge-management",
     "indexing"
   ],
