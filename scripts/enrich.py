@@ -62,6 +62,24 @@ def select_model(models, mode, input_tokens=1400, output_tokens=350):
     _, cost, name, basis = choices[0]
     return name, f"{basis}: {cost:g}"
 
+def clean_capabilities(data, allowed):
+    """Keep only documented taxonomy IDs; log and discard model-invented labels."""
+    raw = data.get("capabilities", [])
+    if not isinstance(raw, list):
+        return data
+    valid = []
+    unknown = []
+    for cap in raw:
+        if isinstance(cap, str) and cap in allowed["capabilities"]:
+            if cap not in valid:
+                valid.append(cap)
+        else:
+            unknown.append(cap)
+    if unknown:
+        print(f"Dropping unrecognized capabilities: {unknown!r}", file=sys.stderr)
+    return {**data, "capabilities": valid[:5]}
+
+
 def validate(data, allowed):
     if not isinstance(data, dict):
         raise ValueError("Model response must be a JSON object")
@@ -152,7 +170,7 @@ async def main():
                         raise ValueError("Copilot returned no response")
                     raw = response.data.content.strip()
                     raw = re.sub(r"^\s*```(?:json)?\s*|\s*```\s*$", "", raw).strip()
-                    data = validate(json.loads(raw), allowed)
+                    data = validate(clean_capabilities(json.loads(raw), allowed), allowed)
                     apply(path, data, selected)
                     print(f"Enriched {path.relative_to(ROOT)}")
                 finally:
