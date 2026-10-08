@@ -97,7 +97,6 @@ Maestro is a cross-platform desktop application for running 1-6 AI coding assist
   "capabilities": [
     "agent-orchestration",
     "workflow-orchestration",
-    "containerization",
     "monitoring",
     "automation"
   ],
