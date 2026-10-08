@@ -55,8 +55,7 @@ Provides an annotated disassembly of the 1986 Nether Earth ZX Spectrum game, inc
   ],
   "repository_type": "resource",
   "capabilities": [
-    "game-development",
-    "reporting"
+    "game-development"
   ],
   "technologies": [
     "Z80 Assembly",
