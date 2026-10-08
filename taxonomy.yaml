@@ -11,13 +11,14 @@ domains:
   security: "Security & Privacy"
   applications: "Applications & Web/Mobile"
   vision-media: "Computer Vision & Multimedia"
-  geospatial-science: "Geospatial & Scientific Computing"
+  scientific-computing: "Scientific Computing & Simulation"
   games: "Games & Interactive Media"
   hardware: "Hardware, Embedded & Robotics"
   research-learning: "Research, Education & Reference"
   creative: "Creative Tools & Digital Art"
   productivity: "Productivity & Personal Tools"
-  other: "Other / Unclassified"
+  miscellanea: "Miscellanea"
+  other: "Unknown / Unclassified"
 
 repository_types:
   library: "Library or framework intended for reuse"
