@@ -1,0 +1,54 @@
+name: Build readable catalog
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-radar-sync
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out catalog
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test generator
+        run: python -m unittest discover -s tests -p 'test_browse.py' -v
+
+      - name: Generate readable catalog
+        run: python scripts/build_browse.py
+
+      - name: Commit generated pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A browse/
+          if git diff --cached --quiet; then
+            echo "Readable catalog already up to date"
+            exit 0
+          fi
+          git commit -m "docs: rebuild readable catalog"
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              echo "Readable catalog published"
+              exit 0
+            fi
+            if [ "$attempt" -eq 4 ]; then
+              echo "Push failed after four attempts" >&2
+              exit 1
+            fi
+            sleep $((attempt * 3))
+          done
