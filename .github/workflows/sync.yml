@@ -86,11 +86,14 @@ jobs:
       - name: Rebuild category indexes
         run: python scripts/build_categories.py
 
+      - name: Build human-readable catalog
+        run: python scripts/build_browse.py
+
       - name: Commit catalog updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A catalog/ CATALOG.md CATEGORIES.md categories/
+          git add -A catalog/ CATALOG.md CATEGORIES.md categories/ browse/
           if ! git diff --cached --quiet; then
             git commit -m "chore: sync starred repositories"
             # The branch may advance while a long sync runs.
