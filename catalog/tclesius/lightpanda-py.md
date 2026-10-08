@@ -118,7 +118,6 @@ A Python package that bundles the Lightpanda headless browser, exposing fetch, C
   "capabilities": [
     "web-scraping",
     "api-integration",
-    "inference-serving",
     "automation",
     "deployment"
   ],
