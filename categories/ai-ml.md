@@ -1,6 +1,7 @@
 # Ai Ml
 
 - [AdArya125/Primer-to-Machine-Learning](../catalog/AdArya125/Primer-to-Machine-Learning.md)
+- [Avaiga/taipy](../catalog/Avaiga/taipy.md)
 - [DUTANGx/TF2-albert-NER](../catalog/DUTANGx/TF2-albert-NER.md)
 - [IntelLabs/nlp-architect](../catalog/IntelLabs/nlp-architect.md)
 - [LibreChat-AI/LibreChat](../catalog/LibreChat-AI/LibreChat.md)
@@ -14,3 +15,9 @@
 - [huggingface/evaluation-guidebook](../catalog/huggingface/evaluation-guidebook.md)
 - [huggingface/sentence-transformers](../catalog/huggingface/sentence-transformers.md)
 - [huggingface/transformers](../catalog/huggingface/transformers.md)
+- [juand-r/entity-recognition-datasets](../catalog/juand-r/entity-recognition-datasets.md)
+- [jwzhanggy/Graph-Bert](../catalog/jwzhanggy/Graph-Bert.md)
+- [langchain-ai/langchain](../catalog/langchain-ai/langchain.md)
+- [lazyprogrammer/machine_learning_examples](../catalog/lazyprogrammer/machine_learning_examples.md)
+- [libffcv/ffcv](../catalog/libffcv/ffcv.md)
+- [linexjlin/GPTs](../catalog/linexjlin/GPTs.md)

@@ -58,3 +58,58 @@ Source code of Graph-Bert
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone. The repository includes scripts for preprocessing, pre-training, fine-tuning for node classification and graph clustering, and evaluation plots.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "d463cf7a58b63f19b340accf174527eec17975c0ca228143a6ce7a59761ec5a8"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "research",
+  "capabilities": [
+    "model-training",
+    "data-transformation",
+    "model-evaluation"
+  ],
+  "technologies": [
+    "Python",
+    "Transformers",
+    "PyTorch"
+  ],
+  "summary": "Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone. The repository includes scripts for preprocessing, pre-training, fine-tuning for node classification and graph clustering, and evaluation plots.",
+  "use_cases": [
+    "Node classification on graphs",
+    "Graph clustering",
+    "Research reproduction of Graph-Bert experiments"
+  ],
+  "limitations": [
+    "Requires adjusting transformers import paths depending on toolkit version",
+    "Random seed does not fully control transformer parameter initialization, so multiple runs are suggested",
+    "README excerpt is truncated; full scope not verified"
+  ],
+  "suggested_terms": [
+    "graph transformer",
+    "graph neural network",
+    "node classification",
+    "graph representation learning",
+    "Graph-Bert"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

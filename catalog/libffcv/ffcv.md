@@ -72,3 +72,64 @@ FFCV: Fast Forward Computer Vision (and other ML workloads!)
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+FFCV is a drop-in data loading system for machine learning that aims to speed up data throughput during model training, particularly for computer vision. The README describes installation on Linux and Windows, benchmark training examples, and a citation for its CVPR 2023 paper.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "e90d9fd5400a3aebbeb1bc2e07d79738f01547cec16bfe69116044970cc4e1b0"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "vision-media"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "data-ingestion",
+    "model-training",
+    "data-transformation",
+    "image-classification",
+    "inference-serving"
+  ],
+  "technologies": [
+    "Python",
+    "PyTorch",
+    "torchvision",
+    "OpenCV",
+    "CUDA",
+    "conda",
+    "Numba"
+  ],
+  "summary": "FFCV is a drop-in data loading system for machine learning that aims to speed up data throughput during model training, particularly for computer vision. The README describes installation on Linux and Windows, benchmark training examples, and a citation for its CVPR 2023 paper.",
+  "use_cases": [
+    "Accelerating PyTorch training of image classification models by replacing the data loader",
+    "Running standard vision benchmarks such as ImageNet and CIFAR-10 with faster data loading",
+    "Reducing GPU training cost for vision models"
+  ],
+  "limitations": [
+    "Installation requires a multi-package conda environment with CUDA, OpenCV, and libjpeg-turbo; troubleshooting notes mention possible package conflicts",
+    "Windows installation requires manual setup of OpenCV, libjpeg-turbo, and pthread",
+    "Excerpt does not document the full feature set; details are in external docs"
+  ],
+  "suggested_terms": [
+    "data loader acceleration",
+    "PyTorch data loading",
+    "ImageNet training speedup",
+    "computer vision training throughput",
+    "FFCV"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

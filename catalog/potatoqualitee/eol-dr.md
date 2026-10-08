@@ -36,3 +36,53 @@ archived: false
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A crowd-sourced, Markdown-based checklist guide intended to help technically skilled people prepare documentation and plans so non-technical family members can handle digital accounts, devices, and bills after an end-of-life event. The README describes a sanitized checklist that can be adapted and extended via pull requests.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "8a643e5cbf775d609ef352067087ae51daed79370bc961c558781affae70a24c"
+  },
+  "primary_domain": "productivity",
+  "secondary_domains": [
+    "miscellanea"
+  ],
+  "repository_type": "resource",
+  "capabilities": [
+    "task-management",
+    "knowledge-management"
+  ],
+  "technologies": [],
+  "summary": "A crowd-sourced, Markdown-based checklist guide intended to help technically skilled people prepare documentation and plans so non-technical family members can handle digital accounts, devices, and bills after an end-of-life event. The README describes a sanitized checklist that can be adapted and extended via pull requests.",
+  "use_cases": [
+    "Creating a personal end-of-life tech handover checklist",
+    "Documenting home lab, cloud accounts, and bill-payment information for family",
+    "Contributing suggestions to a shared crowd-sourced checklist"
+  ],
+  "limitations": [
+    "Content is a crowd-sourced checklist, not verified professional or legal advice",
+    "Repository metadata lists no language or license",
+    "Excerpt provided is partial; full checklist contents were not reviewed"
+  ],
+  "suggested_terms": [
+    "end-of-life planning",
+    "digital estate checklist",
+    "disaster response guide",
+    "password handover",
+    "homelab documentation"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

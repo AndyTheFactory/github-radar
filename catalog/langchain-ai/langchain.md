@@ -47,3 +47,65 @@ The agent engineering platform.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+LangChain is a framework for building agents and LLM-powered applications, offering standard interfaces for models, embeddings, and vector stores. It provides interoperable components and third-party integrations, and links to related projects such as LangGraph, Deep Agents, and LangSmith.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "7fa9fdb147715f8fdd85fc52b40ea45aacecaa5354c558eed6461e8912837f31"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "agent-orchestration",
+    "api-integration",
+    "inference-serving",
+    "search-retrieval",
+    "workflow-orchestration"
+  ],
+  "technologies": [
+    "Python",
+    "TypeScript",
+    "Pydantic",
+    "LangGraph",
+    "OpenAI",
+    "Anthropic",
+    "Gemini",
+    "RAG"
+  ],
+  "summary": "LangChain is a framework for building agents and LLM-powered applications, offering standard interfaces for models, embeddings, and vector stores. It provides interoperable components and third-party integrations, and links to related projects such as LangGraph, Deep Agents, and LangSmith.",
+  "use_cases": [
+    "Building LLM-powered applications with chained components",
+    "Creating agents with tool and model integrations",
+    "Connecting LLMs to external and internal data sources"
+  ],
+  "limitations": [
+    "Observability, evals, and debugging are provided by the separate LangSmith product",
+    "Advanced agent orchestration is provided by the separate LangGraph project",
+    "Source README claims are not independently verified"
+  ],
+  "suggested_terms": [
+    "llm framework",
+    "agent framework",
+    "rag",
+    "langchain integrations",
+    "llm application development"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

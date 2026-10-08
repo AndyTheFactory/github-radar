@@ -68,3 +68,66 @@ archived: false
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+NocoDB is a self-hostable, spreadsheet-style interface that turns databases into online, no-code databases, positioned as an Airtable alternative. The README describes Docker-based installation with SQLite or PostgreSQL and an automated production setup script. Repository topics also reference an automatic REST API and Swagger documentation.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "7ae47344fbd8893da7d0896da49c0160079d295303a0724a1a798501863148ea"
+  },
+  "primary_domain": "databases",
+  "secondary_domains": [
+    "applications",
+    "developer-tools"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "database-management",
+    "api-integration",
+    "storage",
+    "authentication",
+    "deployment"
+  ],
+  "technologies": [
+    "TypeScript",
+    "Docker",
+    "PostgreSQL",
+    "SQLite",
+    "REST API",
+    "Swagger",
+    "Redis",
+    "Traefik"
+  ],
+  "summary": "NocoDB is a self-hostable, spreadsheet-style interface that turns databases into online, no-code databases, positioned as an Airtable alternative. The README describes Docker-based installation with SQLite or PostgreSQL and an automated production setup script. Repository topics also reference an automatic REST API and Swagger documentation.",
+  "use_cases": [
+    "Building no-code databases and spreadsheet-style apps",
+    "Self-hosting an Airtable alternative",
+    "Exposing database tables through an automatic REST API"
+  ],
+  "limitations": [
+    "License is listed as NOASSERTION in the metadata, so terms should be verified",
+    "Auto-upstall script requires a domain for SSL setup",
+    "Binary installation is documented only for quick local testing"
+  ],
+  "suggested_terms": [
+    "airtable alternative",
+    "no-code database",
+    "self-hosted spreadsheet database",
+    "automatic REST API",
+    "low-code platform"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

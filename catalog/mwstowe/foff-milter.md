@@ -48,3 +48,59 @@ Sendmail milter to help combat spam
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+FOFF Milter is a Sendmail milter written in Rust for email spam and fraud detection. The README describes rule modules, Unicode and encoding normalization, forensic analysis, hot-reloadable configuration, and monitoring statistics.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "1eab9ddd4d15020c4c264c384183601f459a296f2b25363ab9c9b21f4130ff15"
+  },
+  "primary_domain": "security",
+  "secondary_domains": [
+    "productivity"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "classification",
+    "static-analysis",
+    "information-extraction",
+    "monitoring",
+    "reporting"
+  ],
+  "technologies": [
+    "Rust",
+    "Sendmail",
+    "Milter"
+  ],
+  "summary": "FOFF Milter is a Sendmail milter written in Rust for email spam and fraud detection. The README describes rule modules, Unicode and encoding normalization, forensic analysis, hot-reloadable configuration, and monitoring statistics.",
+  "use_cases": [
+    "Filtering spam and phishing email on Sendmail mail servers",
+    "Detecting brand impersonation and advance-fee fraud in inbound mail",
+    "Analyzing email content and attachments for evasion techniques"
+  ],
+  "limitations": [
+    "Accuracy and false-positive claims are self-reported in the README and not independently verified",
+    "Requires a Sendmail mail server deployment with milter support"
+  ],
+  "suggested_terms": [
+    "sendmail milter",
+    "spam filter",
+    "email security",
+    "phishing detection",
+    "rust email filter"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

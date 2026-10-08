@@ -59,3 +59,54 @@ leaked prompts of GPTs
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A collection of prompts reportedly leaked from custom GPTs, gathered from social media posts, GitHub pull requests, and the author's own testing. Each prompt is stored as a Markdown file under ./prompts with its credited author.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "566b006d39a9de9c1b9fc200b9d8ac959f6c27ebbd8a140d367f4d887fb9d12f"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "collection",
+  "capabilities": [],
+  "technologies": [
+    "ChatGPT",
+    "GPTs",
+    "Markdown"
+  ],
+  "summary": "A collection of prompts reportedly leaked from custom GPTs, gathered from social media posts, GitHub pull requests, and the author's own testing. Each prompt is stored as a Markdown file under ./prompts with its credited author.",
+  "use_cases": [
+    "Studying how custom GPT system prompts are structured",
+    "Reviewing prompt engineering examples",
+    "Browsing prompts for different GPT personas and tasks"
+  ],
+  "limitations": [
+    "Provenance and authenticity of prompts are unverified",
+    "Prompts were obtained without verified authorization from their creators",
+    "No license is specified in the repository metadata"
+  ],
+  "suggested_terms": [
+    "leaked GPT prompts",
+    "custom GPT system prompts",
+    "ChatGPT prompt collection",
+    "prompt engineering examples",
+    "GPTs prompt archive"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

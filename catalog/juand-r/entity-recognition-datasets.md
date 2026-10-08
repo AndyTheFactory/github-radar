@@ -52,3 +52,55 @@ A collection of corpora for named entity recognition (NER) and entity recognitio
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A collection of annotated corpora for named entity recognition (NER) across multiple languages, domains, and entity types. The README notes the maintainer no longer actively adds datasets, and some corpora are not redistributed due to licensing restrictions.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "e5b73d2c7b2a6bf5ef3449e89ba0a07d064e9e4e9c523e9ec5127e7ec2156f37"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "annotation",
+    "classification"
+  ],
+  "technologies": [
+    "Python"
+  ],
+  "summary": "A collection of annotated corpora for named entity recognition (NER) across multiple languages, domains, and entity types. The README notes the maintainer no longer actively adds datasets, and some corpora are not redistributed due to licensing restrictions.",
+  "use_cases": [
+    "Training or evaluating named entity recognition models",
+    "Comparing NER datasets across domains such as news, Twitter, and Wikipedia",
+    "Locating NER corpora in English and other languages"
+  ],
+  "limitations": [
+    "The maintainer no longer actively adds new datasets, so the list may be incomplete",
+    "Several corpora require separate LDC or other licensed access and are not included",
+    "Dataset licenses vary and must be checked individually"
+  ],
+  "suggested_terms": [
+    "named entity recognition datasets",
+    "NER corpora",
+    "CoNLL 2003",
+    "entity extraction datasets",
+    "NLP annotated corpora"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

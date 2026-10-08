@@ -88,3 +88,61 @@ Turns Data and AI algorithms into production-ready web applications in no time.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario management. It also includes authentication, role management, and scheduling features. The README excerpt lists deployment scripts, telemetry, and data migration as part of its production tooling.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "61b2a5c3d1911686cc8b2fc861b8e8a0db426a8a6537a7f76831488c07325581"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "data-engineering",
+    "ai-ml"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "workflow-orchestration",
+    "data-visualization",
+    "authorization",
+    "automation",
+    "deployment"
+  ],
+  "technologies": [
+    "Python",
+    "Taipy GUI",
+    "Taipy Core"
+  ],
+  "summary": "Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario management. It also includes authentication, role management, and scheduling features. The README excerpt lists deployment scripts, telemetry, and data migration as part of its production tooling.",
+  "use_cases": [
+    "Building production-ready web applications from Python data and AI algorithms",
+    "Orchestrating data pipelines and running what-if scenario analysis",
+    "Scheduling cron jobs with user roles and authentication"
+  ],
+  "limitations": [
+    "README excerpt is truncated and contains mostly badges, so feature details are limited to the summary section",
+    "Taipy Designer and Taipy Studio are listed as ecosystem products and are not part of this repository",
+    "Documented Python support is 3.9 through 3.12"
+  ],
+  "suggested_terms": [
+    "taipy",
+    "python web app framework",
+    "pipeline orchestration",
+    "scenario management",
+    "mlops"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

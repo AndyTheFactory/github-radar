@@ -56,3 +56,61 @@ A collection of machine learning examples and tutorials.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A collection of machine learning examples and tutorials organized by course folder, with code for deep learning, reinforcement learning, and NLP topics. Associated tutorials and courses are hosted externally at lazyprogrammer.me and deeplearningcourses.com.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "f054595fd387d1f8eb40711811ab20bee02decbdabba4c36d9191489061089f7"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "research-learning",
+    "data-engineering"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "model-training",
+    "classification",
+    "question-answering",
+    "education"
+  ],
+  "technologies": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Google Colab"
+  ],
+  "summary": "A collection of machine learning examples and tutorials organized by course folder, with code for deep learning, reinforcement learning, and NLP topics. Associated tutorials and courses are hosted externally at lazyprogrammer.me and deeplearningcourses.com.",
+  "use_cases": [
+    "Following along with companion code for machine learning courses",
+    "Learning deep learning and reinforcement learning implementations in Python",
+    "Studying NLP and time series examples"
+  ],
+  "limitations": [
+    "Not all course code is included; some newer examples are in Google Colab notebooks",
+    "Repository has no license specified",
+    "Folder contents are not verified beyond the README excerpt"
+  ],
+  "suggested_terms": [
+    "machine learning tutorials",
+    "deep reinforcement learning python",
+    "PyTorch examples",
+    "NLP transformers",
+    "time series forecasting"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

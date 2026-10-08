@@ -13,3 +13,7 @@
 - [huggingface/evaluation-guidebook](../catalog/huggingface/evaluation-guidebook.md)
 - [huggingface/sentence-transformers](../catalog/huggingface/sentence-transformers.md)
 - [huggingface/transformers](../catalog/huggingface/transformers.md)
+- [juand-r/entity-recognition-datasets](../catalog/juand-r/entity-recognition-datasets.md)
+- [jwzhanggy/Graph-Bert](../catalog/jwzhanggy/Graph-Bert.md)
+- [lazyprogrammer/machine_learning_examples](../catalog/lazyprogrammer/machine_learning_examples.md)
+- [linexjlin/GPTs](../catalog/linexjlin/GPTs.md)
