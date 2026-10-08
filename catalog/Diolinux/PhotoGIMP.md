@@ -79,10 +79,9 @@ PhotoGIMP is a community-maintained patch for GIMP 3+ that reorganizes the tool 
   "secondary_domains": [
     "applications"
   ],
-  "repository_type": "resource",
+  "repository_type": "application",
   "capabilities": [
-    "media-editing",
-    "image-generation"
+    "media-editing"
   ],
   "technologies": [
     "GIMP",
