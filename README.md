@@ -46,7 +46,7 @@ To enable enrichment:
    - `auto`: let Copilot select the model according to your plan and policies; it is **not necessarily cheapest**.
    - An explicit model ID (for example `claude-haiku-4.5`): use that model only; fail if unavailable.
 
-Each scheduled run (00:00 and 14:00 **fixed EET**, UTC+02:00) processes at most **10 unenriched entries**. Importing remains functional without the Copilot secret. Individual failed entries stay pending, and successful entries are retained. Nothing triggers Copilot when all records are already enriched. Expect usage of your Copilot entitlement and possible AI-credit charges.
+Each scheduled run (00:00 and 14:00 **fixed EET**, UTC+02:00) processes at most **10 unenriched entries**. A manual **Run workflow** exposes an `enrichment_limit` input (default **100**, allowed **1–100**) for backfilling; it never processes more than 100 enrichments in one run. Importing remains functional without the Copilot secret. Individual failed entries stay pending, and successful entries are retained. Nothing triggers Copilot when all records are already enriched. Expect usage of your Copilot entitlement and possible AI-credit charges.
 
 You can preview the pending queue without a token:
 
