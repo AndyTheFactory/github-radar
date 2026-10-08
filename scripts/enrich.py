@@ -80,6 +80,19 @@ def clean_capabilities(data, allowed):
     return {**data, "capabilities": valid[:5]}
 
 
+def clean_repository_type(data, allowed):
+    """Use the documented 'other' fallback for unrecognized model type labels."""
+    value = data.get("repository_type")
+    if value in allowed["repository_types"]:
+        return data
+    if not isinstance(value, str) or not value.strip():
+        return data  # Missing or malformed fields must still fail validation.
+    if "other" not in allowed["repository_types"]:
+        return data
+    print(f"Unrecognized repository type {value!r}; using 'other'", file=sys.stderr)
+    return {**data, "repository_type": "other"}
+
+
 def validate(data, allowed):
     if not isinstance(data, dict):
         raise ValueError("Model response must be a JSON object")
@@ -170,7 +183,7 @@ async def main():
                         raise ValueError("Copilot returned no response")
                     raw = response.data.content.strip()
                     raw = re.sub(r"^\s*```(?:json)?\s*|\s*```\s*$", "", raw).strip()
-                    data = validate(clean_capabilities(json.loads(raw), allowed), allowed)
+                    data = validate(clean_repository_type(clean_capabilities(json.loads(raw), allowed), allowed), allowed)
                     apply(path, data, selected)
                     print(f"Enriched {path.relative_to(ROOT)}")
                 finally:
