@@ -74,7 +74,7 @@ def catalog_path(full_name: str) -> Path:
         for component in components
     ):
         raise ValueError(f"Unsafe repository name: {full_name!r}")
-    return CATALOG.joinpath(*components).with_suffix(".md")
+    return CATALOG / components[0] / (components[1] + ".md")
 
 
 def clean_readme(value: str) -> str:
