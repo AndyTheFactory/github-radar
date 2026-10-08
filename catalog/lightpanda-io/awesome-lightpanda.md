@@ -73,11 +73,7 @@ A curated list of projects built with Lightpanda, a headless browser designed fo
     "ai-ml"
   ],
   "repository_type": "collection",
-  "capabilities": [
-    "web-scraping",
-    "api-integration",
-    "automation"
-  ],
+  "capabilities": [],
   "technologies": [
     "Lightpanda",
     "Zig",
