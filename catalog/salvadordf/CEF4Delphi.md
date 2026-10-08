@@ -65,8 +65,7 @@ CEF4Delphi is a library that embeds Chromium-based browsers in applications buil
   ],
   "repository_type": "library",
   "capabilities": [
-    "api-integration",
-    "inference-serving"
+    "api-integration"
   ],
   "technologies": [
     "Delphi",
