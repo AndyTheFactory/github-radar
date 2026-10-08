@@ -76,14 +76,13 @@ RDP Wrapper Library is a layer between the Service Control Manager and Terminal 
     "model": "claude-haiku-5.5",
     "source_sha256": "3867f683c51f63e7bbe57a606da2634efc0afc75446a99f4046b249ca018a451"
   },
-  "primary_domain": "security",
+  "primary_domain": "infrastructure",
   "secondary_domains": [
     "infrastructure"
   ],
   "repository_type": "library",
   "capabilities": [
-    "networking",
-    "authorization"
+    "networking"
   ],
   "technologies": [
     "Pascal",
