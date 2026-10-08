@@ -150,6 +150,14 @@ def sync(username: str, token: str, max_new: int = 50) -> tuple[int, int]:
     new = 0
     checked = 0
     CATALOG.mkdir(parents=True, exist_ok=True)
+    # This catalog intentionally excludes repositories owned by the starred user.
+    # Remove older entries previously imported before this rule was introduced.
+    for own_dir in CATALOG.iterdir():
+        if own_dir.is_dir() and own_dir.name.casefold() == username.casefold():
+            for old_entry in own_dir.glob("*.md"):
+                old_entry.unlink()
+            if not any(own_dir.iterdir()):
+                own_dir.rmdir()
     for repo, starred_at in iter_stars(username, token):
         checked += 1
         if (repo.get("owner") or {}).get("login", "").casefold() == username.casefold():
