@@ -83,10 +83,7 @@ A community-maintained, curated catalog of 981 open-source projects built with J
     "research-learning"
   ],
   "repository_type": "collection",
-  "capabilities": [
-    "classification",
-    "search-retrieval"
-  ],
+  "capabilities": [],
   "technologies": [
     "Astro",
     "TypeScript"
