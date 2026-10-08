@@ -25,6 +25,17 @@ class SyncTests(unittest.TestCase):
         self.assertIn("## Personal notes", result)
         self.assertIn("github_id: 123", result)
 
+    def test_excludes_owned_repositories(self):
+        own = {"id": 2, "full_name": "AndyTheFactory/my-tool", "owner": {"login": "AndyTheFactory"}}
+        other = {"id": 3, "full_name": "other/useful-tool", "owner": {"login": "other"}}
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            with patch.object(radar, "CATALOG", root / "catalog"), patch.object(radar, "INDEX", root / "CATALOG.md"):
+                with patch.object(radar, "iter_stars", return_value=iter([(own, None), (other, None)])), patch.object(radar, "api_get", return_value="README"):
+                    self.assertEqual(radar.sync("AndyTheFactory", "", max_new=50), (1, 2))
+                self.assertFalse(radar.catalog_path("AndyTheFactory/my-tool").exists())
+                self.assertTrue(radar.catalog_path("other/useful-tool").exists())
+
     def test_idempotent_archive(self):
         repo = {"id": 1, "full_name": "owner/tool", "description": "Useful tool"}
         with tempfile.TemporaryDirectory() as temp:
