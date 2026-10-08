@@ -2,7 +2,7 @@
 
 A searchable archive of repositories starred by [@AndyTheFactory](https://github.com/AndyTheFactory).
 
-**Capture:** star a repository on GitHub, then close the tab. An hourly GitHub Action imports it into this repository.
+**Capture:** star a repository on GitHub, then close the tab. A twice-daily GitHub Action imports it into this repository.
 
 **Browse:** open [CATALOG.md](CATALOG.md) or the [catalog/](catalog/) directory.
 
@@ -14,13 +14,14 @@ A searchable archive of repositories starred by [@AndyTheFactory](https://github
 - Entries contain metadata and a short, searchable excerpt of the upstream README where available.
 - Existing entries are **never overwritten**: manual edits and notes are safe.
 - Removing a star does **not** delete an archived entry.
+- Repositories owned by **AndyTheFactory** are excluded; any previously imported entries under that owner are removed on the next sync.
 - Each run imports up to 50 new repositories, newest first. Repeated runs gradually backfill older stars.
 - Sync checks all star pages, so it does not rely on a fragile timestamp checkpoint.
 - No LLM key, database, or third-party dependencies are necessary.
 
 ## Running it
 
-From [Actions → Sync starred repositories](https://github.com/AndyTheFactory/github-radar/actions/workflows/sync.yml), choose **Run workflow** to begin the initial import. Subsequent imports run hourly (GitHub may delay scheduled jobs).
+From [Actions → Sync starred repositories](https://github.com/AndyTheFactory/github-radar/actions/workflows/sync.yml), choose **Run workflow** to begin the initial import. Subsequent imports run at 00:00 and 14:00 fixed EET (UTC+2; GitHub may delay scheduled jobs).
 
 Or run locally (Python 3.11+):
 
