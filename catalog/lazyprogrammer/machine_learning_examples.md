@@ -80,9 +80,6 @@ A collection of machine learning examples and tutorials organized by course fold
   ],
   "repository_type": "collection",
   "capabilities": [
-    "model-training",
-    "classification",
-    "question-answering",
     "education"
   ],
   "technologies": [
