@@ -2,6 +2,20 @@
 
 This document defines how a future Copilot enrichment step should classify **all kinds of repositories**, not just software related to AI or work. Canonical controlled values live in [taxonomy.yaml](taxonomy.yaml). Neither file enables or invokes an LLM by itself.
 
+## Lessons from the October 2026 catalog audit
+
+These rules apply before selecting capabilities:
+
+1. **Artifact over subject.** A paper list about NER or BERT is a curated resource, not a classifier, QA system, or information extractor. A guide *about* evaluation is not an evaluation tool.
+2. **Functions over dependencies.** Do not assign `inference-serving` to browser automation, CDP bindings, app builders, wrappers, or tools that merely integrate with model APIs. Do not assign `fine-tuning` to agent prompt/skill editing.
+3. **Actual mechanisms.** Git worktrees are not `containerization` or `virtualization`; a GIMP customization patch is not `image-generation`; a project linking to a security paper is not `vulnerability-scanning`.
+4. **Collections and resources.** Default their capabilities to `education` or `knowledge-management` only when those activities are substantively provided; otherwise use an empty list. Only assign executable capabilities to these types if the repository itself includes functioning relevant software, not merely examples or links.
+5. **Choose type by deliverable.** A tool with a command-line entry point is normally an `application`; an API packaged for import is normally a `library`. Repo topics and README marketing are not enough to establish deliverables.
+6. **Prefer an empty list to false precision.** Every capability must be defensible with a README feature or actual included component. Do not pad lists to reach five.
+7. **Treat previous enrichment as untrusted too.** During reclassification, read original description and README content, not the previous AI-generated label as factual evidence.
+
+Review cues (not universal automatic bans): `resource`/`collection` combined with executable capabilities, browser tools tagged `inference-serving`, and notes/skills tagged `fine-tuning`. Have human reviewers check these rather than rewriting them indiscriminately.
+
 ## Objectives
 
 - Find a repository months later by **what it does**, its **subject area**, or its **technologies**.
