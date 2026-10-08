@@ -84,11 +84,7 @@ A curated list of research papers related to BERT and transformer-based language
     "research-learning"
   ],
   "repository_type": "collection",
-  "capabilities": [
-    "classification",
-    "question-answering",
-    "information-extraction"
-  ],
+  "capabilities": [],
   "technologies": [],
   "summary": "A curated list of research papers related to BERT and transformer-based language models, organized by topics such as surveys, downstream tasks, multilingual models, and model compression. It is a reading list rather than executable software.",
   "use_cases": [
