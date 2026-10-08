@@ -40,8 +40,8 @@ class BrowseTests(unittest.TestCase):
             overview = (output / "README.md").read_text()
             self.assertIn("2 repositories", overview)
             self.assertIn("Developer Tools", overview)
-            self.assertIn("someone/plain", (output / "all.md").read_text())
-            self.assertNotIn("AndyTheFactory/own", (output / "all.md").read_text())
+            self.assertIn("**[plain](https://github.com/someone/plain)** <sub>someone</sub>", (output / "all.md").read_text())
+            self.assertNotIn("AndyTheFactory/own", (output / "all.md").read_text())\n            self.assertIn("## P", (output / "all.md").read_text())\n            self.assertIn("| Subject | Repositories |", overview)\n            self.assertIn("## Apps & command-line tools", (output / "domains" / "developer-tools.md").read_text())\n            self.assertIn("[catalog entry](../../catalog/someone/useful.md)", (output / "domains" / "developer-tools.md").read_text())
             self.assertIn("A useful terminal tool.", (output / "domains" / "developer-tools.md").read_text())
             first = {str(p.relative_to(output)): p.read_bytes() for p in output.rglob("*.md")}
             browse.build(root)
