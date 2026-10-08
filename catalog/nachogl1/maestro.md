@@ -97,8 +97,7 @@ Maestro is a cross-platform desktop application for running 1-12 AI coding CLI s
   "capabilities": [
     "agent-orchestration",
     "workflow-orchestration",
-    "monitoring",
-    "virtualization"
+    "monitoring"
   ],
   "technologies": [
     "Rust",
