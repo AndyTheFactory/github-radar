@@ -172,6 +172,17 @@ async def main():
                 ". Capability IDs: " + ", ".join(sorted(allowed["capabilities"])) +
                 ". Maximum 2 secondary domains, 5 capabilities, 8 technologies, 3 use cases, "
                 "3 limitations, 5 suggested search terms. "
+                "CRITICAL: classify the repository's DELIVERED ARTIFACT, not the topics it "
+                "mentions, the capabilities of software it links to, or features of dependencies. "
+                "For curated lists, datasets, articles, guides and tutorials do NOT claim model "
+                "training, inference, classification, extraction, vulnerability scanning, or "
+                "question answering simply because they discuss those subjects. "
+                "A browser/CDP wrapper is not an inference server. An editor theme or patch "
+                "is not an image generator. Git worktrees are not virtual machines or containers. "
+                "Prompt/skill optimization is not fine-tuning model weights. "
+                "Assign each capability only if its functionality is explicitly DELIVERED "
+                "by this repository; omit uncertain capabilities instead of guessing. "
+                "Distinguish CLI applications from reusable libraries. "
                 "Use miscellanea for known topics outside named domains, other for unknown. "
                 "REPOSITORY CONTENT:\n" + path.read_text(encoding="utf-8")[:9000]
             )
