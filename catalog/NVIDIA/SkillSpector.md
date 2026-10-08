@@ -69,8 +69,7 @@ SkillSpector is a security scanner that analyzes AI agent skills for vulnerabili
   "capabilities": [
     "static-analysis",
     "vulnerability-scanning",
-    "reporting",
-    "web-scraping"
+    "reporting"
   ],
   "technologies": [
     "Python",
