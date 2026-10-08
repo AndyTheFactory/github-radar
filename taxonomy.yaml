@@ -1,0 +1,131 @@
+# GitHub Radar taxonomy v1
+# Stable, human-reviewed controlled vocabulary. Do not extend automatically.
+version: 1
+
+domains:
+  ai-ml: "AI & Machine Learning"
+  data-engineering: "Data Engineering & Analytics"
+  developer-tools: "Developer Tools"
+  infrastructure: "Infrastructure & DevOps"
+  databases: "Databases, Storage & Search"
+  security: "Security & Privacy"
+  applications: "Applications & Web/Mobile"
+  vision-media: "Computer Vision & Multimedia"
+  geospatial-science: "Geospatial & Scientific Computing"
+  games: "Games & Interactive Media"
+  hardware: "Hardware, Embedded & Robotics"
+  research-learning: "Research, Education & Reference"
+  creative: "Creative Tools & Digital Art"
+  productivity: "Productivity & Personal Tools"
+  other: "Other / Unclassified"
+
+repository_types:
+  library: "Library or framework intended for reuse"
+  application: "End-user, desktop, mobile or CLI application"
+  service: "Deployable service, server or platform"
+  dataset: "Dataset or benchmark collection"
+  research: "Research or experimental implementation"
+  resource: "Documentation, tutorials or curated lists"
+  template: "Template, example project or boilerplate"
+  game: "Playable game or game engine project"
+  hardware: "Hardware design, firmware or embedded project"
+  collection: "Collection of resources or multiple independent projects"
+  other: "Type cannot be established"
+
+# What the project demonstrably does, not technologies used to build it.
+capabilities:
+  - agent-orchestration
+  - workflow-orchestration
+  - automation
+  - code-generation
+  - content-generation
+  - image-generation
+  - audio-generation
+  - inference-serving
+  - model-training
+  - fine-tuning
+  - model-evaluation
+  - data-evaluation
+  - testing
+  - debugging
+  - static-analysis
+  - profiling
+  - monitoring
+  - observability
+  - search-retrieval
+  - indexing
+  - question-answering
+  - classification
+  - information-extraction
+  - document-processing
+  - web-scraping
+  - data-ingestion
+  - data-transformation
+  - data-validation
+  - data-visualization
+  - reporting
+  - database-management
+  - storage
+  - synchronization
+  - api-integration
+  - authentication
+  - authorization
+  - encryption
+  - vulnerability-scanning
+  - deployment
+  - containerization
+  - virtualization
+  - networking
+  - simulation
+  - numerical-computing
+  - mapping
+  - geospatial-analysis
+  - image-classification
+  - object-detection
+  - image-segmentation
+  - ocr
+  - speech-recognition
+  - speech-synthesis
+  - video-processing
+  - media-editing
+  - annotation
+  - collaboration
+  - task-management
+  - note-taking
+  - knowledge-management
+  - game-development
+  - gameplay
+  - emulation
+  - hardware-control
+  - robotics
+  - education
+  - benchmarking
+
+# Open vocabulary. Normalize aliases using the map below; don't invent
+# technologies or infer technologies from a repository's domain.
+technology_aliases:
+  py: python
+  python3: python
+  js: javascript
+  ts: typescript
+  node: nodejs
+  node.js: nodejs
+  react.js: react
+  next.js: nextjs
+  postgresql: postgres
+  postgres: postgres
+  pytorch: pytorch
+  torch: pytorch
+  tensorflow: tensorflow
+  k8s: kubernetes
+  hf-transformers: transformers
+  github-actions: github-actions
+
+classification_limits:
+  secondary_domains: 2
+  capabilities: 5
+  technologies: 8
+  use_cases: 3
+
+# Classification is allowed to be incomplete rather than speculative.
+unknown_value: null
