@@ -70,11 +70,7 @@ A curated list of papers on textual adversarial attacks and defenses in NLP, org
     "research-learning"
   ],
   "repository_type": "collection",
-  "capabilities": [
-    "vulnerability-scanning",
-    "model-evaluation",
-    "benchmarking"
-  ],
+  "capabilities": [],
   "technologies": [
     "Python"
   ],
