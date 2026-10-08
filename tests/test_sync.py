@@ -12,7 +12,7 @@ spec.loader.exec_module(radar)
 
 class SyncTests(unittest.TestCase):
     def test_safe_paths(self):
-        self.assertEqual(radar.catalog_path("some-owner/cool.repo"), radar.CATALOG / "some-owner" / "cool.md")
+        self.assertEqual(radar.catalog_path("some-owner/cool.repo"), radar.CATALOG / "some-owner" / "cool.repo.md")
         for name in ("../escape", "one", "one/two/three", "one/../evil"):
             with self.assertRaises(ValueError):
                 radar.catalog_path(name)
