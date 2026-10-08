@@ -43,6 +43,13 @@ class EnrichTests(unittest.TestCase):
         self.assertEqual(original["capabilities"], ["testing", "made-up", "testing"])
         radar.validate(cleaned, allowed)
 
+    def test_unknown_repository_type_uses_other(self):
+        allowed = {"repository_types": {"application", "other"}}
+        data = {"repository_type": "unspecified-utility"}
+        self.assertEqual(radar.clean_repository_type(data, allowed)["repository_type"], "other")
+        self.assertEqual(data["repository_type"], "unspecified-utility")
+        self.assertIsNone(radar.clean_repository_type({"repository_type": None}, allowed)["repository_type"])
+
     def test_validation_and_preserve_notes(self):
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
