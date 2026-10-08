@@ -152,6 +152,8 @@ def sync(username: str, token: str, max_new: int = 50) -> tuple[int, int]:
     CATALOG.mkdir(parents=True, exist_ok=True)
     for repo, starred_at in iter_stars(username, token):
         checked += 1
+        if (repo.get("owner") or {}).get("login", "").casefold() == username.casefold():
+            continue
         path = catalog_path(repo["full_name"])
         if path.exists():
             continue
