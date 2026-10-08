@@ -33,8 +33,31 @@ python -m unittest discover -s tests -v
 
 Local sync writes files but does not commit them. To backfill faster, repeat with a larger `--max-new`.
 
+## Optional GitHub Copilot enrichment
+
+The regular sync imports stars without requiring Copilot. After import, Actions checks for entries without a generated summary. If there are none, the Copilot SDK is **not installed or invoked**.
+
+To enable enrichment:
+
+1. Create a GitHub personal access token with Copilot Requests permission, associated with an account that can use Copilot.
+2. Set repository **Actions secret** `COPILOT_TOKEN` under Settings → Secrets and variables → Actions.
+3. Set the optional **Actions repository variable** `COPILOT_MODEL` to one of:
+   - `cheapest` (default): query the Copilot SDK model API and pick the lowest known premium-request multiplier; where multipliers are unavailable, compare estimated AI-credit token prices. If pricing cannot be queried, **fail without a costly fallback**.
+   - `auto`: let Copilot select the model according to your plan and policies; it is **not necessarily cheapest**.
+   - An explicit model ID (for example `claude-haiku-4.5`): use that model only; fail if unavailable.
+
+Each scheduled run (00:00 and 14:00 **fixed EET**, UTC+02:00) processes at most **10 unenriched entries**. Importing remains functional without the Copilot secret. Individual failed entries stay pending, and successful entries are retained. Nothing triggers Copilot when all records are already enriched. Expect usage of your Copilot entitlement and possible AI-credit charges.
+
+You can preview the pending queue without a token:
+
+```bash
+python scripts/enrich.py --dry-run
+```
+
+The enrichment output is stored in an explicitly machine-managed block at the bottom of each Markdown entry. Reprocessing an enriched entry is not automatic; manual notes are preserved. The taxonomy is specified in [taxonomy.yaml](taxonomy.yaml) and [CLASSIFICATION.md](CLASSIFICATION.md).
+
 ## Data and privacy
 
 This is a **public** catalog of public starred repositories. It may reflect your interests and approximate discovery dates. Don't put internal client details or private notes into public entries.
 
-The catalog is useful without AI-generated summaries. A future optional enrichment step could add concise capability descriptions to new entries without modifying personal notes.
+The catalog is useful without AI-generated summaries. Copilot enrichment is optional, and requires the repository secret described above.
