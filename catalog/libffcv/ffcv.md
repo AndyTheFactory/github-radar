@@ -96,10 +96,7 @@ FFCV is a drop-in data loading system for machine learning that aims to speed up
   "repository_type": "library",
   "capabilities": [
     "data-ingestion",
-    "model-training",
-    "data-transformation",
-    "image-classification",
-    "inference-serving"
+    "data-transformation"
   ],
   "technologies": [
     "Python",
