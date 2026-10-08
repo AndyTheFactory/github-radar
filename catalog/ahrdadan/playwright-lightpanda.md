@@ -85,8 +85,7 @@ Demonstrates using Lightpanda as a lightweight browser backend for a Playwright 
   "capabilities": [
     "web-scraping",
     "automation",
-    "deployment",
-    "inference-serving"
+    "deployment"
   ],
   "technologies": [
     "Python",
