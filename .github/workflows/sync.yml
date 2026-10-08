@@ -74,7 +74,21 @@ jobs:
           git add -A catalog/ CATALOG.md CATEGORIES.md categories/
           if ! git diff --cached --quiet; then
             git commit -m "chore: sync starred repositories"
-            git push
+            # The branch may advance while a long sync runs.
+            # Rebase on the latest main before pushing, with bounded retries.
+            for attempt in 1 2 3 4; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Catalog pushed successfully"
+                break
+              fi
+              if [ "$attempt" -eq 4 ]; then
+                echo "Push failed after 4 attempts" >&2
+                exit 1
+              fi
+              sleep $((attempt * 3))
+            done
           else
             echo "Catalog already up to date"
           fi
