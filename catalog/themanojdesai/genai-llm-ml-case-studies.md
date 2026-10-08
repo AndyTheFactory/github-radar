@@ -80,9 +80,7 @@ A curated collection of over 500 real-world ML and LLM system design case studie
   "repository_type": "collection",
   "capabilities": [
     "education",
-    "knowledge-management",
-    "search-retrieval",
-    "model-evaluation"
+    "knowledge-management"
   ],
   "technologies": [
     "LLM",
