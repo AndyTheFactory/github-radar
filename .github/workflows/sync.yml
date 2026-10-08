@@ -64,11 +64,14 @@ jobs:
           COPILOT_MODEL: ${{ vars.COPILOT_MODEL || 'cheapest' }}
         run: python scripts/enrich.py --limit 10
 
+      - name: Rebuild category indexes
+        run: python scripts/build_categories.py
+
       - name: Commit catalog updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A catalog/ CATALOG.md
+          git add -A catalog/ CATALOG.md CATEGORIES.md categories/
           if ! git diff --cached --quiet; then
             git commit -m "chore: sync starred repositories"
             git push
