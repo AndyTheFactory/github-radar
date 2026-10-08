@@ -58,10 +58,7 @@ A crowd-sourced, Markdown-based checklist guide intended to help technically ski
     "miscellanea"
   ],
   "repository_type": "resource",
-  "capabilities": [
-    "task-management",
-    "knowledge-management"
-  ],
+  "capabilities": ["knowledge-management"],
   "technologies": [],
   "summary": "A crowd-sourced, Markdown-based checklist guide intended to help technically skilled people prepare documentation and plans so non-technical family members can handle digital accounts, devices, and bills after an end-of-life event. The README describes a sanitized checklist that can be adapted and extended via pull requests.",
   "use_cases": [
