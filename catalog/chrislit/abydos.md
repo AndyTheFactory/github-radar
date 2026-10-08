@@ -79,14 +79,13 @@ Abydos is a Python NLP and information retrieval library focused on string metri
     "model": "claude-haiku-5.5",
     "source_sha256": "af89178d6d18866c7928122bdf0d6747575c8f88eb1ae34b9e967f602ec104af"
   },
-  "primary_domain": "research-learning",
+  "primary_domain": "ai-ml",
   "secondary_domains": [
     "ai-ml",
     "developer-tools"
   ],
   "repository_type": "library",
   "capabilities": [
-    "classification",
     "search-retrieval",
     "data-transformation"
   ],
