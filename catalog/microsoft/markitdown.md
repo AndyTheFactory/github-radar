@@ -77,7 +77,7 @@ MarkItDown is a Python utility that converts files such as PDF, Office documents
     "model": "claude-haiku-5.5",
     "source_sha256": "c560bb1cd0b9fb52e5fd048e1b9aaeed9b55426ad6659c8c39d64f41241bd6d8"
   },
-  "primary_domain": "productivity",
+  "primary_domain": "data-engineering",
   "secondary_domains": [
     "data-engineering",
     "ai-ml"
