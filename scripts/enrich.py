@@ -121,7 +121,7 @@ async def main():
         print("COPILOT_GITHUB_TOKEN not set; leaving entries pending", file=sys.stderr)
         return
     from copilot import CopilotClient
-    from copilot.generated.rpc import ModelsListRequest
+    from copilot.rpc import ModelsListRequest
     allowed = taxonomy()
     async with CopilotClient() as client:
         model_list = (await client.rpc.models.list(ModelsListRequest())).models
@@ -161,7 +161,7 @@ async def main():
                 failed += 1
                 print(f"Failed to enrich {path}: {exc}", file=sys.stderr)
         if failed:
-            raise RuntimeError(f"{failed} entries failed; unfinished entries remain pending")
+            print(f"{failed} entries failed; unfinished entries remain pending", file=sys.stderr)
 
 if __name__ == "__main__":
     asyncio.run(main())
