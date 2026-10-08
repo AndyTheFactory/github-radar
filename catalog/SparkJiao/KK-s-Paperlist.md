@@ -74,11 +74,7 @@ A curated list of academic papers on machine learning, reinforcement learning, N
     "research-learning"
   ],
   "repository_type": "collection",
-  "capabilities": [
-    "classification",
-    "question-answering",
-    "information-extraction"
-  ],
+  "capabilities": [],
   "technologies": [],
   "summary": "A curated list of academic papers on machine learning, reinforcement learning, NLP, and related topics, organized by subject such as language models, machine reading comprehension, and dialog systems. The README excerpt shows a table of contents with topics including benchmarks, toolkits, and graph neural networks.",
   "use_cases": [
