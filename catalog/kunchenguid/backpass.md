@@ -99,8 +99,7 @@ backpass is a CLI tool that improves AGENTS.md, CLAUDE.md, and project skills by
     "agent-orchestration",
     "workflow-orchestration",
     "data-ingestion",
-    "data-evaluation",
-    "fine-tuning"
+    "data-evaluation"
   ],
   "technologies": [
     "JavaScript",
