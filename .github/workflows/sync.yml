@@ -83,6 +83,9 @@ jobs:
           ENRICH_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.enrichment_limit || 10 }}
         run: python scripts/enrich.py --limit "$ENRICH_LIMIT"
 
+      - name: Audit saved classifications (advisory)
+        run: python scripts/audit_catalog.py
+
       - name: Rebuild category indexes
         run: python scripts/build_categories.py
 
