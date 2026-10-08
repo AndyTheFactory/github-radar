@@ -109,7 +109,6 @@ Streamlit is an open-source Python framework for turning scripts into interactiv
   "repository_type": "library",
   "capabilities": [
     "data-visualization",
-    "inference-serving",
     "reporting"
   ],
   "technologies": [
