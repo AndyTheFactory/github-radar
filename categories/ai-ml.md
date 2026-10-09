@@ -48,6 +48,7 @@
 - [nachogl1/maestro](../catalog/nachogl1/maestro.md)
 - [paperclipai/paperclip](../catalog/paperclipai/paperclip.md)
 - [pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU](../catalog/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU.md)
+- [pydantic/pydantic-ai](../catalog/pydantic/pydantic-ai.md)
 - [serhiileniv/claude-router](../catalog/serhiileniv/claude-router.md)
 - [tensorflow/models](../catalog/tensorflow/models.md)
 - [themanojdesai/genai-llm-ml-case-studies](../catalog/themanojdesai/genai-llm-ml-case-studies.md)

@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 78 repositories, sorted by repository name.
+All 86 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u)**
 
@@ -13,6 +13,7 @@ All 78 repositories, sorted by repository name.
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub> — Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub> — An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…
 - **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** <sub>aiming-lab</sub> — An autonomous research pipeline that takes a research idea and runs multi-stage processes to produce a paper, with optional human-in-the-loop…
+- **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub> — A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.
 - **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub> — A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.
 - **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub> — A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.
 - **[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** <sub>awesomedata</sub> — A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata.
@@ -44,6 +45,7 @@ All 78 repositories, sorted by repository name.
 - **[entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets)** <sub>juand-r</sub> — A collection of annotated corpora for named entity recognition (NER) across multiple languages, domains, and entity types.
 - **[eol-dr](https://github.com/potatoqualitee/eol-dr)** <sub>potatoqualitee</sub> — A crowd-sourced, Markdown-based checklist guide intended to help technically skilled people prepare documentation and plans so non-technical…
 - **[evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook)** <sub>huggingface</sub> — A guidebook sharing practical and theoretical knowledge about evaluating large language models, drawn from experience managing the Open LLM…
+- **[extruct](https://github.com/scrapinghub/extruct)** <sub>scrapinghub</sub> — extruct is a Python library for extracting embedded metadata from HTML markup.
 
 ## F
 
@@ -62,6 +64,8 @@ All 78 repositories, sorted by repository name.
 ## H
 
 - **[handson-ml3](https://github.com/ageron/handson-ml3)** <sub>ageron</sub> — A collection of Jupyter notebooks teaching machine learning and deep learning fundamentals in Python with Scikit-Learn, Keras, and TensorFlow 2.
+- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub> — The agent that grows with you
+- **[httpx2](https://github.com/pydantic/httpx2)** <sub>pydantic</sub> — HTTPX2 is a Python HTTP client library offering sync and async APIs, HTTP/1.1 and HTTP/2 support, and an optional integrated command-line client.
 
 ## J
 
@@ -104,6 +108,7 @@ All 78 repositories, sorted by repository name.
 
 - **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** <sub>OpenAPITools</sub> — Utility for comparing two OpenAPI specifications (3.x) and rendering the differences as HTML, Markdown, AsciiDoc, text, or JSON.
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub> — OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…
+- **[OpenShell](https://github.com/NVIDIA/OpenShell)** <sub>NVIDIA</sub> — OpenShell is a runtime that runs autonomous AI agents in isolated sandboxes, enforcing policies on file access, system calls, and network…
 
 ## P
 
@@ -113,11 +118,14 @@ All 78 repositories, sorted by repository name.
 - **[Pixo](https://github.com/alexandrerodenas/Pixo)** <sub>alexandrerodenas</sub> — Pixo is a browser-based web application that organizes local photos using TensorFlow.js models (MobileNet, COCO-SSD) for scene classification…
 - **[playwright-lightpanda](https://github.com/ahrdadan/playwright-lightpanda)** <sub>ahrdadan</sub> — Demonstrates using Lightpanda as a lightweight browser backend for a Playwright Python client over the Chrome DevTools Protocol.
 - **[Primer-to-Machine-Learning](https://github.com/AdArya125/Primer-to-Machine-Learning)** <sub>AdArya125</sub> — A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing,…
+- **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub> — Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.
+- **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** <sub>pydantic</sub> — Pydantic AI is a Python SDK providing a typed agent loop that works across many LLM providers.
 - **[PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit)** <sub>Ankit404butfound</sub> — PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times.
 
 ## R
 
 - **[rdpwrap](https://github.com/stascorp/rdpwrap)** <sub>stascorp</sub> — RDP Wrapper Library is a layer between the Service Control Manager and Terminal Services that aims to enable Remote Desktop Host support and…
+- **[rea](https://github.com/morluto/rea)** <sub>morluto</sub> — REA is an MCP server and CLI that gives AI agents tools to reverse engineer native binaries, JavaScript/Electron apps, .NET assemblies, and…
 - **[reef](https://github.com/Human-Agent-Society/reef)** <sub>Human-Agent-Society</sub> — Reef is an open-source infrastructure for continually self-improving agents.
 - **[rustdesk](https://github.com/rustdesk/rustdesk)** <sub>rustdesk</sub> — RustDesk is an open-source remote desktop application written in Rust, designed for self-hosting as an alternative to TeamViewer.
 

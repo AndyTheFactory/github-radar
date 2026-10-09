@@ -10,6 +10,7 @@
 - [TheAiSingularity/graphrag-local-ollama](../catalog/TheAiSingularity/graphrag-local-ollama.md)
 - [ageron/handson-ml3](../catalog/ageron/handson-ml3.md)
 - [aiming-lab/AutoResearchClaw](../catalog/aiming-lab/AutoResearchClaw.md)
+- [aliaihub/awesome-hermes-usecases](../catalog/aliaihub/awesome-hermes-usecases.md)
 - [awesomedata/awesome-public-datasets](../catalog/awesomedata/awesome-public-datasets.md)
 - [brightmart/text_classification](../catalog/brightmart/text_classification.md)
 - [bytedance/deer-flow](../catalog/bytedance/deer-flow.md)

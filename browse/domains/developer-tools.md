@@ -2,13 +2,13 @@
 
 # Developer Tools
 
-18 repositories, grouped by what kind of thing they are.
+20 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (8) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (2) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (10) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (2) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Libraries & frameworks
 
-<sub>8 repositories · code you import</sub>
+<sub>10 repositories · code you import</sub>
 
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub><br>
   Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…<br>
@@ -25,9 +25,15 @@
 - **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** <sub>CloakHQ</sub><br>
   A Chromium-based browser automation library offered as a drop-in replacement for Playwright and Puppeteer in Python and JavaScript.<br>
   <sub>`automation` `web-scraping` `api-integration` · [catalog entry](../../catalog/CloakHQ/CloakBrowser.md)</sub>
+- **[httpx2](https://github.com/pydantic/httpx2)** <sub>pydantic</sub><br>
+  HTTPX2 is a Python HTTP client library offering sync and async APIs, HTTP/1.1 and HTTP/2 support, and an optional integrated command-line client.<br>
+  <sub>`api-integration` `networking` · [catalog entry](../../catalog/pydantic/httpx2.md)</sub>
 - **[lightpanda-py](https://github.com/tclesius/lightpanda-py)** <sub>tclesius</sub><br>
   A Python package that bundles the Lightpanda headless browser, exposing fetch, CDP server, and MCP server helpers.<br>
   <sub>`web-scraping` `api-integration` `automation` · [catalog entry](../../catalog/tclesius/lightpanda-py.md)</sub>
+- **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub><br>
+  Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.<br>
+  <sub>`data-validation` `data-transformation` · [catalog entry](../../catalog/pydantic/pydantic.md)</sub>
 - **[streamlit](https://github.com/streamlit/streamlit)** <sub>streamlit</sub><br>
   Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards.<br>
   <sub>`data-visualization` `reporting` · [catalog entry](../../catalog/streamlit/streamlit.md)</sub>

@@ -2,13 +2,13 @@
 
 # AI & Machine Learning
 
-39 repositories, grouped by what kind of thing they are.
+40 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (20) · [Apps & command-line tools](#apps--command-line-tools) (6) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (21) · [Apps & command-line tools](#apps--command-line-tools) (6) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
 
 ## Libraries & frameworks
 
-<sub>20 repositories · code you import</sub>
+<sub>21 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -52,6 +52,9 @@
 - **[nlp-architect](https://github.com/IntelLabs/nlp-architect)** <sub>IntelLabs</sub><br>
   NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and…<br>
   <sub>`model-training` `inference-serving` `benchmarking` · [catalog entry](../../catalog/IntelLabs/nlp-architect.md)</sub>
+- **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** <sub>pydantic</sub><br>
+  Pydantic AI is a Python SDK providing a typed agent loop that works across many LLM providers.<br>
+  <sub>`agent-orchestration` `image-generation` `model-evaluation` · [catalog entry](../../catalog/pydantic/pydantic-ai.md)</sub>
 - **[reef](https://github.com/Human-Agent-Society/reef)** <sub>Human-Agent-Society</sub><br>
   Reef is an open-source infrastructure for continually self-improving agents.<br>
   <sub>`agent-orchestration` `model-training` `inference-serving` · [catalog entry](../../catalog/Human-Agent-Society/reef.md)</sub>

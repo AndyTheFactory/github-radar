@@ -8,4 +8,6 @@
 - [lazyprogrammer/machine_learning_examples](../catalog/lazyprogrammer/machine_learning_examples.md)
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
+- [pydantic/pydantic](../catalog/pydantic/pydantic.md)
+- [scrapinghub/extruct](../catalog/scrapinghub/extruct.md)
 - [streamlit/streamlit](../catalog/streamlit/streamlit.md)

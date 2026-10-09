@@ -2,13 +2,13 @@
 
 # Browse by kind
 
-All 78 repositories, grouped by repository type.
+All 86 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (33) · [Apps & command-line tools](#apps--command-line-tools) (22) · [Curated lists & collections](#curated-lists--collections) (13) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (37) · [Apps & command-line tools](#apps--command-line-tools) (24) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (2)
 
 ## Libraries & frameworks
 
-<sub>33 repositories · code you import</sub>
+<sub>37 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -34,6 +34,9 @@ All 78 repositories, grouped by repository type.
 - **[deepagents](https://github.com/langchain-ai/deepagents)** <sub>langchain-ai</sub><br>
   Deep Agents is an open source, opinionated agent harness built on LangGraph, offering sub-agents, pluggable filesystem and memory backends,…<br>
   <sub>`agent-orchestration` `workflow-orchestration` `task-management` · [catalog entry](../catalog/langchain-ai/deepagents.md)</sub>
+- **[extruct](https://github.com/scrapinghub/extruct)** <sub>scrapinghub</sub><br>
+  extruct is a Python library for extracting embedded metadata from HTML markup.<br>
+  <sub>`data-ingestion` `data-transformation` · [catalog entry](../catalog/scrapinghub/extruct.md)</sub>
 - **[ffcv](https://github.com/libffcv/ffcv)** <sub>libffcv</sub><br>
   FFCV is a drop-in data loading system for machine learning that aims to speed up data throughput during model training, particularly for…<br>
   <sub>`data-ingestion` `data-transformation` · [catalog entry](../catalog/libffcv/ffcv.md)</sub>
@@ -46,6 +49,9 @@ All 78 repositories, grouped by repository type.
 - **[graphrag-local-ollama](https://github.com/TheAiSingularity/graphrag-local-ollama)** <sub>TheAiSingularity</sub><br>
   A local-model adaptation of Microsoft's GraphRAG that uses Ollama for LLM and embedding extraction to build knowledge-graph-based indexes and…<br>
   <sub>`question-answering` `indexing` `inference-serving` · [catalog entry](../catalog/TheAiSingularity/graphrag-local-ollama.md)</sub>
+- **[httpx2](https://github.com/pydantic/httpx2)** <sub>pydantic</sub><br>
+  HTTPX2 is a Python HTTP client library offering sync and async APIs, HTTP/1.1 and HTTP/2 support, and an optional integrated command-line client.<br>
+  <sub>`api-integration` `networking` · [catalog entry](../catalog/pydantic/httpx2.md)</sub>
 - **[jevwire](https://github.com/Brainwires/jevwire)** <sub>Brainwires</sub><br>
   jevwire is a decision layer for AI agents that answers bounded typed questions (yes/no, pick-one, rubric ratings) with probabilities over user-…<br>
   <sub>`classification` `api-integration` `inference-serving` · [catalog entry](../catalog/Brainwires/jevwire.md)</sub>
@@ -79,6 +85,12 @@ All 78 repositories, grouped by repository type.
 - **[nlp-architect](https://github.com/IntelLabs/nlp-architect)** <sub>IntelLabs</sub><br>
   NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and…<br>
   <sub>`model-training` `inference-serving` `benchmarking` · [catalog entry](../catalog/IntelLabs/nlp-architect.md)</sub>
+- **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub><br>
+  Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.<br>
+  <sub>`data-validation` `data-transformation` · [catalog entry](../catalog/pydantic/pydantic.md)</sub>
+- **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** <sub>pydantic</sub><br>
+  Pydantic AI is a Python SDK providing a typed agent loop that works across many LLM providers.<br>
+  <sub>`agent-orchestration` `image-generation` `model-evaluation` · [catalog entry](../catalog/pydantic/pydantic-ai.md)</sub>
 - **[PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit)** <sub>Ankit404butfound</sub><br>
   PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times.<br>
   <sub>`api-integration` `automation` `media-editing` · [catalog entry](../catalog/Ankit404butfound/PyWhatKit.md)</sub>
@@ -112,7 +124,7 @@ All 78 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>22 repositories · things you run</sub>
+<sub>24 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -159,6 +171,9 @@ All 78 repositories, grouped by repository type.
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub><br>
   OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…<br>
   <sub>`api-integration` `web-scraping` `automation` · [catalog entry](../catalog/jackwener/OpenCLI.md)</sub>
+- **[OpenShell](https://github.com/NVIDIA/OpenShell)** <sub>NVIDIA</sub><br>
+  OpenShell is a runtime that runs autonomous AI agents in isolated sandboxes, enforcing policies on file access, system calls, and network…<br>
+  <sub>`authorization` `virtualization` `containerization` · [catalog entry](../catalog/NVIDIA/OpenShell.md)</sub>
 - **[paperclip](https://github.com/paperclipai/paperclip)** <sub>paperclipai</sub><br>
   Paperclip is an open-source Node.js server and React UI for orchestrating teams of AI agents toward business goals.<br>
   <sub>`agent-orchestration` `workflow-orchestration` `monitoring` · [catalog entry](../catalog/paperclipai/paperclip.md)</sub>
@@ -171,6 +186,9 @@ All 78 repositories, grouped by repository type.
 - **[Pixo](https://github.com/alexandrerodenas/Pixo)** <sub>alexandrerodenas</sub><br>
   Pixo is a browser-based web application that organizes local photos using TensorFlow.js models (MobileNet, COCO-SSD) for scene classification…<br>
   <sub>`image-classification` `object-detection` `indexing` · [catalog entry](../catalog/alexandrerodenas/Pixo.md)</sub>
+- **[rea](https://github.com/morluto/rea)** <sub>morluto</sub><br>
+  REA is an MCP server and CLI that gives AI agents tools to reverse engineer native binaries, JavaScript/Electron apps, .NET assemblies, and…<br>
+  <sub>`static-analysis` `debugging` `profiling` · [catalog entry](../catalog/morluto/rea.md)</sub>
 - **[rustdesk](https://github.com/rustdesk/rustdesk)** <sub>rustdesk</sub><br>
   RustDesk is an open-source remote desktop application written in Rust, designed for self-hosting as an alternative to TeamViewer.<br>
   <sub>`api-integration` `authentication` `collaboration` · [catalog entry](../catalog/rustdesk/rustdesk.md)</sub>
@@ -183,8 +201,11 @@ All 78 repositories, grouped by repository type.
 
 ## Curated lists & collections
 
-<sub>13 repositories · reading lists, datasets, notebooks</sub>
+<sub>14 repositories · reading lists, datasets, notebooks</sub>
 
+- **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub><br>
+  A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.<br>
+  <sub>[catalog entry](../catalog/aliaihub/awesome-hermes-usecases.md)</sub>
 - **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub><br>
   A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.<br>
   <sub>[catalog entry](../catalog/heyjunpenn/awesome-jev.md)</sub>
@@ -264,8 +285,11 @@ All 78 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>1 repositories · other or not yet classified</sub>
+<sub>2 repositories · other or not yet classified</sub>
 
+- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub><br>
+  The agent that grows with you<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/NousResearch/hermes-agent.md)</sub>
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>

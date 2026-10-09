@@ -1,6 +1,6 @@
 # Catalog
 
-**78 repositories archived.**
+**86 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -9,6 +9,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [ahrdadan/playwright-lightpanda](catalog/ahrdadan/playwright-lightpanda.md)
 - [aiming-lab/AutoResearchClaw](catalog/aiming-lab/AutoResearchClaw.md)
 - [alexandrerodenas/Pixo](catalog/alexandrerodenas/Pixo.md)
+- [aliaihub/awesome-hermes-usecases](catalog/aliaihub/awesome-hermes-usecases.md)
 - [Ankit404butfound/PyWhatKit](catalog/Ankit404butfound/PyWhatKit.md)
 - [Avaiga/taipy](catalog/Avaiga/taipy.md)
 - [awesomedata/awesome-public-datasets](catalog/awesomedata/awesome-public-datasets.md)
@@ -51,9 +52,12 @@ Search the repository using GitHub Code Search or browse entries below.
 - [linexjlin/GPTs](catalog/linexjlin/GPTs.md)
 - [MemPalace/mempalace](catalog/MemPalace/mempalace.md)
 - [microsoft/markitdown](catalog/microsoft/markitdown.md)
+- [morluto/rea](catalog/morluto/rea.md)
 - [mwstowe/foff-milter](catalog/mwstowe/foff-milter.md)
 - [nachogl1/maestro](catalog/nachogl1/maestro.md)
 - [nocodb/nocodb](catalog/nocodb/nocodb.md)
+- [NousResearch/hermes-agent](catalog/NousResearch/hermes-agent.md)
+- [NVIDIA/OpenShell](catalog/NVIDIA/OpenShell.md)
 - [NVIDIA/SkillSpector](catalog/NVIDIA/SkillSpector.md)
 - [OpenAPITools/openapi-diff](catalog/OpenAPITools/openapi-diff.md)
 - [Panniantong/Agent-Reach](catalog/Panniantong/Agent-Reach.md)
@@ -61,10 +65,14 @@ Search the repository using GitHub Code Search or browse entries below.
 - [potatoqualitee/eol-dr](catalog/potatoqualitee/eol-dr.md)
 - [pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU](catalog/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU.md)
 - [ProsusAI/MemEval](catalog/ProsusAI/MemEval.md)
+- [pydantic/httpx2](catalog/pydantic/httpx2.md)
+- [pydantic/pydantic-ai](catalog/pydantic/pydantic-ai.md)
+- [pydantic/pydantic](catalog/pydantic/pydantic.md)
 - [rustdesk/rustdesk](catalog/rustdesk/rustdesk.md)
 - [SakanaAI/doc-to-lora](catalog/SakanaAI/doc-to-lora.md)
 - [salvadordf/CEF4Delphi](catalog/salvadordf/CEF4Delphi.md)
 - [santiontanon/netherearth-disassembly](catalog/santiontanon/netherearth-disassembly.md)
+- [scrapinghub/extruct](catalog/scrapinghub/extruct.md)
 - [serhiileniv/claude-router](catalog/serhiileniv/claude-router.md)
 - [SparkJiao/KK-s-Paperlist](catalog/SparkJiao/KK-s-Paperlist.md)
 - [spytheeuclidean-a11y/knoxmap](catalog/spytheeuclidean-a11y/knoxmap.md)

@@ -2,14 +2,17 @@
 
 # Data Engineering & Analytics
 
-2 repositories, grouped by what kind of thing they are.
+3 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (2)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (3)
 
 ## Libraries & frameworks
 
-<sub>2 repositories · code you import</sub>
+<sub>3 repositories · code you import</sub>
 
+- **[extruct](https://github.com/scrapinghub/extruct)** <sub>scrapinghub</sub><br>
+  extruct is a Python library for extracting embedded metadata from HTML markup.<br>
+  <sub>`data-ingestion` `data-transformation` · [catalog entry](../../catalog/scrapinghub/extruct.md)</sub>
 - **[goose3](https://github.com/goose3/goose3)** <sub>goose3</sub><br>
   goose3 is a Python 3 port of the Goose article extractor.<br>
   <sub>`information-extraction` `web-scraping` `document-processing` · [catalog entry](../../catalog/goose3/goose3.md)</sub>
