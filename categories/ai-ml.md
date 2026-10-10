@@ -9,6 +9,7 @@
 - [LibreChat-AI/LibreChat](../catalog/LibreChat-AI/LibreChat.md)
 - [MemPalace/mempalace](../catalog/MemPalace/mempalace.md)
 - [NVIDIA/SkillSpector](../catalog/NVIDIA/SkillSpector.md)
+- [NousResearch/hermes-agent](../catalog/NousResearch/hermes-agent.md)
 - [ProsusAI/MemEval](../catalog/ProsusAI/MemEval.md)
 - [SakanaAI/doc-to-lora](../catalog/SakanaAI/doc-to-lora.md)
 - [SparkJiao/KK-s-Paperlist](../catalog/SparkJiao/KK-s-Paperlist.md)

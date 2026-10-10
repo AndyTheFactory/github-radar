@@ -45,3 +45,59 @@ The agent that grows with you
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp, Signal). It supports multiple LLM providers, persistent memory and skills, scheduled tasks, and subagent delegation across several execution backends.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "aa4e1ed7e2d9cae690bc1ac09ea330b5417cb0a1e0767853d78987cb4773e5c6"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools",
+    "productivity"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "agent-orchestration",
+    "automation",
+    "workflow-orchestration",
+    "code-generation",
+    "knowledge-management"
+  ],
+  "technologies": [
+    "Python"
+  ],
+  "summary": "Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp, Signal). It supports multiple LLM providers, persistent memory and skills, scheduled tasks, and subagent delegation across several execution backends.",
+  "use_cases": [
+    "Running a persistent AI assistant across CLI and messaging platforms",
+    "Scheduling unattended recurring tasks in natural language",
+    "Delegating parallel workstreams to isolated subagents"
+  ],
+  "limitations": [
+    "Relies on external LLM providers or endpoints for model inference",
+    "README claims are source metadata and were not independently verified",
+    "Native Windows support is described with a WSL2 alternative suggested"
+  ],
+  "suggested_terms": [
+    "ai agent",
+    "llm agent",
+    "agent skills",
+    "cli agent",
+    "multi-platform chatbot"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

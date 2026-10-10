@@ -64,7 +64,7 @@ All 86 repositories, sorted by repository name.
 ## H
 
 - **[handson-ml3](https://github.com/ageron/handson-ml3)** <sub>ageron</sub> — A collection of Jupyter notebooks teaching machine learning and deep learning fundamentals in Python with Scikit-Learn, Keras, and TensorFlow 2.
-- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub> — The agent that grows with you
+- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub> — Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp,…
 - **[httpx2](https://github.com/pydantic/httpx2)** <sub>pydantic</sub> — HTTPX2 is a Python HTTP client library offering sync and async APIs, HTTP/1.1 and HTTP/2 support, and an optional integrated command-line client.
 
 ## J

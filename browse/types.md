@@ -4,7 +4,7 @@
 
 All 86 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (37) · [Apps & command-line tools](#apps--command-line-tools) (24) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (2)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (37) · [Apps & command-line tools](#apps--command-line-tools) (25) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -124,7 +124,7 @@ All 86 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>24 repositories · things you run</sub>
+<sub>25 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -147,6 +147,9 @@ All 86 repositories, grouped by repository type.
 - **[foff-milter](https://github.com/mwstowe/foff-milter)** <sub>mwstowe</sub><br>
   FOFF Milter is a Sendmail milter written in Rust for email spam and fraud detection.<br>
   <sub>`classification` `static-analysis` `information-extraction` · [catalog entry](../catalog/mwstowe/foff-milter.md)</sub>
+- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub><br>
+  Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp,…<br>
+  <sub>`agent-orchestration` `automation` `workflow-orchestration` · [catalog entry](../catalog/NousResearch/hermes-agent.md)</sub>
 - **[jev-router](https://github.com/gargpratyush/jev-router)** <sub>gargpratyush</sub><br>
   jev-router is a CLI wrapper that automatically routes each fresh user turn to a fast or strong model tier for Claude Code and OpenAI Codex.<br>
   <sub>`api-integration` `code-generation` `workflow-orchestration` · [catalog entry](../catalog/gargpratyush/jev-router.md)</sub>
@@ -285,11 +288,8 @@ All 86 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>2 repositories · other or not yet classified</sub>
+<sub>1 repositories · other or not yet classified</sub>
 
-- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub><br>
-  The agent that grows with you<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/NousResearch/hermes-agent.md)</sub>
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>

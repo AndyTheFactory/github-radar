@@ -2,9 +2,9 @@
 
 # AI & Machine Learning
 
-40 repositories, grouped by what kind of thing they are.
+41 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (21) · [Apps & command-line tools](#apps--command-line-tools) (6) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (21) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
 
 ## Libraries & frameworks
 
@@ -76,7 +76,7 @@
 
 ## Apps & command-line tools
 
-<sub>6 repositories · things you run</sub>
+<sub>7 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -87,6 +87,9 @@
 - **[deer-flow](https://github.com/bytedance/deer-flow)** <sub>bytedance</sub><br>
   DeerFlow is an open-source super agent harness that orchestrates sub-agents, memory, sandboxes, tools, and skills to handle research, coding,…<br>
   <sub>`agent-orchestration` `web-scraping` `search-retrieval` · [catalog entry](../../catalog/bytedance/deer-flow.md)</sub>
+- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub><br>
+  Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp,…<br>
+  <sub>`agent-orchestration` `automation` `workflow-orchestration` · [catalog entry](../../catalog/NousResearch/hermes-agent.md)</sub>
 - **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** <sub>LibreChat-AI</sub><br>
   LibreChat is an open-source, self-hostable ChatGPT-style web interface supporting multiple AI model providers.<br>
   <sub>`inference-serving` `api-integration` `code-generation` · [catalog entry](../../catalog/LibreChat-AI/LibreChat.md)</sub>

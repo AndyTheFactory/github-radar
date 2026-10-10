@@ -3,6 +3,7 @@
 - [Ankit404butfound/PyWhatKit](../catalog/Ankit404butfound/PyWhatKit.md)
 - [FujiwaraChoki/MoneyPrinterV2](../catalog/FujiwaraChoki/MoneyPrinterV2.md)
 - [LibreChat-AI/LibreChat](../catalog/LibreChat-AI/LibreChat.md)
+- [NousResearch/hermes-agent](../catalog/NousResearch/hermes-agent.md)
 - [Panniantong/Agent-Reach](../catalog/Panniantong/Agent-Reach.md)
 - [TauricResearch/TradingAgents](../catalog/TauricResearch/TradingAgents.md)
 - [aiming-lab/AutoResearchClaw](../catalog/aiming-lab/AutoResearchClaw.md)
