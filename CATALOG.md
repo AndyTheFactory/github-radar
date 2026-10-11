@@ -1,6 +1,6 @@
 # Catalog
 
-**86 repositories archived.**
+**87 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -78,6 +78,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [spytheeuclidean-a11y/knoxmap](catalog/spytheeuclidean-a11y/knoxmap.md)
 - [stascorp/rdpwrap](catalog/stascorp/rdpwrap.md)
 - [storytold/photocraft](catalog/storytold/photocraft.md)
+- [storytold/wordcraft](catalog/storytold/wordcraft.md)
 - [streamlit/streamlit](catalog/streamlit/streamlit.md)
 - [TauricResearch/TradingAgents](catalog/TauricResearch/TradingAgents.md)
 - [tclesius/lightpanda-py](catalog/tclesius/lightpanda-py.md)

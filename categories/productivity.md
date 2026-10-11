@@ -16,3 +16,4 @@
 - [paperclipai/paperclip](../catalog/paperclipai/paperclip.md)
 - [potatoqualitee/eol-dr](../catalog/potatoqualitee/eol-dr.md)
 - [serhiileniv/claude-router](../catalog/serhiileniv/claude-router.md)
+- [storytold/wordcraft](../catalog/storytold/wordcraft.md)

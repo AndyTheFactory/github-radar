@@ -2,9 +2,17 @@
 
 # Productivity & Personal Tools
 
-1 repositories, grouped by what kind of thing they are.
+2 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (1) · [Guides & tutorials](#guides--tutorials) (1)
+
+## Apps & command-line tools
+
+<sub>1 repositories · things you run</sub>
+
+- **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub><br>
+  WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…<br>
+  <sub>`document-processing` `media-editing` · [catalog entry](../../catalog/storytold/wordcraft.md)</sub>
 
 ## Guides & tutorials
 

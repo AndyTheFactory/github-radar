@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 86 repositories, grouped by repository type.
+All 87 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (37) · [Apps & command-line tools](#apps--command-line-tools) (25) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (37) · [Apps & command-line tools](#apps--command-line-tools) (26) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -124,7 +124,7 @@ All 86 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>25 repositories · things you run</sub>
+<sub>26 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -201,6 +201,9 @@ All 86 repositories, grouped by repository type.
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub><br>
   Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.<br>
   <sub>`inference-serving` `fine-tuning` `model-training` · [catalog entry](../catalog/unslothai/unsloth.md)</sub>
+- **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub><br>
+  WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…<br>
+  <sub>`document-processing` `media-editing` · [catalog entry](../catalog/storytold/wordcraft.md)</sub>
 
 ## Curated lists & collections
 

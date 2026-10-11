@@ -42,6 +42,7 @@
 - [scrapinghub/extruct](../catalog/scrapinghub/extruct.md)
 - [serhiileniv/claude-router](../catalog/serhiileniv/claude-router.md)
 - [storytold/photocraft](../catalog/storytold/photocraft.md)
+- [storytold/wordcraft](../catalog/storytold/wordcraft.md)
 - [streamlit/streamlit](../catalog/streamlit/streamlit.md)
 - [tclesius/lightpanda-py](../catalog/tclesius/lightpanda-py.md)
 - [unslothai/unsloth](../catalog/unslothai/unsloth.md)

@@ -2,9 +2,9 @@
 
 # A–Z directory
 
-All 86 repositories, sorted by repository name.
+All 87 repositories, sorted by repository name.
 
-**[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u)**
+**[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w)**
 
 ## A
 
@@ -148,5 +148,9 @@ All 86 repositories, sorted by repository name.
 ## U
 
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub> — Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.
+
+## W
+
+- **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub> — WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…
 
 <sub>[↑ Back to top](#az-directory) · [All subjects](README.md)</sub>
