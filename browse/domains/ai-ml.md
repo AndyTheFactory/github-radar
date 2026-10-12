@@ -2,17 +2,20 @@
 
 # AI & Machine Learning
 
-41 repositories, grouped by what kind of thing they are.
+42 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (21) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (22) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
 
 ## Libraries & frameworks
 
-<sub>21 repositories · code you import</sub>
+<sub>22 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
   <sub>`search-retrieval` `data-transformation` · [catalog entry](../../catalog/chrislit/abydos.md)</sub>
+- **[agent-framework](https://github.com/microsoft/agent-framework)** <sub>microsoft</sub><br>
+  Microsoft Agent Framework is an open, multi-language SDK for building, orchestrating, and deploying AI agents and multi-agent workflows in…<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `inference-serving` · [catalog entry](../../catalog/microsoft/agent-framework.md)</sub>
 - **[deepagents](https://github.com/langchain-ai/deepagents)** <sub>langchain-ai</sub><br>
   Deep Agents is an open source, opinionated agent harness built on LangGraph, offering sub-agents, pluggable filesystem and memory backends,…<br>
   <sub>`agent-orchestration` `workflow-orchestration` `task-management` · [catalog entry](../../catalog/langchain-ai/deepagents.md)</sub>

@@ -30,6 +30,7 @@
 - [langchain-ai/langchain](../catalog/langchain-ai/langchain.md)
 - [lightpanda-io/awesome-lightpanda](../catalog/lightpanda-io/awesome-lightpanda.md)
 - [lightpanda-io/browser](../catalog/lightpanda-io/browser.md)
+- [microsoft/agent-framework](../catalog/microsoft/agent-framework.md)
 - [morluto/rea](../catalog/morluto/rea.md)
 - [nachogl1/maestro](../catalog/nachogl1/maestro.md)
 - [nocodb/nocodb](../catalog/nocodb/nocodb.md)

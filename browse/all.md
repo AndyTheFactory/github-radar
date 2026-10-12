@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 87 repositories, sorted by repository name.
+All 88 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w)**
 
@@ -10,6 +10,7 @@ All 87 repositories, sorted by repository name.
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub> — A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub> — Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.
+- **[agent-framework](https://github.com/microsoft/agent-framework)** <sub>microsoft</sub> — Microsoft Agent Framework is an open, multi-language SDK for building, orchestrating, and deploying AI agents and multi-agent workflows in…
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub> — Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub> — An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…
 - **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** <sub>aiming-lab</sub> — An autonomous research pipeline that takes a research idea and runs multi-stage processes to produce a paper, with optional human-in-the-loop…

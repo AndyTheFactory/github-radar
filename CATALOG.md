@@ -1,6 +1,6 @@
 # Catalog
 
-**87 repositories archived.**
+**88 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -51,6 +51,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [lightpanda-io/browser](catalog/lightpanda-io/browser.md)
 - [linexjlin/GPTs](catalog/linexjlin/GPTs.md)
 - [MemPalace/mempalace](catalog/MemPalace/mempalace.md)
+- [microsoft/agent-framework](catalog/microsoft/agent-framework.md)
 - [microsoft/markitdown](catalog/microsoft/markitdown.md)
 - [morluto/rea](catalog/morluto/rea.md)
 - [mwstowe/foff-milter](catalog/mwstowe/foff-milter.md)

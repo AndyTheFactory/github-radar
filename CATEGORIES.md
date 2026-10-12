@@ -2,12 +2,12 @@
 
 Generated from Copilot-enriched catalog entries.
 
-- [Ai Ml](categories/ai-ml.md) (58)
+- [Ai Ml](categories/ai-ml.md) (59)
 - [Applications](categories/applications.md) (14)
 - [Creative](categories/creative.md) (1)
 - [Data Engineering](categories/data-engineering.md) (11)
 - [Databases](categories/databases.md) (3)
-- [Developer Tools](categories/developer-tools.md) (46)
+- [Developer Tools](categories/developer-tools.md) (47)
 - [Games](categories/games.md) (4)
 - [Infrastructure](categories/infrastructure.md) (9)
 - [Miscellanea](categories/miscellanea.md) (3)

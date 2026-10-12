@@ -2,17 +2,20 @@
 
 # Browse by kind
 
-All 87 repositories, grouped by repository type.
+All 88 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (37) · [Apps & command-line tools](#apps--command-line-tools) (26) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (26) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
-<sub>37 repositories · code you import</sub>
+<sub>38 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
   <sub>`search-retrieval` `data-transformation` · [catalog entry](../catalog/chrislit/abydos.md)</sub>
+- **[agent-framework](https://github.com/microsoft/agent-framework)** <sub>microsoft</sub><br>
+  Microsoft Agent Framework is an open, multi-language SDK for building, orchestrating, and deploying AI agents and multi-agent workflows in…<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `inference-serving` · [catalog entry](../catalog/microsoft/agent-framework.md)</sub>
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub><br>
   Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…<br>
   <sub>`api-integration` `web-scraping` `search-retrieval` · [catalog entry](../catalog/Panniantong/Agent-Reach.md)</sub>

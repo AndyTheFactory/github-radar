@@ -45,6 +45,7 @@
 - [lightpanda-io/awesome-lightpanda](../catalog/lightpanda-io/awesome-lightpanda.md)
 - [lightpanda-io/browser](../catalog/lightpanda-io/browser.md)
 - [linexjlin/GPTs](../catalog/linexjlin/GPTs.md)
+- [microsoft/agent-framework](../catalog/microsoft/agent-framework.md)
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
 - [nachogl1/maestro](../catalog/nachogl1/maestro.md)
 - [paperclipai/paperclip](../catalog/paperclipai/paperclip.md)
