@@ -1,6 +1,6 @@
 # Catalog
 
-**88 repositories archived.**
+**91 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -11,6 +11,8 @@ Search the repository using GitHub Code Search or browse entries below.
 - [alexandrerodenas/Pixo](catalog/alexandrerodenas/Pixo.md)
 - [aliaihub/awesome-hermes-usecases](catalog/aliaihub/awesome-hermes-usecases.md)
 - [Ankit404butfound/PyWhatKit](catalog/Ankit404butfound/PyWhatKit.md)
+- [astral-sh/ty](catalog/astral-sh/ty.md)
+- [astral-sh/uv](catalog/astral-sh/uv.md)
 - [Avaiga/taipy](catalog/Avaiga/taipy.md)
 - [awesomedata/awesome-public-datasets](catalog/awesomedata/awesome-public-datasets.md)
 - [Brainwires/jevwire](catalog/Brainwires/jevwire.md)
@@ -26,6 +28,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [flairNLP/flair](catalog/flairNLP/flair.md)
 - [FujiwaraChoki/MoneyPrinterV2](catalog/FujiwaraChoki/MoneyPrinterV2.md)
 - [gargpratyush/jev-router](catalog/gargpratyush/jev-router.md)
+- [google-research/rrsi](catalog/google-research/rrsi.md)
 - [google/langextract](catalog/google/langextract.md)
 - [goose3/goose3](catalog/goose3/goose3.md)
 - [gusye1234/nano-graphrag](catalog/gusye1234/nano-graphrag.md)

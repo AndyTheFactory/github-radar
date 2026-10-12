@@ -2,9 +2,9 @@
 
 # AI & Machine Learning
 
-42 repositories, grouped by what kind of thing they are.
+43 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (22) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (4)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (22) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (5)
 
 ## Libraries & frameworks
 
@@ -142,7 +142,7 @@
 
 ## Research code
 
-<sub>4 repositories · paper implementations and experiments</sub>
+<sub>5 repositories · paper implementations and experiments</sub>
 
 - **[cs230](https://github.com/cimeister/cs230)** <sub>cimeister</sub><br>
   Experimental Python deep-learning code for generating wine-review descriptions using a Keras LSTM conditioned on wine variety and rating.<br>
@@ -153,6 +153,9 @@
 - **[Graph-Bert](https://github.com/jwzhanggy/Graph-Bert)** <sub>jwzhanggy</sub><br>
   Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone.<br>
   <sub>`model-training` `data-transformation` `model-evaluation` · [catalog entry](../../catalog/jwzhanggy/Graph-Bert.md)</sub>
+- **[rrsi](https://github.com/google-research/rrsi)** <sub>google-research</sub><br>
+  Research code for RRSI, a method that iteratively self-improves LLM agent harnesses (prompts, control flow, tools, memory) using regularized…<br>
+  <sub>`agent-orchestration` `benchmarking` `model-evaluation` · [catalog entry](../../catalog/google-research/rrsi.md)</sub>
 - **[SwarmWorld](https://github.com/lamm-mit/SwarmWorld)** <sub>lamm-mit</sub><br>
   SwarmWorld is a deterministic research environment for studying how societies of language-model agents discover, test, exchange, and embody…<br>
   <sub>`simulation` `agent-orchestration` `model-evaluation` · [catalog entry](../../catalog/lamm-mit/SwarmWorld.md)</sub>

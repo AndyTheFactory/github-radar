@@ -26,6 +26,7 @@
 - [cimeister/cs230](../catalog/cimeister/cs230.md)
 - [flairNLP/flair](../catalog/flairNLP/flair.md)
 - [gargpratyush/jev-router](../catalog/gargpratyush/jev-router.md)
+- [google-research/rrsi](../catalog/google-research/rrsi.md)
 - [google/langextract](../catalog/google/langextract.md)
 - [gusye1234/nano-graphrag](../catalog/gusye1234/nano-graphrag.md)
 - [heyjunpenn/awesome-jev](../catalog/heyjunpenn/awesome-jev.md)

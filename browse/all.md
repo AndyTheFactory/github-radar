@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 88 repositories, sorted by repository name.
+All 91 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w)**
 
@@ -128,6 +128,7 @@ All 88 repositories, sorted by repository name.
 - **[rdpwrap](https://github.com/stascorp/rdpwrap)** <sub>stascorp</sub> — RDP Wrapper Library is a layer between the Service Control Manager and Terminal Services that aims to enable Remote Desktop Host support and…
 - **[rea](https://github.com/morluto/rea)** <sub>morluto</sub> — REA is an MCP server and CLI that gives AI agents tools to reverse engineer native binaries, JavaScript/Electron apps, .NET assemblies, and…
 - **[reef](https://github.com/Human-Agent-Society/reef)** <sub>Human-Agent-Society</sub> — Reef is an open-source infrastructure for continually self-improving agents.
+- **[rrsi](https://github.com/google-research/rrsi)** <sub>google-research</sub> — Research code for RRSI, a method that iteratively self-improves LLM agent harnesses (prompts, control flow, tools, memory) using regularized…
 - **[rustdesk](https://github.com/rustdesk/rustdesk)** <sub>rustdesk</sub> — RustDesk is an open-source remote desktop application written in Rust, designed for self-hosting as an alternative to TeamViewer.
 
 ## S
@@ -145,10 +146,12 @@ All 88 repositories, sorted by repository name.
 - **[TF2-albert-NER](https://github.com/DUTANGx/TF2-albert-NER)** <sub>DUTANGx</sub> — Wraps ALBERT as a tf.keras layer using bert-for-tf2 and implements named entity recognition (NER) with CRF and Bi-LSTM models.
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** <sub>TauricResearch</sub> — TradingAgents is a multi-agent LLM framework for financial trading analysis, with analyst, research, and trader roles.
 - **[transformers](https://github.com/huggingface/transformers)** <sub>huggingface</sub> — Transformers is a model-definition framework providing state-of-the-art pretrained machine learning models for text, vision, audio, video, and…
+- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub> — An extremely fast Python type checker and language server, written in Rust.
 
 ## U
 
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub> — Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.
+- **[uv](https://github.com/astral-sh/uv)** <sub>astral-sh</sub> — uv is a Python package and project manager written in Rust, providing dependency resolution, lockfiles, virtual environments, and Python version…
 
 ## W
 

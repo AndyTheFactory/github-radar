@@ -2,6 +2,7 @@
 
 - [NVIDIA/OpenShell](../catalog/NVIDIA/OpenShell.md)
 - [ahrdadan/playwright-lightpanda](../catalog/ahrdadan/playwright-lightpanda.md)
+- [astral-sh/uv](../catalog/astral-sh/uv.md)
 - [lightpanda-io/browser](../catalog/lightpanda-io/browser.md)
 - [pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU](../catalog/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU.md)
 - [pydantic/httpx2](../catalog/pydantic/httpx2.md)

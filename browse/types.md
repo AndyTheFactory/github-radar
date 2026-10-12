@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 88 repositories, grouped by repository type.
+All 91 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (26) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (4) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (27) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (2)
 
 ## Libraries & frameworks
 
@@ -127,7 +127,7 @@ All 88 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>26 repositories · things you run</sub>
+<sub>27 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -204,6 +204,9 @@ All 88 repositories, grouped by repository type.
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub><br>
   Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.<br>
   <sub>`inference-serving` `fine-tuning` `model-training` · [catalog entry](../catalog/unslothai/unsloth.md)</sub>
+- **[uv](https://github.com/astral-sh/uv)** <sub>astral-sh</sub><br>
+  uv is a Python package and project manager written in Rust, providing dependency resolution, lockfiles, virtual environments, and Python version…<br>
+  <sub>`automation` `workflow-orchestration` `containerization` · [catalog entry](../catalog/astral-sh/uv.md)</sub>
 - **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub><br>
   WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…<br>
   <sub>`document-processing` `media-editing` · [catalog entry](../catalog/storytold/wordcraft.md)</sub>
@@ -277,7 +280,7 @@ All 88 repositories, grouped by repository type.
 
 ## Research code
 
-<sub>4 repositories · paper implementations and experiments</sub>
+<sub>5 repositories · paper implementations and experiments</sub>
 
 - **[cs230](https://github.com/cimeister/cs230)** <sub>cimeister</sub><br>
   Experimental Python deep-learning code for generating wine-review descriptions using a Keras LSTM conditioned on wine variety and rating.<br>
@@ -288,16 +291,22 @@ All 88 repositories, grouped by repository type.
 - **[Graph-Bert](https://github.com/jwzhanggy/Graph-Bert)** <sub>jwzhanggy</sub><br>
   Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone.<br>
   <sub>`model-training` `data-transformation` `model-evaluation` · [catalog entry](../catalog/jwzhanggy/Graph-Bert.md)</sub>
+- **[rrsi](https://github.com/google-research/rrsi)** <sub>google-research</sub><br>
+  Research code for RRSI, a method that iteratively self-improves LLM agent harnesses (prompts, control flow, tools, memory) using regularized…<br>
+  <sub>`agent-orchestration` `benchmarking` `model-evaluation` · [catalog entry](../catalog/google-research/rrsi.md)</sub>
 - **[SwarmWorld](https://github.com/lamm-mit/SwarmWorld)** <sub>lamm-mit</sub><br>
   SwarmWorld is a deterministic research environment for studying how societies of language-model agents discover, test, exchange, and embody…<br>
   <sub>`simulation` `agent-orchestration` `model-evaluation` · [catalog entry](../catalog/lamm-mit/SwarmWorld.md)</sub>
 
 ## Other projects
 
-<sub>1 repositories · other or not yet classified</sub>
+<sub>2 repositories · other or not yet classified</sub>
 
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>
+- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
+  An extremely fast Python type checker and language server, written in Rust.<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/astral-sh/ty.md)</sub>
 
 <sub>[↑ Back to top](#browse-by-kind) · [All subjects](README.md)</sub>
