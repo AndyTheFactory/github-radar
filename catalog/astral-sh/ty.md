@@ -56,3 +56,55 @@ An extremely fast Python type checker and language server, written in Rust.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+ty is a Python type checker and language server written in Rust, distributed by Astral. The README documents a CLI (`ty check`), diagnostics, and language server features such as completions, code actions, and auto-import for editor integration.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "5b7403403ffcc7b70818a018b4610d7e22eba5127417151fe484526ad751b6d7"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "applications"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "static-analysis",
+    "debugging",
+    "code-generation"
+  ],
+  "technologies": [
+    "Python",
+    "Rust"
+  ],
+  "summary": "ty is a Python type checker and language server written in Rust, distributed by Astral. The README documents a CLI (`ty check`), diagnostics, and language server features such as completions, code actions, and auto-import for editor integration.",
+  "use_cases": [
+    "Type-checking Python projects from the command line or in CI",
+    "Providing type-aware editing features in VS Code, PyCharm, and Neovim"
+  ],
+  "limitations": [
+    "Described as beta in the README",
+    "Performance claims (10x-100x faster than mypy and Pyright) are source-provided and not independently verified here"
+  ],
+  "suggested_terms": [
+    "python type checker",
+    "python language server",
+    "rust python tooling",
+    "mypy alternative",
+    "pyright alternative"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

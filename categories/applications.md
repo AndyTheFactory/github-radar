@@ -5,6 +5,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](../catalog/FujiwaraChoki/MoneyPrinterV2.md)
 - [OpenAPITools/openapi-diff](../catalog/OpenAPITools/openapi-diff.md)
 - [ahrdadan/playwright-lightpanda](../catalog/ahrdadan/playwright-lightpanda.md)
+- [astral-sh/ty](../catalog/astral-sh/ty.md)
 - [goose3/goose3](../catalog/goose3/goose3.md)
 - [nocodb/nocodb](../catalog/nocodb/nocodb.md)
 - [salvadordf/CEF4Delphi](../catalog/salvadordf/CEF4Delphi.md)

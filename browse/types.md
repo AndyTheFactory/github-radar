@@ -4,7 +4,7 @@
 
 All 91 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (27) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (2)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (28) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -127,7 +127,7 @@ All 91 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>27 repositories · things you run</sub>
+<sub>28 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -201,6 +201,9 @@ All 91 repositories, grouped by repository type.
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** <sub>NVIDIA</sub><br>
   SkillSpector is a security scanner that analyzes AI agent skills for vulnerabilities, prompt injection, data exfiltration, and supply-chain…<br>
   <sub>`static-analysis` `vulnerability-scanning` `reporting` · [catalog entry](../catalog/NVIDIA/SkillSpector.md)</sub>
+- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
+  ty is a Python type checker and language server written in Rust, distributed by Astral.<br>
+  <sub>`static-analysis` `debugging` `code-generation` · [catalog entry](../catalog/astral-sh/ty.md)</sub>
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub><br>
   Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.<br>
   <sub>`inference-serving` `fine-tuning` `model-training` · [catalog entry](../catalog/unslothai/unsloth.md)</sub>
@@ -300,13 +303,10 @@ All 91 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>2 repositories · other or not yet classified</sub>
+<sub>1 repositories · other or not yet classified</sub>
 
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>
-- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
-  An extremely fast Python type checker and language server, written in Rust.<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/astral-sh/ty.md)</sub>
 
 <sub>[↑ Back to top](#browse-by-kind) · [All subjects](README.md)</sub>

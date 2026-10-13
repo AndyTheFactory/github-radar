@@ -2,9 +2,9 @@
 
 # Developer Tools
 
-21 repositories, grouped by what kind of thing they are.
+22 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (10) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (2) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (10) · [Apps & command-line tools](#apps--command-line-tools) (9) · [Curated lists & collections](#curated-lists--collections) (2) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Libraries & frameworks
 
@@ -43,7 +43,7 @@
 
 ## Apps & command-line tools
 
-<sub>8 repositories · things you run</sub>
+<sub>9 repositories · things you run</sub>
 
 - **[backpass](https://github.com/kunchenguid/backpass)** <sub>kunchenguid</sub><br>
   backpass is a CLI tool that improves AGENTS.md, CLAUDE.md, and project skills by analyzing local agent session transcripts and proposing…<br>
@@ -66,6 +66,9 @@
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub><br>
   OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…<br>
   <sub>`api-integration` `web-scraping` `automation` · [catalog entry](../../catalog/jackwener/OpenCLI.md)</sub>
+- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
+  ty is a Python type checker and language server written in Rust, distributed by Astral.<br>
+  <sub>`static-analysis` `debugging` `code-generation` · [catalog entry](../../catalog/astral-sh/ty.md)</sub>
 - **[uv](https://github.com/astral-sh/uv)** <sub>astral-sh</sub><br>
   uv is a Python package and project manager written in Rust, providing dependency resolution, lockfiles, virtual environments, and Python version…<br>
   <sub>`automation` `workflow-orchestration` `containerization` · [catalog entry](../../catalog/astral-sh/uv.md)</sub>

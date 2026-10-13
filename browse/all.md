@@ -146,7 +146,7 @@ All 91 repositories, sorted by repository name.
 - **[TF2-albert-NER](https://github.com/DUTANGx/TF2-albert-NER)** <sub>DUTANGx</sub> — Wraps ALBERT as a tf.keras layer using bert-for-tf2 and implements named entity recognition (NER) with CRF and Bi-LSTM models.
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** <sub>TauricResearch</sub> — TradingAgents is a multi-agent LLM framework for financial trading analysis, with analyst, research, and trader roles.
 - **[transformers](https://github.com/huggingface/transformers)** <sub>huggingface</sub> — Transformers is a model-definition framework providing state-of-the-art pretrained machine learning models for text, vision, audio, video, and…
-- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub> — An extremely fast Python type checker and language server, written in Rust.
+- **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub> — ty is a Python type checker and language server written in Rust, distributed by Astral.
 
 ## U
 

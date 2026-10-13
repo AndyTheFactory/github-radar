@@ -17,6 +17,7 @@
 - [SakanaAI/doc-to-lora](../catalog/SakanaAI/doc-to-lora.md)
 - [ahrdadan/playwright-lightpanda](../catalog/ahrdadan/playwright-lightpanda.md)
 - [aliaihub/awesome-hermes-usecases](../catalog/aliaihub/awesome-hermes-usecases.md)
+- [astral-sh/ty](../catalog/astral-sh/ty.md)
 - [astral-sh/uv](../catalog/astral-sh/uv.md)
 - [browser-use/browser-harness](../catalog/browser-use/browser-harness.md)
 - [bytedance/deer-flow](../catalog/bytedance/deer-flow.md)
