@@ -41,3 +41,63 @@ DuckDB is an analytical in-process SQL database management system
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+DuckDB is an in-process analytical SQL database management system written in C++, with clients for Python, R, Java, and Wasm. It supports nested correlated subqueries, window functions, and direct querying of CSV and Parquet files. It is also available as a standalone CLI application.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "0961e3ffdd3666337d39955e6a5701e5d1ed85097dff7000c4f7bad03e23b1dd"
+  },
+  "primary_domain": "databases",
+  "secondary_domains": [
+    "data-engineering"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "database-management",
+    "data-transformation",
+    "data-ingestion",
+    "question-answering"
+  ],
+  "technologies": [
+    "C++",
+    "SQL",
+    "CMake",
+    "Python",
+    "R",
+    "Java",
+    "WebAssembly",
+    "Parquet"
+  ],
+  "summary": "DuckDB is an in-process analytical SQL database management system written in C++, with clients for Python, R, Java, and Wasm. It supports nested correlated subqueries, window functions, and direct querying of CSV and Parquet files. It is also available as a standalone CLI application.",
+  "use_cases": [
+    "Embedded analytical queries inside applications",
+    "Running SQL directly over CSV and Parquet files",
+    "Analytics on pandas or dplyr data frames"
+  ],
+  "limitations": [
+    "README excerpt is truncated, so full feature coverage is unverified",
+    "Analytical (OLAP) focus rather than high-concurrency transactional workloads"
+  ],
+  "suggested_terms": [
+    "embedded SQL database",
+    "OLAP",
+    "DuckDB",
+    "analytical database",
+    "Parquet query"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

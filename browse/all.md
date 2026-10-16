@@ -40,7 +40,7 @@ All 93 repositories, sorted by repository name.
 - **[deepagents](https://github.com/langchain-ai/deepagents)** <sub>langchain-ai</sub> — Deep Agents is an open source, opinionated agent harness built on LangGraph, offering sub-agents, pluggable filesystem and memory backends,…
 - **[deer-flow](https://github.com/bytedance/deer-flow)** <sub>bytedance</sub> — DeerFlow is an open-source super agent harness that orchestrates sub-agents, memory, sandboxes, tools, and skills to handle research, coding,…
 - **[doc-to-lora](https://github.com/SakanaAI/doc-to-lora)** <sub>SakanaAI</sub> — Reference implementation of Doc-to-LoRA (D2L), a hypernetwork approach that internalizes document contexts into LLM weights via LoRA modules.
-- **[duckdb](https://github.com/duckdb/duckdb)** <sub>duckdb</sub> — DuckDB is an analytical in-process SQL database management system
+- **[duckdb](https://github.com/duckdb/duckdb)** <sub>duckdb</sub> — DuckDB is an in-process analytical SQL database management system written in C++, with clients for Python, R, Java, and Wasm.
 
 ## E
 

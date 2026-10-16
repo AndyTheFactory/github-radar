@@ -4,11 +4,11 @@
 
 All 93 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (29) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (2)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (39) · [Apps & command-line tools](#apps--command-line-tools) (29) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
-<sub>38 repositories · code you import</sub>
+<sub>39 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -37,6 +37,9 @@ All 93 repositories, grouped by repository type.
 - **[deepagents](https://github.com/langchain-ai/deepagents)** <sub>langchain-ai</sub><br>
   Deep Agents is an open source, opinionated agent harness built on LangGraph, offering sub-agents, pluggable filesystem and memory backends,…<br>
   <sub>`agent-orchestration` `workflow-orchestration` `task-management` · [catalog entry](../catalog/langchain-ai/deepagents.md)</sub>
+- **[duckdb](https://github.com/duckdb/duckdb)** <sub>duckdb</sub><br>
+  DuckDB is an in-process analytical SQL database management system written in C++, with clients for Python, R, Java, and Wasm.<br>
+  <sub>`database-management` `data-transformation` `data-ingestion` · [catalog entry](../catalog/duckdb/duckdb.md)</sub>
 - **[extruct](https://github.com/scrapinghub/extruct)** <sub>scrapinghub</sub><br>
   extruct is a Python library for extracting embedded metadata from HTML markup.<br>
   <sub>`data-ingestion` `data-transformation` · [catalog entry](../catalog/scrapinghub/extruct.md)</sub>
@@ -306,11 +309,8 @@ All 93 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>2 repositories · other or not yet classified</sub>
+<sub>1 repositories · other or not yet classified</sub>
 
-- **[duckdb](https://github.com/duckdb/duckdb)** <sub>duckdb</sub><br>
-  DuckDB is an analytical in-process SQL database management system<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/duckdb/duckdb.md)</sub>
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>
