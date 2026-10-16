@@ -1,6 +1,6 @@
 # Catalog
 
-**91 repositories archived.**
+**93 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -24,6 +24,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [cimeister/cs230](catalog/cimeister/cs230.md)
 - [CloakHQ/CloakBrowser](catalog/CloakHQ/CloakBrowser.md)
 - [Diolinux/PhotoGIMP](catalog/Diolinux/PhotoGIMP.md)
+- [duckdb/duckdb](catalog/duckdb/duckdb.md)
 - [DUTANGx/TF2-albert-NER](catalog/DUTANGx/TF2-albert-NER.md)
 - [flairNLP/flair](catalog/flairNLP/flair.md)
 - [FujiwaraChoki/MoneyPrinterV2](catalog/FujiwaraChoki/MoneyPrinterV2.md)
@@ -78,6 +79,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [santiontanon/netherearth-disassembly](catalog/santiontanon/netherearth-disassembly.md)
 - [scrapinghub/extruct](catalog/scrapinghub/extruct.md)
 - [serhiileniv/claude-router](catalog/serhiileniv/claude-router.md)
+- [slingdata-io/sling-cli](catalog/slingdata-io/sling-cli.md)
 - [SparkJiao/KK-s-Paperlist](catalog/SparkJiao/KK-s-Paperlist.md)
 - [spytheeuclidean-a11y/knoxmap](catalog/spytheeuclidean-a11y/knoxmap.md)
 - [stascorp/rdpwrap](catalog/stascorp/rdpwrap.md)

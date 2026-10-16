@@ -10,4 +10,5 @@
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
 - [pydantic/pydantic](../catalog/pydantic/pydantic.md)
 - [scrapinghub/extruct](../catalog/scrapinghub/extruct.md)
+- [slingdata-io/sling-cli](../catalog/slingdata-io/sling-cli.md)
 - [streamlit/streamlit](../catalog/streamlit/streamlit.md)

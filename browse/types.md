@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 91 repositories, grouped by repository type.
+All 93 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (28) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (38) · [Apps & command-line tools](#apps--command-line-tools) (29) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (2)
 
 ## Libraries & frameworks
 
@@ -127,7 +127,7 @@ All 91 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>28 repositories · things you run</sub>
+<sub>29 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -201,6 +201,9 @@ All 91 repositories, grouped by repository type.
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** <sub>NVIDIA</sub><br>
   SkillSpector is a security scanner that analyzes AI agent skills for vulnerabilities, prompt injection, data exfiltration, and supply-chain…<br>
   <sub>`static-analysis` `vulnerability-scanning` `reporting` · [catalog entry](../catalog/NVIDIA/SkillSpector.md)</sub>
+- **[sling-cli](https://github.com/slingdata-io/sling-cli)** <sub>slingdata-io</sub><br>
+  Sling is a Go-based CLI tool for extract-and-load (EL) data pipelines, moving data between databases, file systems, and APIs.<br>
+  <sub>`data-ingestion` `data-transformation` `storage` · [catalog entry](../catalog/slingdata-io/sling-cli.md)</sub>
 - **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
   ty is a Python type checker and language server written in Rust, distributed by Astral.<br>
   <sub>`static-analysis` `debugging` `code-generation` · [catalog entry](../catalog/astral-sh/ty.md)</sub>
@@ -303,8 +306,11 @@ All 91 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>1 repositories · other or not yet classified</sub>
+<sub>2 repositories · other or not yet classified</sub>
 
+- **[duckdb](https://github.com/duckdb/duckdb)** <sub>duckdb</sub><br>
+  DuckDB is an analytical in-process SQL database management system<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/duckdb/duckdb.md)</sub>
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>

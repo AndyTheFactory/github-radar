@@ -45,6 +45,7 @@
 - [salvadordf/CEF4Delphi](../catalog/salvadordf/CEF4Delphi.md)
 - [scrapinghub/extruct](../catalog/scrapinghub/extruct.md)
 - [serhiileniv/claude-router](../catalog/serhiileniv/claude-router.md)
+- [slingdata-io/sling-cli](../catalog/slingdata-io/sling-cli.md)
 - [storytold/photocraft](../catalog/storytold/photocraft.md)
 - [storytold/wordcraft](../catalog/storytold/wordcraft.md)
 - [streamlit/streamlit](../catalog/streamlit/streamlit.md)

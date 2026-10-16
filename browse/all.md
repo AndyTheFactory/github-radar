@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 91 repositories, sorted by repository name.
+All 93 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w)**
 
@@ -40,6 +40,7 @@ All 91 repositories, sorted by repository name.
 - **[deepagents](https://github.com/langchain-ai/deepagents)** <sub>langchain-ai</sub> — Deep Agents is an open source, opinionated agent harness built on LangGraph, offering sub-agents, pluggable filesystem and memory backends,…
 - **[deer-flow](https://github.com/bytedance/deer-flow)** <sub>bytedance</sub> — DeerFlow is an open-source super agent harness that orchestrates sub-agents, memory, sandboxes, tools, and skills to handle research, coding,…
 - **[doc-to-lora](https://github.com/SakanaAI/doc-to-lora)** <sub>SakanaAI</sub> — Reference implementation of Doc-to-LoRA (D2L), a hypernetwork approach that internalizes document contexts into LLM weights via LoRA modules.
+- **[duckdb](https://github.com/duckdb/duckdb)** <sub>duckdb</sub> — DuckDB is an analytical in-process SQL database management system
 
 ## E
 
@@ -135,6 +136,7 @@ All 91 repositories, sorted by repository name.
 
 - **[sentence-transformers](https://github.com/huggingface/sentence-transformers)** <sub>huggingface</sub> — A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models.
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** <sub>NVIDIA</sub> — SkillSpector is a security scanner that analyzes AI agent skills for vulnerabilities, prompt injection, data exfiltration, and supply-chain…
+- **[sling-cli](https://github.com/slingdata-io/sling-cli)** <sub>slingdata-io</sub> — Sling is a Go-based CLI tool for extract-and-load (EL) data pipelines, moving data between databases, file systems, and APIs.
 - **[streamlit](https://github.com/streamlit/streamlit)** <sub>streamlit</sub> — Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards.
 - **[SwarmWorld](https://github.com/lamm-mit/SwarmWorld)** <sub>lamm-mit</sub> — SwarmWorld is a deterministic research environment for studying how societies of language-model agents discover, test, exchange, and embody…
 

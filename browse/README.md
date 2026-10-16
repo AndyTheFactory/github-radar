@@ -2,7 +2,7 @@
 
 Repositories starred by [@AndyTheFactory](https://github.com/AndyTheFactory), sorted by subject. Rebuilt automatically after every sync.
 
-**91 repositories** · 13 subjects · all summarised
+**93 repositories** · 14 subjects · 92 summarised · 1 awaiting enrichment
 
 ## Browse by subject
 
@@ -11,9 +11,9 @@ Repositories starred by [@AndyTheFactory](https://github.com/AndyTheFactory), so
 | [AI & Machine Learning](domains/ai-ml.md) | 43 |
 | [Developer Tools](domains/developer-tools.md) | 22 |
 | [Security & Privacy](domains/security.md) | 5 |
+| [Data Engineering & Analytics](domains/data-engineering.md) | 4 |
 | [Research, Education & Reference](domains/research-learning.md) | 4 |
 | [Applications & Web/Mobile](domains/applications.md) | 3 |
-| [Data Engineering & Analytics](domains/data-engineering.md) | 3 |
 | [Games & Interactive Media](domains/games.md) | 3 |
 | [Infrastructure & DevOps](domains/infrastructure.md) | 2 |
 | [Productivity & Personal Tools](domains/productivity.md) | 2 |
@@ -21,6 +21,7 @@ Repositories starred by [@AndyTheFactory](https://github.com/AndyTheFactory), so
 | [Creative Tools & Digital Art](domains/creative.md) | 1 |
 | [Databases, Storage & Search](domains/databases.md) | 1 |
 | [Miscellanea](domains/miscellanea.md) | 1 |
+| [Unknown / Unclassified](domains/unclassified.md) | 1 |
 
 ## Other ways in
 
