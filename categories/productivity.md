@@ -8,6 +8,8 @@
 - [TauricResearch/TradingAgents](../catalog/TauricResearch/TradingAgents.md)
 - [aiming-lab/AutoResearchClaw](../catalog/aiming-lab/AutoResearchClaw.md)
 - [alexandrerodenas/Pixo](../catalog/alexandrerodenas/Pixo.md)
+- [anthropics/knowledge-work-plugins](../catalog/anthropics/knowledge-work-plugins.md)
+- [debpalash/VoiceStudio](../catalog/debpalash/VoiceStudio.md)
 - [its-maestro-baby/maestro](../catalog/its-maestro-baby/maestro.md)
 - [jackwener/OpenCLI](../catalog/jackwener/OpenCLI.md)
 - [kunchenguid/backpass](../catalog/kunchenguid/backpass.md)

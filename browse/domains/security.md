@@ -2,13 +2,13 @@
 
 # Security & Privacy
 
-5 repositories, grouped by what kind of thing they are.
+6 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Apps & command-line tools](#apps--command-line-tools) (4) · [Curated lists & collections](#curated-lists--collections) (1)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (5) · [Curated lists & collections](#curated-lists--collections) (1)
 
 ## Apps & command-line tools
 
-<sub>4 repositories · things you run</sub>
+<sub>5 repositories · things you run</sub>
 
 - **[foff-milter](https://github.com/mwstowe/foff-milter)** <sub>mwstowe</sub><br>
   FOFF Milter is a Sendmail milter written in Rust for email spam and fraud detection.<br>
@@ -22,6 +22,9 @@
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** <sub>NVIDIA</sub><br>
   SkillSpector is a security scanner that analyzes AI agent skills for vulnerabilities, prompt injection, data exfiltration, and supply-chain…<br>
   <sub>`static-analysis` `vulnerability-scanning` `reporting` · [catalog entry](../../catalog/NVIDIA/SkillSpector.md)</sub>
+- **[ToolReplay](https://github.com/brandynfisher/ToolReplay)** <sub>brandynfisher</sub><br>
+  ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic…<br>
+  <sub>`static-analysis` · [catalog entry](../../catalog/brandynfisher/ToolReplay.md)</sub>
 
 ## Curated lists & collections
 

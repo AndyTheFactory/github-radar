@@ -1,0 +1,117 @@
+---
+repository: "brandynfisher/ToolReplay"
+github_id: 1369710615
+url: "https://github.com/brandynfisher/ToolReplay"
+description: "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI."
+starred_at: "2026-10-19T11:40:31Z"
+language: "Python"
+topics: ["ai-agents", "audit", "cli", "determinism", "hash-chain", "jsonl", "permissions", "python", "replay", "scope", "security", "tool-call"]
+homepage: "http://quartzjer.github.io/pennybank/"
+license: "MIT"
+archived: false
+---
+
+# brandynfisher/ToolReplay
+
+Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.
+
+**GitHub:** https://github.com/brandynfisher/ToolReplay
+
+## README excerpt
+
+> # ToolReplay
+> ToolReplay audits a recorded transcript of an AI agent's tool calls and reports where the
+> session was non-deterministic, redundant, or outside its declared permissions.
+> Here is the tool working, right now, on the dirty sample that ships in this repository. The
+> command is shown above its output, and the output is pasted verbatim from a run in this
+> checkout:
+> $ python -m toolreplay replay samples/session-dirty.jsonl
+> calls: 6
+> divergence: index 5
+> findings: 2
+> index 2: redundant-call: tool 'read_file' repeats the identical call at index 1 with no state change between them
+> index 5: non-determinism: tool 'search' returned a different response than the identical call at index 3
+> exit code: 1
+> ## What just happened
+> Those three header lines and two findings are the whole audit of a six-call session. Read
+> them top to bottom.
+> `calls: 6` is the number of records parsed from `samples/session-dirty.jsonl`. Parsing is
+> strict, so a six here means six well-formed lines with indices 0 through 5 and nothing
+> malformed.
+> `divergence: index 5` is the first index where a deterministic re-run would disagree with
+> the record. The tool found that index 5 repeated an earlier call but carried a different
+> recorded response, so that is the earliest point the session stops being reproducible.
+> `findings: 2` counts the audit results below the header. They are printed in a fixed order,
+> sorted by index then by kind, so the same input always prints byte-identical output.
+> The first finding, at index 2, is a redundant call: `read_file` on `docs/intro.md` was
+> already made at index 1, and nothing between the two could have changed the file, so the
+> second read did no new work. The second finding, at index 5, is non-determinism: the
+> `search` for `install` returned 3 hits at index 3 and 7 hits at index 5, from the identical
+> call. The process exited 1 because findings were present.
+> The scope check is a separate command, because scope needs a declared permission file that
+> replay does not. Run against the same session and the shipped scope file, it finds the one
+> call that stepped outside the agent's declared tools:
+> $ python -m toolreplay scope samples/session-dirty.jsonl samples/scope.json
+> calls: 6
+> findings: 1
+> index 4: permission-overreach: tool 'write_file' is not in the declared scope for agent 'docs-reader'
+> Between replay and scope, all three finding types this tool detects are present in that one
+> six-line sample.
+> ## Install
+> toolreplay needs Python 3.11 or newer and has no third-party runtime
+
+## Personal notes
+
+<!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic responses, redundant calls, and scope overreach. It reports findings in a fixed, reproducible order and exits non-zero when findings are present.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "a02ff79e410896436ab798621ba590cedc50f91b825cc5cd367d4662a799bf26"
+  },
+  "primary_domain": "security",
+  "secondary_domains": [
+    "developer-tools"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "static-analysis"
+  ],
+  "technologies": [
+    "Python",
+    "JSONL"
+  ],
+  "summary": "ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic responses, redundant calls, and scope overreach. It reports findings in a fixed, reproducible order and exits non-zero when findings are present.",
+  "use_cases": [
+    "Auditing AI agent tool-call logs for reproducibility",
+    "Detecting calls outside an agent's declared permissions",
+    "Verifying tamper-evident sealing of agent session transcripts"
+  ],
+  "limitations": [
+    "Requires Python 3.11 or newer",
+    "Relies on transcripts in the documented JSONL format and a declared scope file for permission checks",
+    "Documented features are based on the README excerpt only"
+  ],
+  "suggested_terms": [
+    "AI agent audit",
+    "tool-call transcript",
+    "deterministic replay",
+    "hash-chain",
+    "permission overreach"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

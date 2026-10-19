@@ -2,9 +2,9 @@
 
 # Productivity & Personal Tools
 
-2 repositories, grouped by what kind of thing they are.
+3 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Apps & command-line tools](#apps--command-line-tools) (1) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (1) · [Curated lists & collections](#curated-lists--collections) (1) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Apps & command-line tools
 
@@ -13,6 +13,14 @@
 - **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub><br>
   WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…<br>
   <sub>`document-processing` `media-editing` · [catalog entry](../../catalog/storytold/wordcraft.md)</sub>
+
+## Curated lists & collections
+
+<sub>1 repositories · reading lists, datasets, notebooks</sub>
+
+- **[knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** <sub>anthropics</sub><br>
+  A collection of open-source plugins for Claude Cowork and Claude Code, each bundling skills, connectors, slash commands, and sub-agents for…<br>
+  <sub>`automation` `task-management` `document-processing` · [catalog entry](../../catalog/anthropics/knowledge-work-plugins.md)</sub>
 
 ## Guides & tutorials
 

@@ -15,6 +15,7 @@
 - [brightmart/text_classification](../catalog/brightmart/text_classification.md)
 - [bytedance/deer-flow](../catalog/bytedance/deer-flow.md)
 - [flairNLP/flair](../catalog/flairNLP/flair.md)
+- [google-research/harness2](../catalog/google-research/harness2.md)
 - [google-research/rrsi](../catalog/google-research/rrsi.md)
 - [google/langextract](../catalog/google/langextract.md)
 - [gusye1234/nano-graphrag](../catalog/gusye1234/nano-graphrag.md)

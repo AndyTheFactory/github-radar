@@ -5,6 +5,7 @@
 - [CloakHQ/CloakBrowser](../catalog/CloakHQ/CloakBrowser.md)
 - [NVIDIA/OpenShell](../catalog/NVIDIA/OpenShell.md)
 - [NVIDIA/SkillSpector](../catalog/NVIDIA/SkillSpector.md)
+- [brandynfisher/ToolReplay](../catalog/brandynfisher/ToolReplay.md)
 - [jackwener/OpenCLI](../catalog/jackwener/OpenCLI.md)
 - [morluto/rea](../catalog/morluto/rea.md)
 - [mwstowe/foff-milter](../catalog/mwstowe/foff-milter.md)

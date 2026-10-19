@@ -2,23 +2,24 @@
 
 Repositories starred by [@AndyTheFactory](https://github.com/AndyTheFactory), sorted by subject. Rebuilt automatically after every sync.
 
-**93 repositories** · 13 subjects · all summarised
+**109 repositories** · 14 subjects · 102 summarised · 7 awaiting enrichment
 
 ## Browse by subject
 
 | Subject | Repositories |
 |:--|--:|
-| [AI & Machine Learning](domains/ai-ml.md) | 43 |
-| [Developer Tools](domains/developer-tools.md) | 22 |
-| [Security & Privacy](domains/security.md) | 5 |
+| [AI & Machine Learning](domains/ai-ml.md) | 46 |
+| [Developer Tools](domains/developer-tools.md) | 25 |
+| [Unknown / Unclassified](domains/unclassified.md) | 7 |
+| [Security & Privacy](domains/security.md) | 6 |
 | [Data Engineering & Analytics](domains/data-engineering.md) | 4 |
 | [Research, Education & Reference](domains/research-learning.md) | 4 |
 | [Applications & Web/Mobile](domains/applications.md) | 3 |
 | [Games & Interactive Media](domains/games.md) | 3 |
+| [Productivity & Personal Tools](domains/productivity.md) | 3 |
+| [Computer Vision & Multimedia](domains/vision-media.md) | 2 |
 | [Databases, Storage & Search](domains/databases.md) | 2 |
 | [Infrastructure & DevOps](domains/infrastructure.md) | 2 |
-| [Productivity & Personal Tools](domains/productivity.md) | 2 |
-| [Computer Vision & Multimedia](domains/vision-media.md) | 1 |
 | [Creative Tools & Digital Art](domains/creative.md) | 1 |
 | [Miscellanea](domains/miscellanea.md) | 1 |
 

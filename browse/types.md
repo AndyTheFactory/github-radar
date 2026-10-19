@@ -2,17 +2,20 @@
 
 # Browse by kind
 
-All 93 repositories, grouped by repository type.
+All 109 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (39) · [Apps & command-line tools](#apps--command-line-tools) (29) · [Curated lists & collections](#curated-lists--collections) (14) · [Guides & tutorials](#guides--tutorials) (5) · [Research code](#research-code) (5) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (40) · [Apps & command-line tools](#apps--command-line-tools) (33) · [Curated lists & collections](#curated-lists--collections) (16) · [Guides & tutorials](#guides--tutorials) (6) · [Research code](#research-code) (6) · [Other projects](#other-projects) (8)
 
 ## Libraries & frameworks
 
-<sub>39 repositories · code you import</sub>
+<sub>40 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
   <sub>`search-retrieval` `data-transformation` · [catalog entry](../catalog/chrislit/abydos.md)</sub>
+- **[adk-python](https://github.com/google/adk-python)** <sub>google</sub><br>
+  A code-first Python framework for building, evaluating, and deploying AI agents, with a workflow runtime, multi-agent composition, and a tool…<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `api-integration` · [catalog entry](../catalog/google/adk-python.md)</sub>
 - **[agent-framework](https://github.com/microsoft/agent-framework)** <sub>microsoft</sub><br>
   Microsoft Agent Framework is an open, multi-language SDK for building, orchestrating, and deploying AI agents and multi-agent workflows in…<br>
   <sub>`agent-orchestration` `workflow-orchestration` `inference-serving` · [catalog entry](../catalog/microsoft/agent-framework.md)</sub>
@@ -130,7 +133,7 @@ All 93 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>29 repositories · things you run</sub>
+<sub>33 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -147,6 +150,9 @@ All 93 repositories, grouped by repository type.
 - **[browser-harness](https://github.com/browser-use/browser-harness)** <sub>browser-use</sub><br>
   Browser Harness connects an LLM directly to a user's real browser through an editable CDP websocket.<br>
   <sub>`automation` `agent-orchestration` `api-integration` · [catalog entry](../catalog/browser-use/browser-harness.md)</sub>
+- **[Chisle](https://github.com/JayPokale/Chisle)** <sub>JayPokale</sub><br>
+  Chisle is a Claude Code plugin and multi-agent ruleset that aims to reduce token usage by enforcing terse prose, YAGNI-first code, and a…<br>
+  <sub>`code-generation` `automation` · [catalog entry](../catalog/JayPokale/Chisle.md)</sub>
 - **[deer-flow](https://github.com/bytedance/deer-flow)** <sub>bytedance</sub><br>
   DeerFlow is an open-source super agent harness that orchestrates sub-agents, memory, sandboxes, tools, and skills to handle research, coding,…<br>
   <sub>`agent-orchestration` `web-scraping` `search-retrieval` · [catalog entry](../catalog/bytedance/deer-flow.md)</sub>
@@ -207,6 +213,12 @@ All 93 repositories, grouped by repository type.
 - **[sling-cli](https://github.com/slingdata-io/sling-cli)** <sub>slingdata-io</sub><br>
   Sling is a Go-based CLI tool for extract-and-load (EL) data pipelines, moving data between databases, file systems, and APIs.<br>
   <sub>`data-ingestion` `data-transformation` `storage` · [catalog entry](../catalog/slingdata-io/sling-cli.md)</sub>
+- **[ToolReplay](https://github.com/brandynfisher/ToolReplay)** <sub>brandynfisher</sub><br>
+  ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic…<br>
+  <sub>`static-analysis` · [catalog entry](../catalog/brandynfisher/ToolReplay.md)</sub>
+- **[tracelint](https://github.com/AshwinUgale/tracelint)** <sub>AshwinUgale</sub><br>
+  tracelint is a deterministic linter that reads agent execution traces and flags structural defects such as ignored errors, schema violations,…<br>
+  <sub>`static-analysis` `testing` `observability` · [catalog entry](../catalog/AshwinUgale/tracelint.md)</sub>
 - **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
   ty is a Python type checker and language server written in Rust, distributed by Astral.<br>
   <sub>`static-analysis` `debugging` `code-generation` · [catalog entry](../catalog/astral-sh/ty.md)</sub>
@@ -216,13 +228,16 @@ All 93 repositories, grouped by repository type.
 - **[uv](https://github.com/astral-sh/uv)** <sub>astral-sh</sub><br>
   uv is a Python package and project manager written in Rust, providing dependency resolution, lockfiles, virtual environments, and Python version…<br>
   <sub>`automation` `workflow-orchestration` `containerization` · [catalog entry](../catalog/astral-sh/uv.md)</sub>
+- **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** <sub>debpalash</sub><br>
+  VoiceStudio is an open-source, local-first desktop application for voice cloning, voice design, text-to-speech, video dubbing, dictation,…<br>
+  <sub>`speech-synthesis` `speech-recognition` `audio-generation` · [catalog entry](../catalog/debpalash/VoiceStudio.md)</sub>
 - **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub><br>
   WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…<br>
   <sub>`document-processing` `media-editing` · [catalog entry](../catalog/storytold/wordcraft.md)</sub>
 
 ## Curated lists & collections
 
-<sub>14 repositories · reading lists, datasets, notebooks</sub>
+<sub>16 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub><br>
   A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.<br>
@@ -254,6 +269,9 @@ All 93 repositories, grouped by repository type.
 - **[KK-s-Paperlist](https://github.com/SparkJiao/KK-s-Paperlist)** <sub>SparkJiao</sub><br>
   A curated list of academic papers on machine learning, reinforcement learning, NLP, and related topics, organized by subject such as language…<br>
   <sub>[catalog entry](../catalog/SparkJiao/KK-s-Paperlist.md)</sub>
+- **[knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** <sub>anthropics</sub><br>
+  A collection of open-source plugins for Claude Cowork and Claude Code, each bundling skills, connectors, slash commands, and sub-agents for…<br>
+  <sub>`automation` `task-management` `document-processing` · [catalog entry](../catalog/anthropics/knowledge-work-plugins.md)</sub>
 - **[machine\_learning\_examples](https://github.com/lazyprogrammer/machine_learning_examples)** <sub>lazyprogrammer</sub><br>
   A collection of machine learning examples and tutorials organized by course folder, with code for deep learning, reinforcement learning, and NLP…<br>
   <sub>`education` · [catalog entry](../catalog/lazyprogrammer/machine_learning_examples.md)</sub>
@@ -266,14 +284,20 @@ All 93 repositories, grouped by repository type.
 - **[TAADpapers](https://github.com/thunlp/TAADpapers)** <sub>thunlp</sub><br>
   A curated list of papers on textual adversarial attacks and defenses in NLP, organized into attack, defense, certified robustness, and benchmark…<br>
   <sub>[catalog entry](../catalog/thunlp/TAADpapers.md)</sub>
+- **[trending-claude-skills](https://github.com/linny006/trending-claude-skills)** <sub>linny006</sub><br>
+  An auto-updated leaderboard that tracks trending Claude skills and AI coding-agent repositories, ranked by freshness and momentum.<br>
+  <sub>[catalog entry](../catalog/linny006/trending-claude-skills.md)</sub>
 
 ## Guides & tutorials
 
-<sub>5 repositories · documentation and walkthroughs</sub>
+<sub>6 repositories · documentation and walkthroughs</sub>
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub><br>
   A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.<br>
   <sub>`model-training` `fine-tuning` · [catalog entry](../catalog/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU.md)</sub>
+- **[anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** <sub>Vincentwei1021</sub><br>
+  A Claude Code / Codex skill providing a Remotion (React + TypeScript) template, primitives library, tooling and specs for producing narrated…<br>
+  <sub>`media-editing` `video-processing` `content-generation` · [catalog entry](../catalog/Vincentwei1021/anything2explainer.md)</sub>
 - **[eol-dr](https://github.com/potatoqualitee/eol-dr)** <sub>potatoqualitee</sub><br>
   A crowd-sourced, Markdown-based checklist guide intended to help technically skilled people prepare documentation and plans so non-technical…<br>
   <sub>`knowledge-management` · [catalog entry](../catalog/potatoqualitee/eol-dr.md)</sub>
@@ -289,7 +313,7 @@ All 93 repositories, grouped by repository type.
 
 ## Research code
 
-<sub>5 repositories · paper implementations and experiments</sub>
+<sub>6 repositories · paper implementations and experiments</sub>
 
 - **[cs230](https://github.com/cimeister/cs230)** <sub>cimeister</sub><br>
   Experimental Python deep-learning code for generating wine-review descriptions using a Keras LSTM conditioned on wine variety and rating.<br>
@@ -300,6 +324,9 @@ All 93 repositories, grouped by repository type.
 - **[Graph-Bert](https://github.com/jwzhanggy/Graph-Bert)** <sub>jwzhanggy</sub><br>
   Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone.<br>
   <sub>`model-training` `data-transformation` `model-evaluation` · [catalog entry](../catalog/jwzhanggy/Graph-Bert.md)</sub>
+- **[harness2](https://github.com/google-research/harness2)** <sub>google-research</sub><br>
+  Harness² is a research framework for recursive agent harnessing that refines the prompts, tools, memory, and orchestration around fixed-weight…<br>
+  <sub>`agent-orchestration` `benchmarking` `model-evaluation` · [catalog entry](../catalog/google-research/harness2.md)</sub>
 - **[rrsi](https://github.com/google-research/rrsi)** <sub>google-research</sub><br>
   Research code for RRSI, a method that iteratively self-improves LLM agent harnesses (prompts, control flow, tools, memory) using regularized…<br>
   <sub>`agent-orchestration` `benchmarking` `model-evaluation` · [catalog entry](../catalog/google-research/rrsi.md)</sub>
@@ -309,10 +336,31 @@ All 93 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>1 repositories · other or not yet classified</sub>
+<sub>8 repositories · other or not yet classified</sub>
 
+- **[context-mode](https://github.com/mksglu/context-mode)** <sub>mksglu</sub><br>
+  Context window optimization for AI coding agents.<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/mksglu/context-mode.md)</sub>
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>
+- **[new-term-radar](https://github.com/zhuyansen/new-term-radar)** <sub>zhuyansen</sub><br>
+  Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list…<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/zhuyansen/new-term-radar.md)</sub>
+- **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** <sub>okf-memory</sub><br>
+  Git-native persistent memory for AI coding agents.<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/okf-memory/okf-agent-memory.md)</sub>
+- **[openserp](https://github.com/karust/openserp)** <sub>karust</sub><br>
+  Self-hosted SERP API for AI, SEO & automation.<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/karust/openserp.md)</sub>
+- **[OpenViking](https://github.com/volcengine/OpenViking)** <sub>volcengine</sub><br>
+  Self-evolving Context Database for AI Agents.<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/volcengine/OpenViking.md)</sub>
+- **[pydantic-ai-examples](https://github.com/vstorm-co/pydantic-ai-examples)** <sub>vstorm-co</sub><br>
+  A community-maintained collection of Pydantic AI examples.<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/vstorm-co/pydantic-ai-examples.md)</sub>
+- **[remotion](https://github.com/remotion-dev/remotion)** <sub>remotion-dev</sub><br>
+  🎥 Make videos programmatically with React<br>
+  <sub>*Awaiting enrichment* · [catalog entry](../catalog/remotion-dev/remotion.md)</sub>
 
 <sub>[↑ Back to top](#browse-by-kind) · [All subjects](README.md)</sub>

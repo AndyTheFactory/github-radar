@@ -2,9 +2,9 @@
 
 # Developer Tools
 
-22 repositories, grouped by what kind of thing they are.
+25 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (10) · [Apps & command-line tools](#apps--command-line-tools) (9) · [Curated lists & collections](#curated-lists--collections) (2) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (10) · [Apps & command-line tools](#apps--command-line-tools) (11) · [Curated lists & collections](#curated-lists--collections) (3) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Libraries & frameworks
 
@@ -43,7 +43,7 @@
 
 ## Apps & command-line tools
 
-<sub>9 repositories · things you run</sub>
+<sub>11 repositories · things you run</sub>
 
 - **[backpass](https://github.com/kunchenguid/backpass)** <sub>kunchenguid</sub><br>
   backpass is a CLI tool that improves AGENTS.md, CLAUDE.md, and project skills by analyzing local agent session transcripts and proposing…<br>
@@ -51,6 +51,9 @@
 - **[browser](https://github.com/lightpanda-io/browser)** <sub>lightpanda-io</sub><br>
   Lightpanda is a headless browser written from scratch in Zig, designed for AI agents and automation.<br>
   <sub>`web-scraping` `automation` `api-integration` · [catalog entry](../../catalog/lightpanda-io/browser.md)</sub>
+- **[Chisle](https://github.com/JayPokale/Chisle)** <sub>JayPokale</sub><br>
+  Chisle is a Claude Code plugin and multi-agent ruleset that aims to reduce token usage by enforcing terse prose, YAGNI-first code, and a…<br>
+  <sub>`code-generation` `automation` · [catalog entry](../../catalog/JayPokale/Chisle.md)</sub>
 - **[jev-router](https://github.com/gargpratyush/jev-router)** <sub>gargpratyush</sub><br>
   jev-router is a CLI wrapper that automatically routes each fresh user turn to a fast or strong model tier for Claude Code and OpenAI Codex.<br>
   <sub>`api-integration` `code-generation` `workflow-orchestration` · [catalog entry](../../catalog/gargpratyush/jev-router.md)</sub>
@@ -66,6 +69,9 @@
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub><br>
   OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…<br>
   <sub>`api-integration` `web-scraping` `automation` · [catalog entry](../../catalog/jackwener/OpenCLI.md)</sub>
+- **[tracelint](https://github.com/AshwinUgale/tracelint)** <sub>AshwinUgale</sub><br>
+  tracelint is a deterministic linter that reads agent execution traces and flags structural defects such as ignored errors, schema violations,…<br>
+  <sub>`static-analysis` `testing` `observability` · [catalog entry](../../catalog/AshwinUgale/tracelint.md)</sub>
 - **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub><br>
   ty is a Python type checker and language server written in Rust, distributed by Astral.<br>
   <sub>`static-analysis` `debugging` `code-generation` · [catalog entry](../../catalog/astral-sh/ty.md)</sub>
@@ -75,7 +81,7 @@
 
 ## Curated lists & collections
 
-<sub>2 repositories · reading lists, datasets, notebooks</sub>
+<sub>3 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub><br>
   A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.<br>
@@ -83,6 +89,9 @@
 - **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub><br>
   A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.<br>
   <sub>[catalog entry](../../catalog/lightpanda-io/awesome-lightpanda.md)</sub>
+- **[trending-claude-skills](https://github.com/linny006/trending-claude-skills)** <sub>linny006</sub><br>
+  An auto-updated leaderboard that tracks trending Claude skills and AI coding-agent repositories, ranked by freshness and momentum.<br>
+  <sub>[catalog entry](../../catalog/linny006/trending-claude-skills.md)</sub>
 
 ## Guides & tutorials
 

@@ -2,16 +2,18 @@
 
 # A–Z directory
 
-All 93 repositories, sorted by repository name.
+All 109 repositories, sorted by repository name.
 
-**[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w)**
+**[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
 ## A
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub> — A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub> — Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.
+- **[adk-python](https://github.com/google/adk-python)** <sub>google</sub> — A code-first Python framework for building, evaluating, and deploying AI agents, with a workflow runtime, multi-agent composition, and a tool…
 - **[agent-framework](https://github.com/microsoft/agent-framework)** <sub>microsoft</sub> — Microsoft Agent Framework is an open, multi-language SDK for building, orchestrating, and deploying AI agents and multi-agent workflows in…
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub> — Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…
+- **[anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** <sub>Vincentwei1021</sub> — A Claude Code / Codex skill providing a Remotion (React + TypeScript) template, primitives library, tooling and specs for producing narrated…
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub> — An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…
 - **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** <sub>aiming-lab</sub> — An autonomous research pipeline that takes a research idea and runs multi-stage processes to produce a paper, with optional human-in-the-loop…
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub> — A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.
@@ -31,8 +33,10 @@ All 93 repositories, sorted by repository name.
 - **[camouchat-whatsapp](https://github.com/CamouChat-Team/camouchat-whatsapp)** <sub>CamouChat-Team</sub> — A Python plugin for the CamouChat ecosystem that automates WhatsApp Web via the wa-js internal API, running multiple isolated browser profiles.
 - **[carcassonne](https://github.com/wingedsheep/carcassonne)** <sub>wingedsheep</sub> — A Python implementation of the Carcassonne board game, providing an API for building game clients or simulations.
 - **[CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)** <sub>salvadordf</sub> — CEF4Delphi is a library that embeds Chromium-based browsers in applications built with Delphi or Lazarus/FPC on Windows, Linux, and macOS.
+- **[Chisle](https://github.com/JayPokale/Chisle)** <sub>JayPokale</sub> — Chisle is a Claude Code plugin and multi-agent ruleset that aims to reduce token usage by enforcing terse prose, YAGNI-first code, and a…
 - **[claude-router](https://github.com/serhiileniv/claude-router)** <sub>serhiileniv</sub> — A self-hosted local proxy that routes Anthropic-compatible API requests to Claude Haiku, Sonnet, or Opus based on request complexity, configured…
 - **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** <sub>CloakHQ</sub> — A Chromium-based browser automation library offered as a drop-in replacement for Playwright and Puppeteer in Python and JavaScript.
+- **[context-mode](https://github.com/mksglu/context-mode)** <sub>mksglu</sub> — Context window optimization for AI coding agents.
 - **[cs230](https://github.com/cimeister/cs230)** <sub>cimeister</sub> — Experimental Python deep-learning code for generating wine-review descriptions using a Keras LSTM conditioned on wine variety and rating.
 
 ## D
@@ -66,6 +70,7 @@ All 93 repositories, sorted by repository name.
 ## H
 
 - **[handson-ml3](https://github.com/ageron/handson-ml3)** <sub>ageron</sub> — A collection of Jupyter notebooks teaching machine learning and deep learning fundamentals in Python with Scikit-Learn, Keras, and TensorFlow 2.
+- **[harness2](https://github.com/google-research/harness2)** <sub>google-research</sub> — Harness² is a research framework for recursive agent harnessing that refines the prompts, tools, memory, and orchestration around fixed-weight…
 - **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub> — Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp,…
 - **[httpx2](https://github.com/pydantic/httpx2)** <sub>pydantic</sub> — HTTPX2 is a Python HTTP client library offering sync and async APIs, HTTP/1.1 and HTTP/2 support, and an optional integrated command-line client.
 
@@ -78,6 +83,7 @@ All 93 repositories, sorted by repository name.
 
 - **[keras-LAMB-Optimizer](https://github.com/titu1994/keras-LAMB-Optimizer)** <sub>titu1994</sub> — Provides a Keras implementation of the LAMB (Layer-wise Adaptive Moments optimizer for Batch training) optimizer, based on the paper "Reducing…
 - **[KK-s-Paperlist](https://github.com/SparkJiao/KK-s-Paperlist)** <sub>SparkJiao</sub> — A curated list of academic papers on machine learning, reinforcement learning, NLP, and related topics, organized by subject such as language…
+- **[knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** <sub>anthropics</sub> — A collection of open-source plugins for Claude Cowork and Claude Code, each bundling skills, connectors, slash commands, and sub-agents for…
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub> — KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.
 
 ## L
@@ -103,14 +109,18 @@ All 93 repositories, sorted by repository name.
 
 - **[nano-graphrag](https://github.com/gusye1234/nano-graphrag)** <sub>gusye1234</sub> — nano-graphrag is a small, asynchronous, fully typed Python implementation of GraphRAG, described as about 1100 lines of code excluding tests and…
 - **[netherearth-disassembly](https://github.com/santiontanon/netherearth-disassembly)** <sub>santiontanon</sub> — Provides an annotated disassembly of the 1986 Nether Earth ZX Spectrum game, including source files, graphic data, and an HTML-rendered version.
+- **[new-term-radar](https://github.com/zhuyansen/new-term-radar)** <sub>zhuyansen</sub> — Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list…
 - **[nlp-architect](https://github.com/IntelLabs/nlp-architect)** <sub>IntelLabs</sub> — NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and…
 - **[nocodb](https://github.com/nocodb/nocodb)** <sub>nocodb</sub> — NocoDB is a self-hostable, spreadsheet-style interface that turns databases into online, no-code databases, positioned as an Airtable…
 
 ## O
 
+- **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** <sub>okf-memory</sub> — Git-native persistent memory for AI coding agents.
 - **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** <sub>OpenAPITools</sub> — Utility for comparing two OpenAPI specifications (3.x) and rendering the differences as HTML, Markdown, AsciiDoc, text, or JSON.
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub> — OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…
+- **[openserp](https://github.com/karust/openserp)** <sub>karust</sub> — Self-hosted SERP API for AI, SEO & automation.
 - **[OpenShell](https://github.com/NVIDIA/OpenShell)** <sub>NVIDIA</sub> — OpenShell is a runtime that runs autonomous AI agents in isolated sandboxes, enforcing policies on file access, system calls, and network…
+- **[OpenViking](https://github.com/volcengine/OpenViking)** <sub>volcengine</sub> — Self-evolving Context Database for AI Agents.
 
 ## P
 
@@ -122,6 +132,7 @@ All 93 repositories, sorted by repository name.
 - **[Primer-to-Machine-Learning](https://github.com/AdArya125/Primer-to-Machine-Learning)** <sub>AdArya125</sub> — A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing,…
 - **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub> — Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.
 - **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** <sub>pydantic</sub> — Pydantic AI is a Python SDK providing a typed agent loop that works across many LLM providers.
+- **[pydantic-ai-examples](https://github.com/vstorm-co/pydantic-ai-examples)** <sub>vstorm-co</sub> — A community-maintained collection of Pydantic AI examples.
 - **[PyWhatKit](https://github.com/Ankit404butfound/PyWhatKit)** <sub>Ankit404butfound</sub> — PyWhatKit is a Python library for automating WhatsApp messaging, sending images, and playing YouTube videos at scheduled times.
 
 ## R
@@ -129,6 +140,7 @@ All 93 repositories, sorted by repository name.
 - **[rdpwrap](https://github.com/stascorp/rdpwrap)** <sub>stascorp</sub> — RDP Wrapper Library is a layer between the Service Control Manager and Terminal Services that aims to enable Remote Desktop Host support and…
 - **[rea](https://github.com/morluto/rea)** <sub>morluto</sub> — REA is an MCP server and CLI that gives AI agents tools to reverse engineer native binaries, JavaScript/Electron apps, .NET assemblies, and…
 - **[reef](https://github.com/Human-Agent-Society/reef)** <sub>Human-Agent-Society</sub> — Reef is an open-source infrastructure for continually self-improving agents.
+- **[remotion](https://github.com/remotion-dev/remotion)** <sub>remotion-dev</sub> — 🎥 Make videos programmatically with React
 - **[rrsi](https://github.com/google-research/rrsi)** <sub>google-research</sub> — Research code for RRSI, a method that iteratively self-improves LLM agent harnesses (prompts, control flow, tools, memory) using regularized…
 - **[rustdesk](https://github.com/rustdesk/rustdesk)** <sub>rustdesk</sub> — RustDesk is an open-source remote desktop application written in Rust, designed for self-hosting as an alternative to TeamViewer.
 
@@ -146,14 +158,21 @@ All 93 repositories, sorted by repository name.
 - **[taipy](https://github.com/Avaiga/taipy)** <sub>Avaiga</sub> — Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario…
 - **[text\_classification](https://github.com/brightmart/text_classification)** <sub>brightmart</sub> — A collection of deep learning baseline models for text classification, including multi-label classification.
 - **[TF2-albert-NER](https://github.com/DUTANGx/TF2-albert-NER)** <sub>DUTANGx</sub> — Wraps ALBERT as a tf.keras layer using bert-for-tf2 and implements named entity recognition (NER) with CRF and Bi-LSTM models.
+- **[ToolReplay](https://github.com/brandynfisher/ToolReplay)** <sub>brandynfisher</sub> — ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic…
+- **[tracelint](https://github.com/AshwinUgale/tracelint)** <sub>AshwinUgale</sub> — tracelint is a deterministic linter that reads agent execution traces and flags structural defects such as ignored errors, schema violations,…
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** <sub>TauricResearch</sub> — TradingAgents is a multi-agent LLM framework for financial trading analysis, with analyst, research, and trader roles.
 - **[transformers](https://github.com/huggingface/transformers)** <sub>huggingface</sub> — Transformers is a model-definition framework providing state-of-the-art pretrained machine learning models for text, vision, audio, video, and…
+- **[trending-claude-skills](https://github.com/linny006/trending-claude-skills)** <sub>linny006</sub> — An auto-updated leaderboard that tracks trending Claude skills and AI coding-agent repositories, ranked by freshness and momentum.
 - **[ty](https://github.com/astral-sh/ty)** <sub>astral-sh</sub> — ty is a Python type checker and language server written in Rust, distributed by Astral.
 
 ## U
 
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub> — Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.
 - **[uv](https://github.com/astral-sh/uv)** <sub>astral-sh</sub> — uv is a Python package and project manager written in Rust, providing dependency resolution, lockfiles, virtual environments, and Python version…
+
+## V
+
+- **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** <sub>debpalash</sub> — VoiceStudio is an open-source, local-first desktop application for voice cloning, voice design, text-to-speech, video dubbing, dictation,…
 
 ## W
 

@@ -2,17 +2,20 @@
 
 # AI & Machine Learning
 
-43 repositories, grouped by what kind of thing they are.
+46 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (22) · [Apps & command-line tools](#apps--command-line-tools) (7) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (5)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (23) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (6)
 
 ## Libraries & frameworks
 
-<sub>22 repositories · code you import</sub>
+<sub>23 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
   <sub>`search-retrieval` `data-transformation` · [catalog entry](../../catalog/chrislit/abydos.md)</sub>
+- **[adk-python](https://github.com/google/adk-python)** <sub>google</sub><br>
+  A code-first Python framework for building, evaluating, and deploying AI agents, with a workflow runtime, multi-agent composition, and a tool…<br>
+  <sub>`agent-orchestration` `workflow-orchestration` `api-integration` · [catalog entry](../../catalog/google/adk-python.md)</sub>
 - **[agent-framework](https://github.com/microsoft/agent-framework)** <sub>microsoft</sub><br>
   Microsoft Agent Framework is an open, multi-language SDK for building, orchestrating, and deploying AI agents and multi-agent workflows in…<br>
   <sub>`agent-orchestration` `workflow-orchestration` `inference-serving` · [catalog entry](../../catalog/microsoft/agent-framework.md)</sub>
@@ -79,7 +82,7 @@
 
 ## Apps & command-line tools
 
-<sub>7 repositories · things you run</sub>
+<sub>8 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -102,6 +105,9 @@
 - **[unsloth](https://github.com/unslothai/unsloth)** <sub>unslothai</sub><br>
   Unsloth is a local desktop application and UI for running and training LLMs and diffusion models, with support for GGUF and MLX formats.<br>
   <sub>`inference-serving` `fine-tuning` `model-training` · [catalog entry](../../catalog/unslothai/unsloth.md)</sub>
+- **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** <sub>debpalash</sub><br>
+  VoiceStudio is an open-source, local-first desktop application for voice cloning, voice design, text-to-speech, video dubbing, dictation,…<br>
+  <sub>`speech-synthesis` `speech-recognition` `audio-generation` · [catalog entry](../../catalog/debpalash/VoiceStudio.md)</sub>
 
 ## Curated lists & collections
 
@@ -142,7 +148,7 @@
 
 ## Research code
 
-<sub>5 repositories · paper implementations and experiments</sub>
+<sub>6 repositories · paper implementations and experiments</sub>
 
 - **[cs230](https://github.com/cimeister/cs230)** <sub>cimeister</sub><br>
   Experimental Python deep-learning code for generating wine-review descriptions using a Keras LSTM conditioned on wine variety and rating.<br>
@@ -153,6 +159,9 @@
 - **[Graph-Bert](https://github.com/jwzhanggy/Graph-Bert)** <sub>jwzhanggy</sub><br>
   Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone.<br>
   <sub>`model-training` `data-transformation` `model-evaluation` · [catalog entry](../../catalog/jwzhanggy/Graph-Bert.md)</sub>
+- **[harness2](https://github.com/google-research/harness2)** <sub>google-research</sub><br>
+  Harness² is a research framework for recursive agent harnessing that refines the prompts, tools, memory, and orchestration around fixed-weight…<br>
+  <sub>`agent-orchestration` `benchmarking` `model-evaluation` · [catalog entry](../../catalog/google-research/harness2.md)</sub>
 - **[rrsi](https://github.com/google-research/rrsi)** <sub>google-research</sub><br>
   Research code for RRSI, a method that iteratively self-improves LLM agent harnesses (prompts, control flow, tools, memory) using regularized…<br>
   <sub>`agent-orchestration` `benchmarking` `model-evaluation` · [catalog entry](../../catalog/google-research/rrsi.md)</sub>
