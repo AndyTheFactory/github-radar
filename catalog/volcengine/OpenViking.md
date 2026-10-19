@@ -46,3 +46,62 @@ Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG 
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+OpenViking is an open-source context database for AI agents that organizes knowledge, memory, and skills as a virtual filesystem under viking:// URIs. It provides directory-scoped semantic search and generated summaries so agents can inspect and edit stored context.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "a75dc71862f680c25171b9b6b0ec5909f5d4f25b588d5c85a6e3a41541d29b16"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools",
+    "databases"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "indexing",
+    "search-retrieval",
+    "knowledge-management",
+    "storage",
+    "data-ingestion"
+  ],
+  "technologies": [
+    "Python",
+    "Vector database",
+    "Markdown",
+    "Agent frameworks"
+  ],
+  "summary": "OpenViking is an open-source context database for AI agents that organizes knowledge, memory, and skills as a virtual filesystem under viking:// URIs. It provides directory-scoped semantic search and generated summaries so agents can inspect and edit stored context.",
+  "use_cases": [
+    "Storing and browsing agent memory as readable files",
+    "Scoping semantic retrieval to project or memory subtrees",
+    "Converting agent sessions into editable Markdown memories"
+  ],
+  "limitations": [
+    "README excerpt does not document installation or API details",
+    "Context compilation features require VikingBot to be enabled",
+    "Licensed under AGPL-3.0"
+  ],
+  "suggested_terms": [
+    "agent memory",
+    "context database",
+    "agentic RAG",
+    "vector database",
+    "agent skills"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

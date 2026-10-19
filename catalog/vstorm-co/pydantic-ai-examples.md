@@ -78,3 +78,63 @@ A community-maintained collection of Pydantic AI examples.
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A community-maintained collection of Pydantic AI example projects demonstrating direct model requests, parameter tuning, structured outputs, classification, and document processing. The examples are intended for learning the PydanticAI framework and require an OpenAI API key.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "a98b237820c7d1835362a1d4d81497685f2724d1f7976cc221694bca94c93f50"
+  },
+  "primary_domain": "ai-ml",
+  "secondary_domains": [
+    "developer-tools",
+    "research-learning"
+  ],
+  "repository_type": "collection",
+  "capabilities": [
+    "classification",
+    "information-extraction",
+    "ocr",
+    "document-processing",
+    "question-answering"
+  ],
+  "technologies": [
+    "Python",
+    "Pydantic AI",
+    "OpenAI API",
+    "Anthropic API",
+    "uv"
+  ],
+  "summary": "A community-maintained collection of Pydantic AI example projects demonstrating direct model requests, parameter tuning, structured outputs, classification, and document processing. The examples are intended for learning the PydanticAI framework and require an OpenAI API key.",
+  "use_cases": [
+    "Learning PydanticAI basics and structured outputs",
+    "Reviewing example patterns for sentiment and dynamic classification",
+    "Exploring OCR-based document parsing with schema validation"
+  ],
+  "limitations": [
+    "Examples are community-maintained and their correctness is not verified",
+    "Most examples require a paid OpenAI API key and quota",
+    "Requires Python 3.13+ and the uv package manager"
+  ],
+  "suggested_terms": [
+    "pydantic-ai examples",
+    "pydantic ai tutorial",
+    "llm structured output python",
+    "pydantic ai agents",
+    "pydantic ai ocr"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

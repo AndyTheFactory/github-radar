@@ -2,9 +2,17 @@
 
 # Computer Vision & Multimedia
 
-2 repositories, grouped by what kind of thing they are.
+3 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Apps & command-line tools](#apps--command-line-tools) (1) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (1) · [Apps & command-line tools](#apps--command-line-tools) (1) · [Guides & tutorials](#guides--tutorials) (1)
+
+## Libraries & frameworks
+
+<sub>1 repositories · code you import</sub>
+
+- **[remotion](https://github.com/remotion-dev/remotion)** <sub>remotion-dev</sub><br>
+  Remotion is a React-based framework for creating videos programmatically, with React code as the source of truth.<br>
+  <sub>`video-processing` `media-editing` `content-generation` · [catalog entry](../../catalog/remotion-dev/remotion.md)</sub>
 
 ## Apps & command-line tools
 

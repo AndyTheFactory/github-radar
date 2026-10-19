@@ -4,11 +4,11 @@
 
 All 109 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (40) · [Apps & command-line tools](#apps--command-line-tools) (33) · [Curated lists & collections](#curated-lists--collections) (16) · [Guides & tutorials](#guides--tutorials) (6) · [Research code](#research-code) (6) · [Other projects](#other-projects) (8)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (35) · [Curated lists & collections](#curated-lists--collections) (17) · [Guides & tutorials](#guides--tutorials) (6) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
-<sub>40 repositories · code you import</sub>
+<sub>44 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -37,6 +37,9 @@ All 109 repositories, grouped by repository type.
 - **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** <sub>CloakHQ</sub><br>
   A Chromium-based browser automation library offered as a drop-in replacement for Playwright and Puppeteer in Python and JavaScript.<br>
   <sub>`automation` `web-scraping` `api-integration` · [catalog entry](../catalog/CloakHQ/CloakBrowser.md)</sub>
+- **[context-mode](https://github.com/mksglu/context-mode)** <sub>mksglu</sub><br>
+  Context Mode is an MCP server that sandboxes tool output to reduce AI coding agent context usage and persists session data in SQLite with…<br>
+  <sub>`api-integration` `indexing` `search-retrieval` · [catalog entry](../catalog/mksglu/context-mode.md)</sub>
 - **[deepagents](https://github.com/langchain-ai/deepagents)** <sub>langchain-ai</sub><br>
   Deep Agents is an open source, opinionated agent harness built on LangGraph, offering sub-agents, pluggable filesystem and memory backends,…<br>
   <sub>`agent-orchestration` `workflow-orchestration` `task-management` · [catalog entry](../catalog/langchain-ai/deepagents.md)</sub>
@@ -94,6 +97,12 @@ All 109 repositories, grouped by repository type.
 - **[nlp-architect](https://github.com/IntelLabs/nlp-architect)** <sub>IntelLabs</sub><br>
   NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and…<br>
   <sub>`model-training` `inference-serving` `benchmarking` · [catalog entry](../catalog/IntelLabs/nlp-architect.md)</sub>
+- **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** <sub>okf-memory</sub><br>
+  A Go project providing Git-native persistent memory for AI coding agents, following the Google OKF v0.2 knowledge format.<br>
+  <sub>`knowledge-management` `search-retrieval` `indexing` · [catalog entry](../catalog/okf-memory/okf-agent-memory.md)</sub>
+- **[OpenViking](https://github.com/volcengine/OpenViking)** <sub>volcengine</sub><br>
+  OpenViking is an open-source context database for AI agents that organizes knowledge, memory, and skills as a virtual filesystem under viking://…<br>
+  <sub>`indexing` `search-retrieval` `knowledge-management` · [catalog entry](../catalog/volcengine/OpenViking.md)</sub>
 - **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub><br>
   Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.<br>
   <sub>`data-validation` `data-transformation` · [catalog entry](../catalog/pydantic/pydantic.md)</sub>
@@ -109,6 +118,9 @@ All 109 repositories, grouped by repository type.
 - **[reef](https://github.com/Human-Agent-Society/reef)** <sub>Human-Agent-Society</sub><br>
   Reef is an open-source infrastructure for continually self-improving agents.<br>
   <sub>`agent-orchestration` `model-training` `inference-serving` · [catalog entry](../catalog/Human-Agent-Society/reef.md)</sub>
+- **[remotion](https://github.com/remotion-dev/remotion)** <sub>remotion-dev</sub><br>
+  Remotion is a React-based framework for creating videos programmatically, with React code as the source of truth.<br>
+  <sub>`video-processing` `media-editing` `content-generation` · [catalog entry](../catalog/remotion-dev/remotion.md)</sub>
 - **[sentence-transformers](https://github.com/huggingface/sentence-transformers)** <sub>huggingface</sub><br>
   A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models.<br>
   <sub>`model-training` `fine-tuning` `search-retrieval` · [catalog entry](../catalog/huggingface/sentence-transformers.md)</sub>
@@ -133,7 +145,7 @@ All 109 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>33 repositories · things you run</sub>
+<sub>35 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -177,6 +189,9 @@ All 109 repositories, grouped by repository type.
 - **[MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** <sub>FujiwaraChoki</sub><br>
   A Python application that automates online money-making workflows, including a Twitter bot, YouTube Shorts automation with CRON scheduling,…<br>
   <sub>`automation` `api-integration` `video-processing` · [catalog entry](../catalog/FujiwaraChoki/MoneyPrinterV2.md)</sub>
+- **[new-term-radar](https://github.com/zhuyansen/new-term-radar)** <sub>zhuyansen</sub><br>
+  A Python tool that produces a daily report of emerging AI-related names (models, products, tools, repos) by monitoring X accounts, Hugging Face…<br>
+  <sub>`data-ingestion` `monitoring` `search-retrieval` · [catalog entry](../catalog/zhuyansen/new-term-radar.md)</sub>
 - **[nocodb](https://github.com/nocodb/nocodb)** <sub>nocodb</sub><br>
   NocoDB is a self-hostable, spreadsheet-style interface that turns databases into online, no-code databases, positioned as an Airtable…<br>
   <sub>`database-management` `api-integration` `storage` · [catalog entry](../catalog/nocodb/nocodb.md)</sub>
@@ -186,6 +201,9 @@ All 109 repositories, grouped by repository type.
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub><br>
   OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…<br>
   <sub>`api-integration` `web-scraping` `automation` · [catalog entry](../catalog/jackwener/OpenCLI.md)</sub>
+- **[openserp](https://github.com/karust/openserp)** <sub>karust</sub><br>
+  OpenSERP is a self-hosted Go application that provides a CLI and HTTP API for searching Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia…<br>
+  <sub>`api-integration` `web-scraping` `search-retrieval` · [catalog entry](../catalog/karust/openserp.md)</sub>
 - **[OpenShell](https://github.com/NVIDIA/OpenShell)** <sub>NVIDIA</sub><br>
   OpenShell is a runtime that runs autonomous AI agents in isolated sandboxes, enforcing policies on file access, system calls, and network…<br>
   <sub>`authorization` `virtualization` `containerization` · [catalog entry](../catalog/NVIDIA/OpenShell.md)</sub>
@@ -237,7 +255,7 @@ All 109 repositories, grouped by repository type.
 
 ## Curated lists & collections
 
-<sub>16 repositories · reading lists, datasets, notebooks</sub>
+<sub>17 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub><br>
   A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.<br>
@@ -281,6 +299,9 @@ All 109 repositories, grouped by repository type.
 - **[Primer-to-Machine-Learning](https://github.com/AdArya125/Primer-to-Machine-Learning)** <sub>AdArya125</sub><br>
   A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing,…<br>
   <sub>`education` · [catalog entry](../catalog/AdArya125/Primer-to-Machine-Learning.md)</sub>
+- **[pydantic-ai-examples](https://github.com/vstorm-co/pydantic-ai-examples)** <sub>vstorm-co</sub><br>
+  A community-maintained collection of Pydantic AI example projects demonstrating direct model requests, parameter tuning, structured outputs,…<br>
+  <sub>`classification` `information-extraction` `ocr` · [catalog entry](../catalog/vstorm-co/pydantic-ai-examples.md)</sub>
 - **[TAADpapers](https://github.com/thunlp/TAADpapers)** <sub>thunlp</sub><br>
   A curated list of papers on textual adversarial attacks and defenses in NLP, organized into attack, defense, certified robustness, and benchmark…<br>
   <sub>[catalog entry](../catalog/thunlp/TAADpapers.md)</sub>
@@ -336,31 +357,10 @@ All 109 repositories, grouped by repository type.
 
 ## Other projects
 
-<sub>8 repositories · other or not yet classified</sub>
+<sub>1 repositories · other or not yet classified</sub>
 
-- **[context-mode](https://github.com/mksglu/context-mode)** <sub>mksglu</sub><br>
-  Context window optimization for AI coding agents.<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/mksglu/context-mode.md)</sub>
 - **[knoxmap](https://github.com/spytheeuclidean-a11y/knoxmap)** <sub>spytheeuclidean-a11y</sub><br>
   KnoxMap is a Python tool that builds playable Project Zomboid Build 42 maps from real-world locations using OpenStreetMap data.<br>
   <sub>`game-development` `data-ingestion` `data-transformation` · [catalog entry](../catalog/spytheeuclidean-a11y/knoxmap.md)</sub>
-- **[new-term-radar](https://github.com/zhuyansen/new-term-radar)** <sub>zhuyansen</sub><br>
-  Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list…<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/zhuyansen/new-term-radar.md)</sub>
-- **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** <sub>okf-memory</sub><br>
-  Git-native persistent memory for AI coding agents.<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/okf-memory/okf-agent-memory.md)</sub>
-- **[openserp](https://github.com/karust/openserp)** <sub>karust</sub><br>
-  Self-hosted SERP API for AI, SEO & automation.<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/karust/openserp.md)</sub>
-- **[OpenViking](https://github.com/volcengine/OpenViking)** <sub>volcengine</sub><br>
-  Self-evolving Context Database for AI Agents.<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/volcengine/OpenViking.md)</sub>
-- **[pydantic-ai-examples](https://github.com/vstorm-co/pydantic-ai-examples)** <sub>vstorm-co</sub><br>
-  A community-maintained collection of Pydantic AI examples.<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/vstorm-co/pydantic-ai-examples.md)</sub>
-- **[remotion](https://github.com/remotion-dev/remotion)** <sub>remotion-dev</sub><br>
-  🎥 Make videos programmatically with React<br>
-  <sub>*Awaiting enrichment* · [catalog entry](../catalog/remotion-dev/remotion.md)</sub>
 
 <sub>[↑ Back to top](#browse-by-kind) · [All subjects](README.md)</sub>

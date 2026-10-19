@@ -75,3 +75,63 @@ archived: false
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Remotion is a React-based framework for creating videos programmatically, with React code as the source of truth. The README also documents an interactive editor starter, a Player, and batch rendering on self-managed infrastructure. Features are described from the README excerpt and external documentation.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "a81b331015adcc7a7c8167584bafdf88282f24892a2f156d8058da84ab469446"
+  },
+  "primary_domain": "vision-media",
+  "secondary_domains": [
+    "developer-tools",
+    "applications"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "video-processing",
+    "media-editing",
+    "content-generation"
+  ],
+  "technologies": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Mediabunny",
+    "AWS Lambda",
+    "Vercel"
+  ],
+  "summary": "Remotion is a React-based framework for creating videos programmatically, with React code as the source of truth. The README also documents an interactive editor starter, a Player, and batch rendering on self-managed infrastructure. Features are described from the README excerpt and external documentation.",
+  "use_cases": [
+    "Creating videos programmatically from React components and data",
+    "Batch rendering large numbers of videos on your own infrastructure",
+    "Building video editing applications with the Player and Editor Starter"
+  ],
+  "limitations": [
+    "License is listed as NOASSERTION in the metadata, so licensing terms need verification",
+    "README excerpt is truncated and most features are documented on external sites",
+    "Hosted rendering options such as Lambda and Vercel are external services, not included in this repository"
+  ],
+  "suggested_terms": [
+    "react video",
+    "programmatic video",
+    "video rendering",
+    "remotion",
+    "react video editor"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

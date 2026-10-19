@@ -2,14 +2,17 @@
 
 # Productivity & Personal Tools
 
-3 repositories, grouped by what kind of thing they are.
+4 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Apps & command-line tools](#apps--command-line-tools) (1) · [Curated lists & collections](#curated-lists--collections) (1) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (2) · [Curated lists & collections](#curated-lists--collections) (1) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Apps & command-line tools
 
-<sub>1 repositories · things you run</sub>
+<sub>2 repositories · things you run</sub>
 
+- **[new-term-radar](https://github.com/zhuyansen/new-term-radar)** <sub>zhuyansen</sub><br>
+  A Python tool that produces a daily report of emerging AI-related names (models, products, tools, repos) by monitoring X accounts, Hugging Face…<br>
+  <sub>`data-ingestion` `monitoring` `search-retrieval` · [catalog entry](../../catalog/zhuyansen/new-term-radar.md)</sub>
 - **[wordcraft](https://github.com/storytold/wordcraft)** <sub>storytold</sub><br>
   WordCraft is an open-source, clean-room reimplementation of Microsoft Word written in pure Rust, featuring a ribbon UI, styles, tables, track…<br>
   <sub>`document-processing` `media-editing` · [catalog entry](../../catalog/storytold/wordcraft.md)</sub>

@@ -2,13 +2,13 @@
 
 # AI & Machine Learning
 
-46 repositories, grouped by what kind of thing they are.
+48 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (23) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (7) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (6)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (24) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (8) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (6)
 
 ## Libraries & frameworks
 
-<sub>23 repositories · code you import</sub>
+<sub>24 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -58,6 +58,9 @@
 - **[nlp-architect](https://github.com/IntelLabs/nlp-architect)** <sub>IntelLabs</sub><br>
   NLP Architect is a Python library for exploring deep learning topologies and optimization techniques for Natural Language Processing and…<br>
   <sub>`model-training` `inference-serving` `benchmarking` · [catalog entry](../../catalog/IntelLabs/nlp-architect.md)</sub>
+- **[OpenViking](https://github.com/volcengine/OpenViking)** <sub>volcengine</sub><br>
+  OpenViking is an open-source context database for AI agents that organizes knowledge, memory, and skills as a virtual filesystem under viking://…<br>
+  <sub>`indexing` `search-retrieval` `knowledge-management` · [catalog entry](../../catalog/volcengine/OpenViking.md)</sub>
 - **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** <sub>pydantic</sub><br>
   Pydantic AI is a Python SDK providing a typed agent loop that works across many LLM providers.<br>
   <sub>`agent-orchestration` `image-generation` `model-evaluation` · [catalog entry](../../catalog/pydantic/pydantic-ai.md)</sub>
@@ -111,7 +114,7 @@
 
 ## Curated lists & collections
 
-<sub>7 repositories · reading lists, datasets, notebooks</sub>
+<sub>8 repositories · reading lists, datasets, notebooks</sub>
 
 - **[BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)** <sub>tomohideshibata</sub><br>
   A curated list of research papers related to BERT and transformer-based language models, organized by topics such as surveys, downstream tasks,…<br>
@@ -134,6 +137,9 @@
 - **[models](https://github.com/tensorflow/models)** <sub>tensorflow</sub><br>
   TensorFlow Model Garden is a collection of model implementations and modeling solutions for TensorFlow, organized into official, research,…<br>
   <sub>`model-training` `inference-serving` `image-classification` · [catalog entry](../../catalog/tensorflow/models.md)</sub>
+- **[pydantic-ai-examples](https://github.com/vstorm-co/pydantic-ai-examples)** <sub>vstorm-co</sub><br>
+  A community-maintained collection of Pydantic AI example projects demonstrating direct model requests, parameter tuning, structured outputs,…<br>
+  <sub>`classification` `information-extraction` `ocr` · [catalog entry](../../catalog/vstorm-co/pydantic-ai-examples.md)</sub>
 
 ## Guides & tutorials
 

@@ -6,6 +6,7 @@
 - [awesomedata/awesome-public-datasets](../catalog/awesomedata/awesome-public-datasets.md)
 - [duckdb/duckdb](../catalog/duckdb/duckdb.md)
 - [goose3/goose3](../catalog/goose3/goose3.md)
+- [karust/openserp](../catalog/karust/openserp.md)
 - [lazyprogrammer/machine_learning_examples](../catalog/lazyprogrammer/machine_learning_examples.md)
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
@@ -13,3 +14,4 @@
 - [scrapinghub/extruct](../catalog/scrapinghub/extruct.md)
 - [slingdata-io/sling-cli](../catalog/slingdata-io/sling-cli.md)
 - [streamlit/streamlit](../catalog/streamlit/streamlit.md)
+- [zhuyansen/new-term-radar](../catalog/zhuyansen/new-term-radar.md)

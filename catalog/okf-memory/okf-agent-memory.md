@@ -58,3 +58,62 @@ Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A Go project providing Git-native persistent memory for AI coding agents, following the Google OKF v0.2 knowledge format. It offers in-memory BM25 search and an embedded MCP server, with retrieval exposed via okf_search and okf_show.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "5ee2714df5669b6f515fc8758945cde7e14f8c690f7e24d89e2330e3e36ed843"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "ai-ml",
+    "productivity"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "knowledge-management",
+    "search-retrieval",
+    "indexing",
+    "note-taking"
+  ],
+  "technologies": [
+    "Go",
+    "MCP",
+    "Markdown",
+    "BM25",
+    "Git"
+  ],
+  "summary": "A Go project providing Git-native persistent memory for AI coding agents, following the Google OKF v0.2 knowledge format. It offers in-memory BM25 search and an embedded MCP server, with retrieval exposed via okf_search and okf_show.",
+  "use_cases": [
+    "Persisting architectural decisions and project facts across AI agent sessions",
+    "Storing agent behavioral rules and guardrails in a Git-tracked knowledge bundle",
+    "Selective retrieval of domain knowledge by coding agents via MCP"
+  ],
+  "limitations": [
+    "README excerpt makes performance and token-reduction claims that are unverified from this metadata",
+    "Depends on agents supporting MCP or the documented OKF bundle structure",
+    "Excerpt is truncated; full feature set and installation details are not visible"
+  ],
+  "suggested_terms": [
+    "okf agent memory",
+    "git-native memory",
+    "mcp server bm25",
+    "coding agent memory",
+    "open knowledge format"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

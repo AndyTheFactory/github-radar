@@ -90,3 +90,60 @@ Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Ya
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+OpenSERP is a self-hosted Go application that provides a CLI and HTTP API for searching Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia through a browser-rendered backend. It returns structured search results in a shared JSON schema and can extract markdown content from result pages.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "c07a1960102ff203d1d758ec012253eec235029bb8fbed57b269d7f06cd59b20"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "data-engineering",
+    "vision-media"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "api-integration",
+    "web-scraping",
+    "search-retrieval",
+    "data-transformation",
+    "image-generation"
+  ],
+  "technologies": [
+    "Go",
+    "Docker",
+    "Docker Compose"
+  ],
+  "summary": "OpenSERP is a self-hosted Go application that provides a CLI and HTTP API for searching Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia through a browser-rendered backend. It returns structured search results in a shared JSON schema and can extract markdown content from result pages.",
+  "use_cases": [
+    "Providing live search results to LLMs or agents without per-search API billing",
+    "Backing SEO rank tracking across multiple search engines",
+    "Running a local multi-engine search endpoint via Docker or Go install"
+  ],
+  "limitations": [
+    "Requires self-hosting infrastructure unless the separate hosted cloud version is used",
+    "Results depend on scraping rendered search engine pages, which may change or be rate-limited"
+  ],
+  "suggested_terms": [
+    "serp api",
+    "self-hosted search api",
+    "multi-engine search",
+    "web search scraper",
+    "search results extraction"
+  ],
+  "confidence": "high"
+}
+```
+
+<!-- github-radar:enrichment:end -->

@@ -46,3 +46,63 @@ Daily radar for new AI terms: names of new models, products and repos, caught on
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+A Python tool that produces a daily report of emerging AI-related names (models, products, tools, repos) by monitoring X accounts, Hugging Face trending lists, GitHub repository growth, and site sitemaps. It is intended to surface new terms before keyword tools list them, with some sources requiring a paid AIsa API key.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "338b5b868dbfecd88e56d4a678d1e19631637a4b7a8ac53b4d7b5757d54c935b"
+  },
+  "primary_domain": "productivity",
+  "secondary_domains": [
+    "data-engineering",
+    "applications"
+  ],
+  "repository_type": "application",
+  "capabilities": [
+    "data-ingestion",
+    "monitoring",
+    "search-retrieval",
+    "reporting",
+    "api-integration"
+  ],
+  "technologies": [
+    "Python",
+    "GitHub API",
+    "Hugging Face",
+    "MCP",
+    "Google Trends"
+  ],
+  "summary": "A Python tool that produces a daily report of emerging AI-related names (models, products, tools, repos) by monitoring X accounts, Hugging Face trending lists, GitHub repository growth, and site sitemaps. It is intended to surface new terms before keyword tools list them, with some sources requiring a paid AIsa API key.",
+  "use_cases": [
+    "Identifying new AI terms early for SEO or content planning",
+    "Tracking fast-growing GitHub repositories",
+    "Monitoring AI tool directories for newly emerging keywords"
+  ],
+  "limitations": [
+    "Some signals require a paid AIsa API key and incur per-run costs",
+    "Google Trends is used only as a later validation step, not as a primary source",
+    "Source metadata and README claims are unverified"
+  ],
+  "suggested_terms": [
+    "new AI terms radar",
+    "AI keyword trend monitoring",
+    "GitHub breakout repo detection",
+    "Hugging Face trending monitor",
+    "sitemap keyword discovery"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->

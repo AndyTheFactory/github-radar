@@ -8,6 +8,7 @@
 - [astral-sh/ty](../catalog/astral-sh/ty.md)
 - [goose3/goose3](../catalog/goose3/goose3.md)
 - [nocodb/nocodb](../catalog/nocodb/nocodb.md)
+- [remotion-dev/remotion](../catalog/remotion-dev/remotion.md)
 - [salvadordf/CEF4Delphi](../catalog/salvadordf/CEF4Delphi.md)
 - [storytold/photocraft](../catalog/storytold/photocraft.md)
 - [streamlit/streamlit](../catalog/streamlit/streamlit.md)
@@ -15,3 +16,4 @@
 - [tensorflow/models](../catalog/tensorflow/models.md)
 - [themanojdesai/genai-llm-ml-case-studies](../catalog/themanojdesai/genai-llm-ml-case-studies.md)
 - [wingedsheep/carcassonne](../catalog/wingedsheep/carcassonne.md)
+- [zhuyansen/new-term-radar](../catalog/zhuyansen/new-term-radar.md)

@@ -33,3 +33,4 @@
 - [themanojdesai/genai-llm-ml-case-studies](../catalog/themanojdesai/genai-llm-ml-case-studies.md)
 - [thunlp/TAADpapers](../catalog/thunlp/TAADpapers.md)
 - [tomohideshibata/BERT-related-papers](../catalog/tomohideshibata/BERT-related-papers.md)
+- [vstorm-co/pydantic-ai-examples](../catalog/vstorm-co/pydantic-ai-examples.md)

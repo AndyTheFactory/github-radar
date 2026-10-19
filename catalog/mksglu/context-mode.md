@@ -46,3 +46,61 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 ## Personal notes
 
 <!-- Optional. Manual notes are never overwritten by sync. -->
+
+
+<!-- github-radar:enrichment:start -->
+
+## AI-generated catalog summary
+
+Context Mode is an MCP server that sandboxes tool output to reduce AI coding agent context usage and persists session data in SQLite with FTS5/BM25 retrieval. It integrates via MCP and hooks across multiple AI coding platforms, according to its README excerpt.
+
+### Classification
+
+```json
+{
+  "enrichment": {
+    "version": 1,
+    "model": "claude-haiku-5.5",
+    "source_sha256": "75e3db2c743672d914853cdbeaebd97d8752f14993a4e5eb43bf1fdfd0d1bc6f"
+  },
+  "primary_domain": "developer-tools",
+  "secondary_domains": [
+    "ai-ml",
+    "productivity"
+  ],
+  "repository_type": "library",
+  "capabilities": [
+    "api-integration",
+    "indexing",
+    "search-retrieval",
+    "storage",
+    "automation"
+  ],
+  "technologies": [
+    "TypeScript",
+    "MCP",
+    "SQLite",
+    "FTS5",
+    "BM25"
+  ],
+  "summary": "Context Mode is an MCP server that sandboxes tool output to reduce AI coding agent context usage and persists session data in SQLite with FTS5/BM25 retrieval. It integrates via MCP and hooks across multiple AI coding platforms, according to its README excerpt.",
+  "use_cases": [
+    "Reducing context window consumption from MCP tool output in AI coding agents",
+    "Restoring relevant session state after conversation compaction"
+  ],
+  "limitations": [
+    "README claims (e.g., 98% reduction) are unverified source metadata",
+    "License is listed as NOASSERTION in metadata"
+  ],
+  "suggested_terms": [
+    "MCP server",
+    "context window optimization",
+    "Claude Code plugin",
+    "session memory",
+    "FTS5 search"
+  ],
+  "confidence": "medium"
+}
+```
+
+<!-- github-radar:enrichment:end -->
