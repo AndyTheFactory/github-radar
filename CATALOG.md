@@ -1,6 +1,6 @@
 # Catalog
 
-**109 repositories archived.**
+**110 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -91,6 +91,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [santiontanon/netherearth-disassembly](catalog/santiontanon/netherearth-disassembly.md)
 - [scrapinghub/extruct](catalog/scrapinghub/extruct.md)
 - [serhiileniv/claude-router](catalog/serhiileniv/claude-router.md)
+- [Shubhamsaboo/awesome-llm-apps](catalog/Shubhamsaboo/awesome-llm-apps.md)
 - [slingdata-io/sling-cli](catalog/slingdata-io/sling-cli.md)
 - [SparkJiao/KK-s-Paperlist](catalog/SparkJiao/KK-s-Paperlist.md)
 - [spytheeuclidean-a11y/knoxmap](catalog/spytheeuclidean-a11y/knoxmap.md)

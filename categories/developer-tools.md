@@ -17,6 +17,7 @@
 - [Panniantong/Agent-Reach](../catalog/Panniantong/Agent-Reach.md)
 - [ProsusAI/MemEval](../catalog/ProsusAI/MemEval.md)
 - [SakanaAI/doc-to-lora](../catalog/SakanaAI/doc-to-lora.md)
+- [Shubhamsaboo/awesome-llm-apps](../catalog/Shubhamsaboo/awesome-llm-apps.md)
 - [Vincentwei1021/anything2explainer](../catalog/Vincentwei1021/anything2explainer.md)
 - [ahrdadan/playwright-lightpanda](../catalog/ahrdadan/playwright-lightpanda.md)
 - [aliaihub/awesome-hermes-usecases](../catalog/aliaihub/awesome-hermes-usecases.md)

@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 109 repositories, grouped by repository type.
+All 110 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (35) · [Curated lists & collections](#curated-lists--collections) (17) · [Guides & tutorials](#guides--tutorials) (6) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (35) · [Curated lists & collections](#curated-lists--collections) (18) · [Guides & tutorials](#guides--tutorials) (6) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -255,7 +255,7 @@ All 109 repositories, grouped by repository type.
 
 ## Curated lists & collections
 
-<sub>17 repositories · reading lists, datasets, notebooks</sub>
+<sub>18 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub><br>
   A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.<br>
@@ -266,6 +266,9 @@ All 109 repositories, grouped by repository type.
 - **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub><br>
   A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.<br>
   <sub>[catalog entry](../catalog/lightpanda-io/awesome-lightpanda.md)</sub>
+- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub><br>
+  A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.<br>
+  <sub>`agent-orchestration` `search-retrieval` `question-answering` · [catalog entry](../catalog/Shubhamsaboo/awesome-llm-apps.md)</sub>
 - **[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** <sub>awesomedata</sub><br>
   A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata.<br>
   <sub>`knowledge-management` `indexing` · [catalog entry](../catalog/awesomedata/awesome-public-datasets.md)</sub>

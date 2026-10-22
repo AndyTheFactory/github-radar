@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 109 repositories, sorted by repository name.
+All 110 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
@@ -19,6 +19,7 @@ All 109 repositories, sorted by repository name.
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub> — A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.
 - **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub> — A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.
 - **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub> — A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.
+- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub> — A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.
 - **[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** <sub>awesomedata</sub> — A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata.
 
 ## B

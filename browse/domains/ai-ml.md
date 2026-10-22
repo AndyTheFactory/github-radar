@@ -2,9 +2,9 @@
 
 # AI & Machine Learning
 
-48 repositories, grouped by what kind of thing they are.
+49 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (24) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (8) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (6)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (24) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (9) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (6)
 
 ## Libraries & frameworks
 
@@ -114,8 +114,11 @@
 
 ## Curated lists & collections
 
-<sub>8 repositories · reading lists, datasets, notebooks</sub>
+<sub>9 repositories · reading lists, datasets, notebooks</sub>
 
+- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub><br>
+  A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.<br>
+  <sub>`agent-orchestration` `search-retrieval` `question-answering` · [catalog entry](../../catalog/Shubhamsaboo/awesome-llm-apps.md)</sub>
 - **[BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)** <sub>tomohideshibata</sub><br>
   A curated list of research papers related to BERT and transformer-based language models, organized by topics such as surveys, downstream tasks,…<br>
   <sub>[catalog entry](../../catalog/tomohideshibata/BERT-related-papers.md)</sub>

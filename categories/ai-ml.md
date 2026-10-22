@@ -14,6 +14,7 @@
 - [NousResearch/hermes-agent](../catalog/NousResearch/hermes-agent.md)
 - [ProsusAI/MemEval](../catalog/ProsusAI/MemEval.md)
 - [SakanaAI/doc-to-lora](../catalog/SakanaAI/doc-to-lora.md)
+- [Shubhamsaboo/awesome-llm-apps](../catalog/Shubhamsaboo/awesome-llm-apps.md)
 - [SparkJiao/KK-s-Paperlist](../catalog/SparkJiao/KK-s-Paperlist.md)
 - [TauricResearch/TradingAgents](../catalog/TauricResearch/TradingAgents.md)
 - [TheAiSingularity/graphrag-local-ollama](../catalog/TheAiSingularity/graphrag-local-ollama.md)

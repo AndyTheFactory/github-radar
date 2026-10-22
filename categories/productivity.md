@@ -5,6 +5,7 @@
 - [LibreChat-AI/LibreChat](../catalog/LibreChat-AI/LibreChat.md)
 - [NousResearch/hermes-agent](../catalog/NousResearch/hermes-agent.md)
 - [Panniantong/Agent-Reach](../catalog/Panniantong/Agent-Reach.md)
+- [Shubhamsaboo/awesome-llm-apps](../catalog/Shubhamsaboo/awesome-llm-apps.md)
 - [TauricResearch/TradingAgents](../catalog/TauricResearch/TradingAgents.md)
 - [aiming-lab/AutoResearchClaw](../catalog/aiming-lab/AutoResearchClaw.md)
 - [alexandrerodenas/Pixo](../catalog/alexandrerodenas/Pixo.md)
