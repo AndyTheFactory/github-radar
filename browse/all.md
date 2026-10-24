@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 110 repositories, sorted by repository name.
+All 111 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
@@ -147,6 +147,7 @@ All 110 repositories, sorted by repository name.
 
 ## S
 
+- **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** <sub>cloudflare</sub> — A coding-agent skill that orchestrates isolated agents through a six-phase security audit, including reconnaissance, hunting, candidate…
 - **[sentence-transformers](https://github.com/huggingface/sentence-transformers)** <sub>huggingface</sub> — A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models.
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** <sub>NVIDIA</sub> — SkillSpector is a security scanner that analyzes AI agent skills for vulnerabilities, prompt injection, data exfiltration, and supply-chain…
 - **[sling-cli](https://github.com/slingdata-io/sling-cli)** <sub>slingdata-io</sub> — Sling is a Go-based CLI tool for extract-and-load (EL) data pipelines, moving data between databases, file systems, and APIs.

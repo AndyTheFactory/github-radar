@@ -28,6 +28,7 @@
 - [browser-use/browser-harness](../catalog/browser-use/browser-harness.md)
 - [bytedance/deer-flow](../catalog/bytedance/deer-flow.md)
 - [chrislit/abydos](../catalog/chrislit/abydos.md)
+- [cloudflare/security-audit-skill](../catalog/cloudflare/security-audit-skill.md)
 - [gargpratyush/jev-router](../catalog/gargpratyush/jev-router.md)
 - [google-research/harness2](../catalog/google-research/harness2.md)
 - [google-research/rrsi](../catalog/google-research/rrsi.md)

@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 110 repositories, grouped by repository type.
+All 111 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (35) · [Curated lists & collections](#curated-lists--collections) (18) · [Guides & tutorials](#guides--tutorials) (6) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (35) · [Curated lists & collections](#curated-lists--collections) (18) · [Guides & tutorials](#guides--tutorials) (7) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -314,7 +314,7 @@ All 110 repositories, grouped by repository type.
 
 ## Guides & tutorials
 
-<sub>6 repositories · documentation and walkthroughs</sub>
+<sub>7 repositories · documentation and walkthroughs</sub>
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub><br>
   A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.<br>
@@ -334,6 +334,9 @@ All 110 repositories, grouped by repository type.
 - **[playwright-lightpanda](https://github.com/ahrdadan/playwright-lightpanda)** <sub>ahrdadan</sub><br>
   Demonstrates using Lightpanda as a lightweight browser backend for a Playwright Python client over the Chrome DevTools Protocol.<br>
   <sub>`web-scraping` `automation` `deployment` · [catalog entry](../catalog/ahrdadan/playwright-lightpanda.md)</sub>
+- **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** <sub>cloudflare</sub><br>
+  A coding-agent skill that orchestrates isolated agents through a six-phase security audit, including reconnaissance, hunting, candidate…<br>
+  <sub>`vulnerability-scanning` `reporting` `agent-orchestration` · [catalog entry](../catalog/cloudflare/security-audit-skill.md)</sub>
 
 ## Research code
 

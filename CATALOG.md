@@ -1,6 +1,6 @@
 # Catalog
 
-**110 repositories archived.**
+**111 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -26,6 +26,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [chrislit/abydos](catalog/chrislit/abydos.md)
 - [cimeister/cs230](catalog/cimeister/cs230.md)
 - [CloakHQ/CloakBrowser](catalog/CloakHQ/CloakBrowser.md)
+- [cloudflare/security-audit-skill](catalog/cloudflare/security-audit-skill.md)
 - [debpalash/VoiceStudio](catalog/debpalash/VoiceStudio.md)
 - [Diolinux/PhotoGIMP](catalog/Diolinux/PhotoGIMP.md)
 - [duckdb/duckdb](catalog/duckdb/duckdb.md)

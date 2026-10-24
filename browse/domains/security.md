@@ -2,9 +2,9 @@
 
 # Security & Privacy
 
-6 repositories, grouped by what kind of thing they are.
+7 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Apps & command-line tools](#apps--command-line-tools) (5) · [Curated lists & collections](#curated-lists--collections) (1)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (5) · [Curated lists & collections](#curated-lists--collections) (1) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Apps & command-line tools
 
@@ -33,5 +33,13 @@
 - **[TAADpapers](https://github.com/thunlp/TAADpapers)** <sub>thunlp</sub><br>
   A curated list of papers on textual adversarial attacks and defenses in NLP, organized into attack, defense, certified robustness, and benchmark…<br>
   <sub>[catalog entry](../../catalog/thunlp/TAADpapers.md)</sub>
+
+## Guides & tutorials
+
+<sub>1 repositories · documentation and walkthroughs</sub>
+
+- **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** <sub>cloudflare</sub><br>
+  A coding-agent skill that orchestrates isolated agents through a six-phase security audit, including reconnaissance, hunting, candidate…<br>
+  <sub>`vulnerability-scanning` `reporting` `agent-orchestration` · [catalog entry](../../catalog/cloudflare/security-audit-skill.md)</sub>
 
 <sub>[↑ Back to top](#security--privacy) · [All subjects](../README.md) · [A–Z directory](../all.md)</sub>

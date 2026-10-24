@@ -28,6 +28,7 @@
 - [chrislit/abydos](../catalog/chrislit/abydos.md)
 - [chrislit/abydos](../catalog/chrislit/abydos.md)
 - [cimeister/cs230](../catalog/cimeister/cs230.md)
+- [cloudflare/security-audit-skill](../catalog/cloudflare/security-audit-skill.md)
 - [debpalash/VoiceStudio](../catalog/debpalash/VoiceStudio.md)
 - [flairNLP/flair](../catalog/flairNLP/flair.md)
 - [gargpratyush/jev-router](../catalog/gargpratyush/jev-router.md)
