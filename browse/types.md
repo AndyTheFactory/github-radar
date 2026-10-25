@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 111 repositories, grouped by repository type.
+All 112 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (35) · [Curated lists & collections](#curated-lists--collections) (18) · [Guides & tutorials](#guides--tutorials) (7) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (36) · [Curated lists & collections](#curated-lists--collections) (18) · [Guides & tutorials](#guides--tutorials) (7) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -145,7 +145,7 @@ All 111 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>35 repositories · things you run</sub>
+<sub>36 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -171,6 +171,9 @@ All 111 repositories, grouped by repository type.
 - **[foff-milter](https://github.com/mwstowe/foff-milter)** <sub>mwstowe</sub><br>
   FOFF Milter is a Sendmail milter written in Rust for email spam and fraud detection.<br>
   <sub>`classification` `static-analysis` `information-extraction` · [catalog entry](../catalog/mwstowe/foff-milter.md)</sub>
+- **[ghidra](https://github.com/NationalSecurityAgency/ghidra)** <sub>NationalSecurityAgency</sub><br>
+  Ghidra is a software reverse engineering framework from the NSA Research Directorate for analyzing compiled code on Windows, macOS, and Linux.<br>
+  <sub>`static-analysis` `automation` · [catalog entry](../catalog/NationalSecurityAgency/ghidra.md)</sub>
 - **[hermes-agent](https://github.com/NousResearch/hermes-agent)** <sub>NousResearch</sub><br>
   Hermes Agent is a self-improving AI agent with a terminal interface and messaging gateway integrations (Telegram, Discord, Slack, WhatsApp,…<br>
   <sub>`agent-orchestration` `automation` `workflow-orchestration` · [catalog entry](../catalog/NousResearch/hermes-agent.md)</sub>

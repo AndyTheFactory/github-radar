@@ -5,6 +5,7 @@
 - [CloakHQ/CloakBrowser](../catalog/CloakHQ/CloakBrowser.md)
 - [NVIDIA/OpenShell](../catalog/NVIDIA/OpenShell.md)
 - [NVIDIA/SkillSpector](../catalog/NVIDIA/SkillSpector.md)
+- [NationalSecurityAgency/ghidra](../catalog/NationalSecurityAgency/ghidra.md)
 - [brandynfisher/ToolReplay](../catalog/brandynfisher/ToolReplay.md)
 - [cloudflare/security-audit-skill](../catalog/cloudflare/security-audit-skill.md)
 - [jackwener/OpenCLI](../catalog/jackwener/OpenCLI.md)

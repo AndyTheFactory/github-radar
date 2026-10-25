@@ -12,6 +12,7 @@
 - [MemPalace/mempalace](../catalog/MemPalace/mempalace.md)
 - [NVIDIA/OpenShell](../catalog/NVIDIA/OpenShell.md)
 - [NVIDIA/SkillSpector](../catalog/NVIDIA/SkillSpector.md)
+- [NationalSecurityAgency/ghidra](../catalog/NationalSecurityAgency/ghidra.md)
 - [NousResearch/hermes-agent](../catalog/NousResearch/hermes-agent.md)
 - [OpenAPITools/openapi-diff](../catalog/OpenAPITools/openapi-diff.md)
 - [Panniantong/Agent-Reach](../catalog/Panniantong/Agent-Reach.md)

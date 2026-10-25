@@ -2,17 +2,20 @@
 
 # Security & Privacy
 
-7 repositories, grouped by what kind of thing they are.
+8 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Apps & command-line tools](#apps--command-line-tools) (5) · [Curated lists & collections](#curated-lists--collections) (1) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Apps & command-line tools](#apps--command-line-tools) (6) · [Curated lists & collections](#curated-lists--collections) (1) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Apps & command-line tools
 
-<sub>5 repositories · things you run</sub>
+<sub>6 repositories · things you run</sub>
 
 - **[foff-milter](https://github.com/mwstowe/foff-milter)** <sub>mwstowe</sub><br>
   FOFF Milter is a Sendmail milter written in Rust for email spam and fraud detection.<br>
   <sub>`classification` `static-analysis` `information-extraction` · [catalog entry](../../catalog/mwstowe/foff-milter.md)</sub>
+- **[ghidra](https://github.com/NationalSecurityAgency/ghidra)** <sub>NationalSecurityAgency</sub><br>
+  Ghidra is a software reverse engineering framework from the NSA Research Directorate for analyzing compiled code on Windows, macOS, and Linux.<br>
+  <sub>`static-analysis` `automation` · [catalog entry](../../catalog/NationalSecurityAgency/ghidra.md)</sub>
 - **[OpenShell](https://github.com/NVIDIA/OpenShell)** <sub>NVIDIA</sub><br>
   OpenShell is a runtime that runs autonomous AI agents in isolated sandboxes, enforcing policies on file access, system calls, and network…<br>
   <sub>`authorization` `virtualization` `containerization` · [catalog entry](../../catalog/NVIDIA/OpenShell.md)</sub>

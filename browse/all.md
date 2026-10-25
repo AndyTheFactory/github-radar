@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 111 repositories, sorted by repository name.
+All 112 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
@@ -63,6 +63,7 @@ All 111 repositories, sorted by repository name.
 ## G
 
 - **[genai-llm-ml-case-studies](https://github.com/themanojdesai/genai-llm-ml-case-studies)** <sub>themanojdesai</sub> — A curated collection of over 500 real-world ML and LLM system design case studies from more than 100 companies, organized by company, industry,…
+- **[ghidra](https://github.com/NationalSecurityAgency/ghidra)** <sub>NationalSecurityAgency</sub> — Ghidra is a software reverse engineering framework from the NSA Research Directorate for analyzing compiled code on Windows, macOS, and Linux.
 - **[goose3](https://github.com/goose3/goose3)** <sub>goose3</sub> — goose3 is a Python 3 port of the Goose article extractor.
 - **[GPTs](https://github.com/linexjlin/GPTs)** <sub>linexjlin</sub> — A collection of prompts reportedly leaked from custom GPTs, gathered from social media posts, GitHub pull requests, and the author's own testing.
 - **[Graph-Bert](https://github.com/jwzhanggy/Graph-Bert)** <sub>jwzhanggy</sub> — Source code for Graph-Bert, a transformer-based model that learns graph node representations using attention alone.

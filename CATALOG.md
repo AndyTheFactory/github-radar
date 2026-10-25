@@ -1,6 +1,6 @@
 # Catalog
 
-**111 repositories archived.**
+**112 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -71,6 +71,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [morluto/rea](catalog/morluto/rea.md)
 - [mwstowe/foff-milter](catalog/mwstowe/foff-milter.md)
 - [nachogl1/maestro](catalog/nachogl1/maestro.md)
+- [NationalSecurityAgency/ghidra](catalog/NationalSecurityAgency/ghidra.md)
 - [nocodb/nocodb](catalog/nocodb/nocodb.md)
 - [NousResearch/hermes-agent](catalog/NousResearch/hermes-agent.md)
 - [NVIDIA/OpenShell](catalog/NVIDIA/OpenShell.md)
