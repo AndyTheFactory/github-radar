@@ -2,13 +2,13 @@
 
 Repositories starred by [@AndyTheFactory](https://github.com/AndyTheFactory), sorted by subject. Rebuilt automatically after every sync.
 
-**112 repositories** · 13 subjects · all summarised
+**115 repositories** · 13 subjects · all summarised
 
 ## Browse by subject
 
 | Subject | Repositories |
 |:--|--:|
-| [AI & Machine Learning](domains/ai-ml.md) | 49 |
+| [AI & Machine Learning](domains/ai-ml.md) | 52 |
 | [Developer Tools](domains/developer-tools.md) | 28 |
 | [Security & Privacy](domains/security.md) | 8 |
 | [Data Engineering & Analytics](domains/data-engineering.md) | 4 |

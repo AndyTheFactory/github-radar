@@ -2,13 +2,13 @@
 
 # Browse by kind
 
-All 112 repositories, grouped by repository type.
+All 115 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (44) · [Apps & command-line tools](#apps--command-line-tools) (36) · [Curated lists & collections](#curated-lists--collections) (18) · [Guides & tutorials](#guides--tutorials) (7) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (45) · [Apps & command-line tools](#apps--command-line-tools) (36) · [Curated lists & collections](#curated-lists--collections) (19) · [Guides & tutorials](#guides--tutorials) (8) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
-<sub>44 repositories · code you import</sub>
+<sub>45 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -127,6 +127,9 @@ All 112 repositories, grouped by repository type.
 - **[streamlit](https://github.com/streamlit/streamlit)** <sub>streamlit</sub><br>
   Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards.<br>
   <sub>`data-visualization` `reporting` · [catalog entry](../catalog/streamlit/streamlit.md)</sub>
+- **[surya](https://github.com/datalab-to/surya)** <sub>datalab-to</sub><br>
+  Surya is a Python OCR toolkit built around a 650M-parameter model that provides text detection, OCR, layout analysis with reading order, and…<br>
+  <sub>`ocr` `object-detection` `information-extraction` · [catalog entry](../catalog/datalab-to/surya.md)</sub>
 - **[taipy](https://github.com/Avaiga/taipy)** <sub>Avaiga</sub><br>
   Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario…<br>
   <sub>`workflow-orchestration` `data-visualization` `authorization` · [catalog entry](../catalog/Avaiga/taipy.md)</sub>
@@ -258,7 +261,7 @@ All 112 repositories, grouped by repository type.
 
 ## Curated lists & collections
 
-<sub>18 repositories · reading lists, datasets, notebooks</sub>
+<sub>19 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub><br>
   A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.<br>
@@ -272,6 +275,9 @@ All 112 repositories, grouped by repository type.
 - **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub><br>
   A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.<br>
   <sub>`agent-orchestration` `search-retrieval` `question-answering` · [catalog entry](../catalog/Shubhamsaboo/awesome-llm-apps.md)</sub>
+- **[awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)** <sub>mergisi</sub><br>
+  A curated collection of copy-paste SOUL.md agent configuration templates for the OpenClaw ecosystem, organized into categories.<br>
+  <sub>[catalog entry](../catalog/mergisi/awesome-openclaw-agents.md)</sub>
 - **[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** <sub>awesomedata</sub><br>
   A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata.<br>
   <sub>`knowledge-management` `indexing` · [catalog entry](../catalog/awesomedata/awesome-public-datasets.md)</sub>
@@ -317,7 +323,7 @@ All 112 repositories, grouped by repository type.
 
 ## Guides & tutorials
 
-<sub>7 repositories · documentation and walkthroughs</sub>
+<sub>8 repositories · documentation and walkthroughs</sub>
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub><br>
   A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.<br>
@@ -340,6 +346,9 @@ All 112 repositories, grouped by repository type.
 - **[security-audit-skill](https://github.com/cloudflare/security-audit-skill)** <sub>cloudflare</sub><br>
   A coding-agent skill that orchestrates isolated agents through a six-phase security audit, including reconnaissance, hunting, candidate…<br>
   <sub>`vulnerability-scanning` `reporting` `agent-orchestration` · [catalog entry](../catalog/cloudflare/security-audit-skill.md)</sub>
+- **[soul-md-templates](https://github.com/mizukaizen/soul-md-templates)** <sub>mizukaizen</sub><br>
+  A collection of five free Markdown SOUL.md identity templates for defining AI agent culture, domain, voice, and boundaries.<br>
+  <sub>[catalog entry](../catalog/mizukaizen/soul-md-templates.md)</sub>
 
 ## Research code
 

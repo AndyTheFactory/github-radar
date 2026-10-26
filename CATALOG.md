@@ -1,6 +1,6 @@
 # Catalog
 
-**112 repositories archived.**
+**115 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -27,6 +27,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [cimeister/cs230](catalog/cimeister/cs230.md)
 - [CloakHQ/CloakBrowser](catalog/CloakHQ/CloakBrowser.md)
 - [cloudflare/security-audit-skill](catalog/cloudflare/security-audit-skill.md)
+- [datalab-to/surya](catalog/datalab-to/surya.md)
 - [debpalash/VoiceStudio](catalog/debpalash/VoiceStudio.md)
 - [Diolinux/PhotoGIMP](catalog/Diolinux/PhotoGIMP.md)
 - [duckdb/duckdb](catalog/duckdb/duckdb.md)
@@ -65,8 +66,10 @@ Search the repository using GitHub Code Search or browse entries below.
 - [linexjlin/GPTs](catalog/linexjlin/GPTs.md)
 - [linny006/trending-claude-skills](catalog/linny006/trending-claude-skills.md)
 - [MemPalace/mempalace](catalog/MemPalace/mempalace.md)
+- [mergisi/awesome-openclaw-agents](catalog/mergisi/awesome-openclaw-agents.md)
 - [microsoft/agent-framework](catalog/microsoft/agent-framework.md)
 - [microsoft/markitdown](catalog/microsoft/markitdown.md)
+- [mizukaizen/soul-md-templates](catalog/mizukaizen/soul-md-templates.md)
 - [mksglu/context-mode](catalog/mksglu/context-mode.md)
 - [morluto/rea](catalog/morluto/rea.md)
 - [mwstowe/foff-milter](catalog/mwstowe/foff-milter.md)

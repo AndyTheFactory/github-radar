@@ -2,13 +2,13 @@
 
 # AI & Machine Learning
 
-49 repositories, grouped by what kind of thing they are.
+52 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (24) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (9) · [Guides & tutorials](#guides--tutorials) (2) · [Research code](#research-code) (6)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (25) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (10) · [Guides & tutorials](#guides--tutorials) (3) · [Research code](#research-code) (6)
 
 ## Libraries & frameworks
 
-<sub>24 repositories · code you import</sub>
+<sub>25 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -70,6 +70,9 @@
 - **[sentence-transformers](https://github.com/huggingface/sentence-transformers)** <sub>huggingface</sub><br>
   A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models.<br>
   <sub>`model-training` `fine-tuning` `search-retrieval` · [catalog entry](../../catalog/huggingface/sentence-transformers.md)</sub>
+- **[surya](https://github.com/datalab-to/surya)** <sub>datalab-to</sub><br>
+  Surya is a Python OCR toolkit built around a 650M-parameter model that provides text detection, OCR, layout analysis with reading order, and…<br>
+  <sub>`ocr` `object-detection` `information-extraction` · [catalog entry](../../catalog/datalab-to/surya.md)</sub>
 - **[text\_classification](https://github.com/brightmart/text_classification)** <sub>brightmart</sub><br>
   A collection of deep learning baseline models for text classification, including multi-label classification.<br>
   <sub>`classification` `model-training` `question-answering` · [catalog entry](../../catalog/brightmart/text_classification.md)</sub>
@@ -114,11 +117,14 @@
 
 ## Curated lists & collections
 
-<sub>9 repositories · reading lists, datasets, notebooks</sub>
+<sub>10 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub><br>
   A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.<br>
   <sub>`agent-orchestration` `search-retrieval` `question-answering` · [catalog entry](../../catalog/Shubhamsaboo/awesome-llm-apps.md)</sub>
+- **[awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)** <sub>mergisi</sub><br>
+  A curated collection of copy-paste SOUL.md agent configuration templates for the OpenClaw ecosystem, organized into categories.<br>
+  <sub>[catalog entry](../../catalog/mergisi/awesome-openclaw-agents.md)</sub>
 - **[BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)** <sub>tomohideshibata</sub><br>
   A curated list of research papers related to BERT and transformer-based language models, organized by topics such as surveys, downstream tasks,…<br>
   <sub>[catalog entry](../../catalog/tomohideshibata/BERT-related-papers.md)</sub>
@@ -146,7 +152,7 @@
 
 ## Guides & tutorials
 
-<sub>2 repositories · documentation and walkthroughs</sub>
+<sub>3 repositories · documentation and walkthroughs</sub>
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub><br>
   A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.<br>
@@ -154,6 +160,9 @@
 - **[evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook)** <sub>huggingface</sub><br>
   A guidebook sharing practical and theoretical knowledge about evaluating large language models, drawn from experience managing the Open LLM…<br>
   <sub>`education` · [catalog entry](../../catalog/huggingface/evaluation-guidebook.md)</sub>
+- **[soul-md-templates](https://github.com/mizukaizen/soul-md-templates)** <sub>mizukaizen</sub><br>
+  A collection of five free Markdown SOUL.md identity templates for defining AI agent culture, domain, voice, and boundaries.<br>
+  <sub>[catalog entry](../../catalog/mizukaizen/soul-md-templates.md)</sub>
 
 ## Research code
 

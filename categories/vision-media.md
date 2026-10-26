@@ -3,6 +3,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](../catalog/FujiwaraChoki/MoneyPrinterV2.md)
 - [Vincentwei1021/anything2explainer](../catalog/Vincentwei1021/anything2explainer.md)
 - [alexandrerodenas/Pixo](../catalog/alexandrerodenas/Pixo.md)
+- [datalab-to/surya](../catalog/datalab-to/surya.md)
 - [debpalash/VoiceStudio](../catalog/debpalash/VoiceStudio.md)
 - [karust/openserp](../catalog/karust/openserp.md)
 - [libffcv/ffcv](../catalog/libffcv/ffcv.md)

@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 112 repositories, sorted by repository name.
+All 115 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
@@ -20,6 +20,7 @@ All 112 repositories, sorted by repository name.
 - **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub> — A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.
 - **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub> — A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.
 - **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub> — A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.
+- **[awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)** <sub>mergisi</sub> — A curated collection of copy-paste SOUL.md agent configuration templates for the OpenClaw ecosystem, organized into categories.
 - **[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** <sub>awesomedata</sub> — A curated, topic-centric list of public datasets organized by subject, with links to data sources and metadata.
 
 ## B
@@ -152,7 +153,9 @@ All 112 repositories, sorted by repository name.
 - **[sentence-transformers](https://github.com/huggingface/sentence-transformers)** <sub>huggingface</sub> — A Python framework for computing, training, and fine-tuning text embedding, reranker, sparse encoder, and multi-vector encoder models.
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** <sub>NVIDIA</sub> — SkillSpector is a security scanner that analyzes AI agent skills for vulnerabilities, prompt injection, data exfiltration, and supply-chain…
 - **[sling-cli](https://github.com/slingdata-io/sling-cli)** <sub>slingdata-io</sub> — Sling is a Go-based CLI tool for extract-and-load (EL) data pipelines, moving data between databases, file systems, and APIs.
+- **[soul-md-templates](https://github.com/mizukaizen/soul-md-templates)** <sub>mizukaizen</sub> — A collection of five free Markdown SOUL.md identity templates for defining AI agent culture, domain, voice, and boundaries.
 - **[streamlit](https://github.com/streamlit/streamlit)** <sub>streamlit</sub> — Streamlit is an open-source Python framework for turning scripts into interactive web apps and dashboards.
+- **[surya](https://github.com/datalab-to/surya)** <sub>datalab-to</sub> — Surya is a Python OCR toolkit built around a 650M-parameter model that provides text detection, OCR, layout analysis with reading order, and…
 - **[SwarmWorld](https://github.com/lamm-mit/SwarmWorld)** <sub>lamm-mit</sub> — SwarmWorld is a deterministic research environment for studying how societies of language-model agents discover, test, exchange, and embody…
 
 ## T
