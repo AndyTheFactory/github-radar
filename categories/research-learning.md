@@ -1,6 +1,7 @@
 # Research Learning
 
 - [AdArya125/Primer-to-Machine-Learning](../catalog/AdArya125/Primer-to-Machine-Learning.md)
+- [DopplerHQ/awesome-interview-questions](../catalog/DopplerHQ/awesome-interview-questions.md)
 - [Human-Agent-Society/reef](../catalog/Human-Agent-Society/reef.md)
 - [IntelLabs/nlp-architect](../catalog/IntelLabs/nlp-architect.md)
 - [Panniantong/Agent-Reach](../catalog/Panniantong/Agent-Reach.md)
@@ -28,6 +29,7 @@
 - [karpathy/autoresearch](../catalog/karpathy/autoresearch.md)
 - [lazyprogrammer/machine_learning_examples](../catalog/lazyprogrammer/machine_learning_examples.md)
 - [linexjlin/GPTs](../catalog/linexjlin/GPTs.md)
+- [papers-we-love/papers-we-love](../catalog/papers-we-love/papers-we-love.md)
 - [santiontanon/netherearth-disassembly](../catalog/santiontanon/netherearth-disassembly.md)
 - [tensorflow/models](../catalog/tensorflow/models.md)
 - [themanojdesai/genai-llm-ml-case-studies](../catalog/themanojdesai/genai-llm-ml-case-studies.md)

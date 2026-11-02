@@ -2,9 +2,9 @@
 
 # AI & Machine Learning
 
-52 repositories, grouped by what kind of thing they are.
+53 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (25) · [Apps & command-line tools](#apps--command-line-tools) (8) · [Curated lists & collections](#curated-lists--collections) (10) · [Guides & tutorials](#guides--tutorials) (3) · [Research code](#research-code) (6)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (25) · [Apps & command-line tools](#apps--command-line-tools) (9) · [Curated lists & collections](#curated-lists--collections) (10) · [Guides & tutorials](#guides--tutorials) (3) · [Research code](#research-code) (6)
 
 ## Libraries & frameworks
 
@@ -88,7 +88,7 @@
 
 ## Apps & command-line tools
 
-<sub>8 repositories · things you run</sub>
+<sub>9 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -105,6 +105,9 @@
 - **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** <sub>LibreChat-AI</sub><br>
   LibreChat is an open-source, self-hostable ChatGPT-style web interface supporting multiple AI model providers.<br>
   <sub>`inference-serving` `api-integration` `code-generation` · [catalog entry](../../catalog/LibreChat-AI/LibreChat.md)</sub>
+- **[OmniRoute](https://github.com/cheaper-inference/OmniRoute)** <sub>cheaper-inference</sub><br>
+  OmniRoute is described as an MIT-licensed AI gateway that exposes one endpoint routing to many third-party LLM providers, with quota-aware…<br>
+  <sub>`api-integration` `inference-serving` `agent-orchestration` · [catalog entry](../../catalog/cheaper-inference/OmniRoute.md)</sub>
 - **[paperclip](https://github.com/paperclipai/paperclip)** <sub>paperclipai</sub><br>
   Paperclip is an open-source Node.js server and React UI for orchestrating teams of AI agents toward business goals.<br>
   <sub>`agent-orchestration` `workflow-orchestration` `monitoring` · [catalog entry](../../catalog/paperclipai/paperclip.md)</sub>

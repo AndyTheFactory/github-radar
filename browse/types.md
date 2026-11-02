@@ -2,13 +2,13 @@
 
 # Browse by kind
 
-All 115 repositories, grouped by repository type.
+All 119 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (45) · [Apps & command-line tools](#apps--command-line-tools) (36) · [Curated lists & collections](#curated-lists--collections) (19) · [Guides & tutorials](#guides--tutorials) (8) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (46) · [Apps & command-line tools](#apps--command-line-tools) (37) · [Curated lists & collections](#curated-lists--collections) (20) · [Guides & tutorials](#guides--tutorials) (9) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
-<sub>45 repositories · code you import</sub>
+<sub>46 repositories · code you import</sub>
 
 - **[abydos](https://github.com/chrislit/abydos)** <sub>chrislit</sub><br>
   Abydos is a Python NLP and information retrieval library focused on string metrics, phonetic algorithms, and fuzzy matching.<br>
@@ -103,6 +103,9 @@ All 115 repositories, grouped by repository type.
 - **[OpenViking](https://github.com/volcengine/OpenViking)** <sub>volcengine</sub><br>
   OpenViking is an open-source context database for AI agents that organizes knowledge, memory, and skills as a virtual filesystem under viking://…<br>
   <sub>`indexing` `search-retrieval` `knowledge-management` · [catalog entry](../catalog/volcengine/OpenViking.md)</sub>
+- **[ponytail](https://github.com/DietrichGebert/ponytail)** <sub>DietrichGebert</sub><br>
+  Ponytail is an agent skill/prompt package that guides AI coding agents to write minimal code, with review and audit slash commands.<br>
+  <sub>`code-generation` `static-analysis` `reporting` · [catalog entry](../catalog/DietrichGebert/ponytail.md)</sub>
 - **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub><br>
   Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.<br>
   <sub>`data-validation` `data-transformation` · [catalog entry](../catalog/pydantic/pydantic.md)</sub>
@@ -148,7 +151,7 @@ All 115 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>36 repositories · things you run</sub>
+<sub>37 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -201,6 +204,9 @@ All 115 repositories, grouped by repository type.
 - **[nocodb](https://github.com/nocodb/nocodb)** <sub>nocodb</sub><br>
   NocoDB is a self-hostable, spreadsheet-style interface that turns databases into online, no-code databases, positioned as an Airtable…<br>
   <sub>`database-management` `api-integration` `storage` · [catalog entry](../catalog/nocodb/nocodb.md)</sub>
+- **[OmniRoute](https://github.com/cheaper-inference/OmniRoute)** <sub>cheaper-inference</sub><br>
+  OmniRoute is described as an MIT-licensed AI gateway that exposes one endpoint routing to many third-party LLM providers, with quota-aware…<br>
+  <sub>`api-integration` `inference-serving` `agent-orchestration` · [catalog entry](../catalog/cheaper-inference/OmniRoute.md)</sub>
 - **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** <sub>OpenAPITools</sub><br>
   Utility for comparing two OpenAPI specifications (3.x) and rendering the differences as HTML, Markdown, AsciiDoc, text, or JSON.<br>
   <sub>`api-integration` `static-analysis` `reporting` · [catalog entry](../catalog/OpenAPITools/openapi-diff.md)</sub>
@@ -261,7 +267,7 @@ All 115 repositories, grouped by repository type.
 
 ## Curated lists & collections
 
-<sub>19 repositories · reading lists, datasets, notebooks</sub>
+<sub>20 repositories · reading lists, datasets, notebooks</sub>
 
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub><br>
   A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.<br>
@@ -308,6 +314,9 @@ All 115 repositories, grouped by repository type.
 - **[models](https://github.com/tensorflow/models)** <sub>tensorflow</sub><br>
   TensorFlow Model Garden is a collection of model implementations and modeling solutions for TensorFlow, organized into official, research,…<br>
   <sub>`model-training` `inference-serving` `image-classification` · [catalog entry](../catalog/tensorflow/models.md)</sub>
+- **[papers-we-love](https://github.com/papers-we-love/papers-we-love)** <sub>papers-we-love</sub><br>
+  A curated directory of computer science papers, linking to where they can be found online, to support reading and discussion.<br>
+  <sub>[catalog entry](../catalog/papers-we-love/papers-we-love.md)</sub>
 - **[Primer-to-Machine-Learning](https://github.com/AdArya125/Primer-to-Machine-Learning)** <sub>AdArya125</sub><br>
   A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing,…<br>
   <sub>`education` · [catalog entry](../catalog/AdArya125/Primer-to-Machine-Learning.md)</sub>
@@ -323,7 +332,7 @@ All 115 repositories, grouped by repository type.
 
 ## Guides & tutorials
 
-<sub>8 repositories · documentation and walkthroughs</sub>
+<sub>9 repositories · documentation and walkthroughs</sub>
 
 - **[A\_Pipeline\_Of\_Pretraining\_Bert\_On\_Google\_TPU](https://github.com/pren1/A_Pipeline_Of_Pretraining_Bert_On_Google_TPU)** <sub>pren1</sub><br>
   A tutorial describing how to pretrain (further tune) a BERT model on a custom text dataset using Google TPUs.<br>
@@ -331,6 +340,9 @@ All 115 repositories, grouped by repository type.
 - **[anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** <sub>Vincentwei1021</sub><br>
   A Claude Code / Codex skill providing a Remotion (React + TypeScript) template, primitives library, tooling and specs for producing narrated…<br>
   <sub>`media-editing` `video-processing` `content-generation` · [catalog entry](../catalog/Vincentwei1021/anything2explainer.md)</sub>
+- **[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)** <sub>DopplerHQ</sub><br>
+  A curated, archived list of links to interview question collections across programming languages, frameworks, databases, and computer science…<br>
+  <sub>[catalog entry](../catalog/DopplerHQ/awesome-interview-questions.md)</sub>
 - **[eol-dr](https://github.com/potatoqualitee/eol-dr)** <sub>potatoqualitee</sub><br>
   A crowd-sourced, Markdown-based checklist guide intended to help technically skilled people prepare documentation and plans so non-technical…<br>
   <sub>`knowledge-management` · [catalog entry](../catalog/potatoqualitee/eol-dr.md)</sub>

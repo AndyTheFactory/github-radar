@@ -2,13 +2,13 @@
 
 # Developer Tools
 
-28 repositories, grouped by what kind of thing they are.
+29 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (12) · [Apps & command-line tools](#apps--command-line-tools) (12) · [Curated lists & collections](#curated-lists--collections) (3) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (13) · [Apps & command-line tools](#apps--command-line-tools) (12) · [Curated lists & collections](#curated-lists--collections) (3) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Libraries & frameworks
 
-<sub>12 repositories · code you import</sub>
+<sub>13 repositories · code you import</sub>
 
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** <sub>Panniantong</sub><br>
   Agent Reach is a Python CLI that equips AI agents with tools to read and search platforms such as Twitter/X, Reddit, YouTube, GitHub, Bilibili,…<br>
@@ -37,6 +37,9 @@
 - **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** <sub>okf-memory</sub><br>
   A Go project providing Git-native persistent memory for AI coding agents, following the Google OKF v0.2 knowledge format.<br>
   <sub>`knowledge-management` `search-retrieval` `indexing` · [catalog entry](../../catalog/okf-memory/okf-agent-memory.md)</sub>
+- **[ponytail](https://github.com/DietrichGebert/ponytail)** <sub>DietrichGebert</sub><br>
+  Ponytail is an agent skill/prompt package that guides AI coding agents to write minimal code, with review and audit slash commands.<br>
+  <sub>`code-generation` `static-analysis` `reporting` · [catalog entry](../../catalog/DietrichGebert/ponytail.md)</sub>
 - **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub><br>
   Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.<br>
   <sub>`data-validation` `data-transformation` · [catalog entry](../../catalog/pydantic/pydantic.md)</sub>

@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 115 repositories, sorted by repository name.
+All 119 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
@@ -17,6 +17,7 @@ All 115 repositories, sorted by repository name.
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub> — An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…
 - **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** <sub>aiming-lab</sub> — An autonomous research pipeline that takes a research idea and runs multi-stage processes to produce a paper, with optional human-in-the-loop…
 - **[awesome-hermes-usecases](https://github.com/aliaihub/awesome-hermes-usecases)** <sub>aliaihub</sub> — A curated, community-maintained collection of documented real-world use cases for the Hermes Agent AI agent from Nous Research.
+- **[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)** <sub>DopplerHQ</sub> — A curated, archived list of links to interview question collections across programming languages, frameworks, databases, and computer science…
 - **[awesome-jev](https://github.com/heyjunpenn/awesome-jev)** <sub>heyjunpenn</sub> — A community-maintained, curated catalog of 981 open-source projects built with Jev, a typed decision model from TypeSafe AI.
 - **[awesome-lightpanda](https://github.com/lightpanda-io/awesome-lightpanda)** <sub>lightpanda-io</sub> — A curated list of projects built with Lightpanda, a headless browser designed for AI and automation.
 - **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** <sub>Shubhamsaboo</sub> — A collection of open-source AI agent templates, agent skills, and RAG applications, each in its own directory.
@@ -119,6 +120,7 @@ All 115 repositories, sorted by repository name.
 ## O
 
 - **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** <sub>okf-memory</sub> — A Go project providing Git-native persistent memory for AI coding agents, following the Google OKF v0.2 knowledge format.
+- **[OmniRoute](https://github.com/cheaper-inference/OmniRoute)** <sub>cheaper-inference</sub> — OmniRoute is described as an MIT-licensed AI gateway that exposes one endpoint routing to many third-party LLM providers, with quota-aware…
 - **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** <sub>OpenAPITools</sub> — Utility for comparing two OpenAPI specifications (3.x) and rendering the differences as HTML, Markdown, AsciiDoc, text, or JSON.
 - **[OpenCLI](https://github.com/jackwener/OpenCLI)** <sub>jackwener</sub> — OpenCLI converts websites into command-line interfaces and lets AI agents operate a user's logged-in Chrome browser via navigate, click, fill,…
 - **[openserp](https://github.com/karust/openserp)** <sub>karust</sub> — OpenSERP is a self-hosted Go application that provides a CLI and HTTP API for searching Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia…
@@ -128,10 +130,12 @@ All 115 repositories, sorted by repository name.
 ## P
 
 - **[paperclip](https://github.com/paperclipai/paperclip)** <sub>paperclipai</sub> — Paperclip is an open-source Node.js server and React UI for orchestrating teams of AI agents toward business goals.
+- **[papers-we-love](https://github.com/papers-we-love/papers-we-love)** <sub>papers-we-love</sub> — A curated directory of computer science papers, linking to where they can be found online, to support reading and discussion.
 - **[photocraft](https://github.com/storytold/photocraft)** <sub>storytold</sub> — PhotoCraft is an open-source, clean-room reimplementation of Adobe Photoshop written in pure Rust.
 - **[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** <sub>Diolinux</sub> — PhotoGIMP is a community-maintained patch for GIMP 3+ that reorganizes the tool layout, splash screen, canvas defaults, keyboard shortcuts, and…
 - **[Pixo](https://github.com/alexandrerodenas/Pixo)** <sub>alexandrerodenas</sub> — Pixo is a browser-based web application that organizes local photos using TensorFlow.js models (MobileNet, COCO-SSD) for scene classification…
 - **[playwright-lightpanda](https://github.com/ahrdadan/playwright-lightpanda)** <sub>ahrdadan</sub> — Demonstrates using Lightpanda as a lightweight browser backend for a Playwright Python client over the Chrome DevTools Protocol.
+- **[ponytail](https://github.com/DietrichGebert/ponytail)** <sub>DietrichGebert</sub> — Ponytail is an agent skill/prompt package that guides AI coding agents to write minimal code, with review and audit slash commands.
 - **[Primer-to-Machine-Learning](https://github.com/AdArya125/Primer-to-Machine-Learning)** <sub>AdArya125</sub> — A collection of Jupyter notebooks organized as a structured primer covering machine learning topics such as statistics, data preprocessing,…
 - **[pydantic](https://github.com/pydantic/pydantic)** <sub>pydantic</sub> — Pydantic is a Python library for data validation and parsing using type hints, with a V2 rewrite and a bundled V1.10 compatibility module.
 - **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** <sub>pydantic</sub> — Pydantic AI is a Python SDK providing a typed agent loop that works across many LLM providers.
