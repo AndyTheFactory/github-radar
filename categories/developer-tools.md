@@ -47,6 +47,7 @@
 - [lightpanda-io/awesome-lightpanda](../catalog/lightpanda-io/awesome-lightpanda.md)
 - [lightpanda-io/browser](../catalog/lightpanda-io/browser.md)
 - [linny006/trending-claude-skills](../catalog/linny006/trending-claude-skills.md)
+- [microsoft/TokenEconomizer](../catalog/microsoft/TokenEconomizer.md)
 - [microsoft/agent-framework](../catalog/microsoft/agent-framework.md)
 - [mksglu/context-mode](../catalog/mksglu/context-mode.md)
 - [morluto/rea](../catalog/morluto/rea.md)

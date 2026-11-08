@@ -2,9 +2,9 @@
 
 # Developer Tools
 
-29 repositories, grouped by what kind of thing they are.
+30 repositories, grouped by what kind of thing they are.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (13) · [Apps & command-line tools](#apps--command-line-tools) (12) · [Curated lists & collections](#curated-lists--collections) (3) · [Guides & tutorials](#guides--tutorials) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (13) · [Apps & command-line tools](#apps--command-line-tools) (13) · [Curated lists & collections](#curated-lists--collections) (3) · [Guides & tutorials](#guides--tutorials) (1)
 
 ## Libraries & frameworks
 
@@ -52,7 +52,7 @@
 
 ## Apps & command-line tools
 
-<sub>12 repositories · things you run</sub>
+<sub>13 repositories · things you run</sub>
 
 - **[backpass](https://github.com/kunchenguid/backpass)** <sub>kunchenguid</sub><br>
   backpass is a CLI tool that improves AGENTS.md, CLAUDE.md, and project skills by analyzing local agent session transcripts and proposing…<br>
@@ -81,6 +81,9 @@
 - **[openserp](https://github.com/karust/openserp)** <sub>karust</sub><br>
   OpenSERP is a self-hosted Go application that provides a CLI and HTTP API for searching Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia…<br>
   <sub>`api-integration` `web-scraping` `search-retrieval` · [catalog entry](../../catalog/karust/openserp.md)</sub>
+- **[TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** <sub>microsoft</sub><br>
+  TokenEconomizer is a plugin for coding agents such as Claude Code, Codex, and GitHub Copilot CLI that reduces token cost by learning repository…<br>
+  <sub>`automation` `monitoring` `code-generation` · [catalog entry](../../catalog/microsoft/TokenEconomizer.md)</sub>
 - **[tracelint](https://github.com/AshwinUgale/tracelint)** <sub>AshwinUgale</sub><br>
   tracelint is a deterministic linter that reads agent execution traces and flags structural defects such as ignored errors, schema violations,…<br>
   <sub>`static-analysis` `testing` `observability` · [catalog entry](../../catalog/AshwinUgale/tracelint.md)</sub>

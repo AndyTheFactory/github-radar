@@ -2,9 +2,9 @@
 
 # Browse by kind
 
-All 119 repositories, grouped by repository type.
+All 120 repositories, grouped by repository type.
 
-**Jump to** [Libraries & frameworks](#libraries--frameworks) (46) · [Apps & command-line tools](#apps--command-line-tools) (37) · [Curated lists & collections](#curated-lists--collections) (20) · [Guides & tutorials](#guides--tutorials) (9) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
+**Jump to** [Libraries & frameworks](#libraries--frameworks) (46) · [Apps & command-line tools](#apps--command-line-tools) (38) · [Curated lists & collections](#curated-lists--collections) (20) · [Guides & tutorials](#guides--tutorials) (9) · [Research code](#research-code) (6) · [Other projects](#other-projects) (1)
 
 ## Libraries & frameworks
 
@@ -151,7 +151,7 @@ All 119 repositories, grouped by repository type.
 
 ## Apps & command-line tools
 
-<sub>37 repositories · things you run</sub>
+<sub>38 repositories · things you run</sub>
 
 - **[autoresearch](https://github.com/karpathy/autoresearch)** <sub>karpathy</sub><br>
   An autonomous research setup where an AI agent edits a single-GPU LLM training script, runs five-minute training experiments, and keeps or…<br>
@@ -243,6 +243,9 @@ All 119 repositories, grouped by repository type.
 - **[sling-cli](https://github.com/slingdata-io/sling-cli)** <sub>slingdata-io</sub><br>
   Sling is a Go-based CLI tool for extract-and-load (EL) data pipelines, moving data between databases, file systems, and APIs.<br>
   <sub>`data-ingestion` `data-transformation` `storage` · [catalog entry](../catalog/slingdata-io/sling-cli.md)</sub>
+- **[TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** <sub>microsoft</sub><br>
+  TokenEconomizer is a plugin for coding agents such as Claude Code, Codex, and GitHub Copilot CLI that reduces token cost by learning repository…<br>
+  <sub>`automation` `monitoring` `code-generation` · [catalog entry](../catalog/microsoft/TokenEconomizer.md)</sub>
 - **[ToolReplay](https://github.com/brandynfisher/ToolReplay)** <sub>brandynfisher</sub><br>
   ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic…<br>
   <sub>`static-analysis` · [catalog entry](../catalog/brandynfisher/ToolReplay.md)</sub>

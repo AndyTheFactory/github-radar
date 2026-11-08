@@ -2,7 +2,7 @@
 
 # A–Z directory
 
-All 119 repositories, sorted by repository name.
+All 120 repositories, sorted by repository name.
 
 **[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)**
 
@@ -168,6 +168,7 @@ All 119 repositories, sorted by repository name.
 - **[taipy](https://github.com/Avaiga/taipy)** <sub>Avaiga</sub> — Taipy is a Python library for building data and AI web applications, with user interface generation, pipeline orchestration, and scenario…
 - **[text\_classification](https://github.com/brightmart/text_classification)** <sub>brightmart</sub> — A collection of deep learning baseline models for text classification, including multi-label classification.
 - **[TF2-albert-NER](https://github.com/DUTANGx/TF2-albert-NER)** <sub>DUTANGx</sub> — Wraps ALBERT as a tf.keras layer using bert-for-tf2 and implements named entity recognition (NER) with CRF and Bi-LSTM models.
+- **[TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** <sub>microsoft</sub> — TokenEconomizer is a plugin for coding agents such as Claude Code, Codex, and GitHub Copilot CLI that reduces token cost by learning repository…
 - **[ToolReplay](https://github.com/brandynfisher/ToolReplay)** <sub>brandynfisher</sub> — ToolReplay is a dependency-free Python CLI that audits recorded AI agent tool-call transcripts for hash-chain sealing, non-deterministic…
 - **[tracelint](https://github.com/AshwinUgale/tracelint)** <sub>AshwinUgale</sub> — tracelint is a deterministic linter that reads agent execution traces and flags structural defects such as ignored errors, schema violations,…
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** <sub>TauricResearch</sub> — TradingAgents is a multi-agent LLM framework for financial trading analysis, with analyst, research, and trader roles.

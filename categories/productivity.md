@@ -16,6 +16,7 @@
 - [jackwener/OpenCLI](../catalog/jackwener/OpenCLI.md)
 - [kunchenguid/backpass](../catalog/kunchenguid/backpass.md)
 - [mergisi/awesome-openclaw-agents](../catalog/mergisi/awesome-openclaw-agents.md)
+- [microsoft/TokenEconomizer](../catalog/microsoft/TokenEconomizer.md)
 - [mizukaizen/soul-md-templates](../catalog/mizukaizen/soul-md-templates.md)
 - [mksglu/context-mode](../catalog/mksglu/context-mode.md)
 - [mwstowe/foff-milter](../catalog/mwstowe/foff-milter.md)

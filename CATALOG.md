@@ -1,6 +1,6 @@
 # Catalog
 
-**119 repositories archived.**
+**120 repositories archived.**
 
 Search the repository using GitHub Code Search or browse entries below.
 
@@ -72,6 +72,7 @@ Search the repository using GitHub Code Search or browse entries below.
 - [mergisi/awesome-openclaw-agents](catalog/mergisi/awesome-openclaw-agents.md)
 - [microsoft/agent-framework](catalog/microsoft/agent-framework.md)
 - [microsoft/markitdown](catalog/microsoft/markitdown.md)
+- [microsoft/TokenEconomizer](catalog/microsoft/TokenEconomizer.md)
 - [mizukaizen/soul-md-templates](catalog/mizukaizen/soul-md-templates.md)
 - [mksglu/context-mode](catalog/mksglu/context-mode.md)
 - [morluto/rea](catalog/morluto/rea.md)

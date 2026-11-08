@@ -59,6 +59,7 @@
 - [linexjlin/GPTs](../catalog/linexjlin/GPTs.md)
 - [linny006/trending-claude-skills](../catalog/linny006/trending-claude-skills.md)
 - [mergisi/awesome-openclaw-agents](../catalog/mergisi/awesome-openclaw-agents.md)
+- [microsoft/TokenEconomizer](../catalog/microsoft/TokenEconomizer.md)
 - [microsoft/agent-framework](../catalog/microsoft/agent-framework.md)
 - [microsoft/markitdown](../catalog/microsoft/markitdown.md)
 - [mizukaizen/soul-md-templates](../catalog/mizukaizen/soul-md-templates.md)
